@@ -1,11 +1,8 @@
 package com.skd.cottagecraft.setup;
 
 import com.skd.cottagecraft.block.storage.CabinetBlock;
-import com.skd.cottagecraft.compat.invtweaks.InvTweaksCompat;
 import com.skd.cottagecraft.registry.ModBlockEntities;
 import net.neoforged.bus.api.IEventBus;
-import net.neoforged.fml.ModList;
-import net.neoforged.fml.event.lifecycle.InterModEnqueueEvent;
 import net.neoforged.neoforge.capabilities.Capabilities;
 import net.neoforged.neoforge.capabilities.RegisterCapabilitiesEvent;
 import net.neoforged.neoforge.items.wrapper.InvWrapper;
@@ -20,7 +17,6 @@ public final class StorageSetup {
 
 	/** Register mod bus and {@code NeoForge.EVENT_BUS} listeners here. */
 	public static void init(IEventBus modBus) {
-		modBus.addListener(StorageSetup::enqueueImc);
 	}
 
 	/** Called from {@link RegisterCapabilitiesEvent}. */
@@ -35,11 +31,5 @@ public final class StorageSetup {
 
 	/** Called during FMLCommonSetupEvent (already inside enqueueWork: not thread safe work is fine). */
 	public static void commonSetup() {
-	}
-
-	private static void enqueueImc(InterModEnqueueEvent event) {
-		if (ModList.get().isLoaded(InvTweaksCompat.MODID)) {
-			InvTweaksCompat.sendImc();
-		}
 	}
 }

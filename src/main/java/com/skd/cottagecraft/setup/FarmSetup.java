@@ -1,6 +1,5 @@
 package com.skd.cottagecraft.setup;
 
-import com.skd.cottagecraft.compat.dynamictrees.DynamicTreesCompat;
 import com.skd.cottagecraft.registry.ModBlocks;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
@@ -22,7 +21,6 @@ public final class FarmSetup {
 
 	/** Register mod bus and {@code NeoForge.EVENT_BUS} listeners here. */
 	public static void init(IEventBus modBus) {
-		DynamicTreesCompat.init(modBus);
 	}
 
 	/** Called from {@link RegisterCapabilitiesEvent}. */

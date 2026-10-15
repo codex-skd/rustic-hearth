@@ -685,7 +685,6 @@ public class RusticLanguageProvider extends LanguageProvider {
 			add("cottagecraft.configuration.maxWildberryAttempts", "Max Wildberry Attempts");
 			add("cottagecraft.configuration.compat", "Mod Compatibility Options");
 			add("cottagecraft.configuration.enableSilverDecor", "Enable Silver Decorations");
-			add("cottagecraft.configuration.enableDynamicTreesCompat", "Enable Dynamic Trees Compatibility");
 			add("cottagecraft.configuration.client", "Client Options");
 			add("cottagecraft.configuration.extraArmorHud", "Extra Armor HUD");
 			add("cottagecraft.configuration.armorToughnessHud", "Armor Toughness HUD");
@@ -1176,7 +1175,6 @@ public class RusticLanguageProvider extends LanguageProvider {
 			add("cottagecraft.configuration.enableBottleEmptying", "Permitir vaciar botellas");
 			add("cottagecraft.configuration.enableChairs", "Activar sillas");
 			add("cottagecraft.configuration.enableClayWalls", "Activar paredes de adobe");
-			add("cottagecraft.configuration.enableDynamicTreesCompat", "Activar compatibilidad con Dynamic Trees");
 			add("cottagecraft.configuration.enableLattice", "Activar enrejado");
 			add("cottagecraft.configuration.enableOliveOiling", "Permitir ponerle aceite de oliva a la comida");
 			add("cottagecraft.configuration.enablePaintedWood", "Activar madera pintada");

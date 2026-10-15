@@ -1,7 +1,0 @@
-{
-  "loader": "dynamictrees:branch",
-  "textures": {
-    "bark": "cottagecraft:block/log_olive",
-    "rings": "cottagecraft:block/log_olive_top"
-  }
-}

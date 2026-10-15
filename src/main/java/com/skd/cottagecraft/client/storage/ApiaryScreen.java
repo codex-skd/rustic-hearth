@@ -9,8 +9,7 @@ import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.entity.player.Inventory;
 
 /**
- * Apiary screen (legacy GuiApiary). Blacklisted from Inventory Tweaks sorting by class name
- * (see {@link com.skd.cottagecraft.compat.invtweaks.InvTweaksCompat}): keep the name in sync.
+ * Apiary screen (legacy GuiApiary).
  */
 public class ApiaryScreen extends AbstractContainerScreen<ApiaryMenu> {
 	private static final ResourceLocation BACKGROUND = Cottagecraft.id("textures/gui/apiary.png");

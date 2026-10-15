@@ -13,7 +13,6 @@ import com.skd.cottagecraft.datagen.providers.RusticLanguageProvider;
 import com.skd.cottagecraft.datagen.providers.RusticLootModifierProvider;
 import com.skd.cottagecraft.datagen.providers.RusticRecipeProvider;
 import com.skd.cottagecraft.datagen.providers.RusticTagProviders;
-import com.skd.cottagecraft.datagen.providers.RusticTreepackProvider;
 import com.skd.cottagecraft.datagen.providers.RusticWorldGenProvider;
 import net.minecraft.core.HolderLookup;
 import net.minecraft.data.DataGenerator;
@@ -65,6 +64,5 @@ public final class DataGenerators {
 		generator.addProvider(event.includeServer(), new RusticDataMapProvider(output, lookup));
 		generator.addProvider(event.includeServer(), new RusticLootModifierProvider(output, lookup));
 		generator.addProvider(event.includeServer(), new RusticAdvancementProvider(output, lookup, helper));
-		generator.addProvider(event.includeServer(), new RusticTreepackProvider(output));
 	}
 }

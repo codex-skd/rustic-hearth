@@ -33,36 +33,8 @@ ordering = "AFTER"
 side = "BOTH"
 
 [[dependencies.${mod_id}]]
-modId = "kubejs"
-type = "optional"
-versionRange = "${kubejs_version_range}"
-ordering = "AFTER"
-side = "BOTH"
-
-[[dependencies.${mod_id}]]
-modId = "crafttweaker"
-type = "optional"
-versionRange = "*"
-ordering = "AFTER"
-side = "BOTH"
-
-[[dependencies.${mod_id}]]
 modId = "quark"
 type = "optional"
 versionRange = "*"
 ordering = "AFTER"
 side = "BOTH"
-
-[[dependencies.${mod_id}]]
-modId = "dynamictrees"
-type = "optional"
-versionRange = "*"
-ordering = "AFTER"
-side = "BOTH"
-
-[[dependencies.${mod_id}]]
-modId = "invtweaks"
-type = "optional"
-versionRange = "*"
-ordering = "AFTER"
-side = "CLIENT"

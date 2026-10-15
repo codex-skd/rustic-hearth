@@ -7,7 +7,6 @@ import java.util.function.Supplier;
 import com.mojang.serialization.Codec;
 import com.mojang.serialization.DataResult;
 
-import com.skd.cottagecraft.compat.dynamictrees.DynamicTreesCompat;
 import com.skd.cottagecraft.config.RusticConfig;
 import net.neoforged.neoforge.common.ModConfigSpec;
 
@@ -36,11 +35,11 @@ public final class WorldGenOptions {
 			"slateVeinsPerChunk", () -> RusticConfig.COMMON.slateVeinsPerChunk,
 			"slateVeinSize", () -> RusticConfig.COMMON.slateVeinSize);
 
-	/** Boolean switches. {@code staticTrees} is false when Dynamic Trees generates the trees. */
+	/** Boolean switches. */
 	private static final Map<String, BooleanSupplier> FLAGS = Map.of(
 			"enableSlate", () -> value(RusticConfig.COMMON.enableSlate),
 			"netherSlate", () -> value(RusticConfig.COMMON.netherSlate),
-			"staticTrees", () -> !DynamicTreesCompat.isActive());
+			"staticTrees", () -> true);
 
 	public static final Codec<String> CHANCE = optionCodec(CHANCES);
 	public static final Codec<String> COUNT = optionCodec(COUNTS);

@@ -1,7 +1,0 @@
-{
-  "parent": "dynamictrees:item/branch",
-  "textures": {
-    "bark": "cottagecraft:block/log_ironwood",
-    "rings": "cottagecraft:block/log_ironwood_top"
-  }
-}

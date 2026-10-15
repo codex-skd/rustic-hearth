@@ -80,7 +80,6 @@ public final class RusticConfig {
 
 		// compat
 		public final ModConfigSpec.BooleanValue enableSilverDecor;
-		public final ModConfigSpec.BooleanValue enableDynamicTreesCompat;
 
 		Common(ModConfigSpec.Builder b) {
 			b.comment("General Options").push("general");
@@ -164,8 +163,6 @@ public final class RusticConfig {
 			b.comment("Mod Compatibility Related Options").push("compat");
 			enableSilverDecor = b.comment("set this to false to disable silver chain, chandelier, candle, and lantern blocks")
 					.define("enableSilverDecor", true);
-			enableDynamicTreesCompat = b.comment("when Dynamic Trees is installed, generate dynamic olive and ironwood trees instead of the static ones")
-					.define("enableDynamicTreesCompat", true);
 			b.pop();
 		}
 
