@@ -1,9 +1,9 @@
 {
   "values": [
-    "cottagecraft:apple_juice",
-    "cottagecraft:grape_juice",
-    "cottagecraft:ironberry_juice",
-    "cottagecraft:wildberry_juice",
-    "cottagecraft:golden_apple_juice"
+    "rustic_hearth:apple_juice",
+    "rustic_hearth:grape_juice",
+    "rustic_hearth:ironberry_juice",
+    "rustic_hearth:wildberry_juice",
+    "rustic_hearth:golden_apple_juice"
   ]
 }

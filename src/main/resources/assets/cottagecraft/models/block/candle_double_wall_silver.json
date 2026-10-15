@@ -1,8 +1,0 @@
-{
-	"parent": "cottagecraft:block/candle_double_wall",
-	"render_type": "minecraft:cutout",
-	"textures": {
-		"candle": "cottagecraft:block/candle_double_silver",
-		"particle": "cottagecraft:block/candle_double_silver"
-	}
-}

@@ -1,0 +1,41 @@
+{
+  "type": "rustic_hearth:condenser",
+  "advanced": true,
+  "bottle": {
+    "item": "minecraft:glass_bottle"
+  },
+  "fluid": {
+    "amount": 125,
+    "fluid": "minecraft:water"
+  },
+  "ingredients": [
+    {
+      "item": "rustic_hearth:ironberries"
+    },
+    {
+      "item": "minecraft:leather"
+    },
+    {
+      "item": "minecraft:clay_ball"
+    }
+  ],
+  "result": {
+    "components": {
+      "minecraft:potion_contents": {
+        "custom_effects": [
+          {
+            "duration": 3600,
+            "id": "rustic_hearth:iron_skin",
+            "neoforge:cures": [
+              "milk",
+              "protected_by_totem"
+            ],
+            "show_icon": true
+          }
+        ]
+      }
+    },
+    "count": 1,
+    "id": "rustic_hearth:elixir"
+  }
+}

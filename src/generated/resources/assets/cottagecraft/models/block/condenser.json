@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/orientable",
-  "textures": {
-    "front": "cottagecraft:block/condenser_front",
-    "side": "cottagecraft:block/condenser_side",
-    "top": "cottagecraft:block/condenser_bottom"
-  }
-}

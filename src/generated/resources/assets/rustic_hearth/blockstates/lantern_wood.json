@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "rustic_hearth:block/lantern_wood_wall",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "rustic_hearth:block/lantern_wood_wall"
+    },
+    "facing=south": {
+      "model": "rustic_hearth:block/lantern_wood_wall",
+      "y": 180
+    },
+    "facing=up": {
+      "model": "rustic_hearth:block/lantern_wood"
+    },
+    "facing=west": {
+      "model": "rustic_hearth:block/lantern_wood_wall",
+      "y": 270
+    }
+  }
+}

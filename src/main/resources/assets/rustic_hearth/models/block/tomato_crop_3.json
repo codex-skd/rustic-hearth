@@ -1,0 +1,7 @@
+{
+  "render_type": "minecraft:cutout",
+  "parent": "rustic_hearth:block/stake_crop",
+  "textures": {
+    "crop": "rustic_hearth:block/tomato_crop_3"
+  }
+}

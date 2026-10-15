@@ -1,0 +1,10 @@
+{
+  "type": "rustic_hearth:crushing_tub",
+  "ingredient": {
+    "item": "rustic_hearth:vanta_lily"
+  },
+  "result": {
+    "amount": 250,
+    "id": "rustic_hearth:vanta_oil"
+  }
+}

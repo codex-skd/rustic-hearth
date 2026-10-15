@@ -1,5 +1,0 @@
-{
-  "parent": "neoforge:item/bucket",
-  "fluid": "cottagecraft:ale_wort",
-  "loader": "neoforge:fluid_container"
-}

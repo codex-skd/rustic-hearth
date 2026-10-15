@@ -1,0 +1,9 @@
+{
+	"parent": "rustic_hearth:block/chandelier",
+	"render_type": "minecraft:cutout",
+	"textures": {
+		"chandelier": "rustic_hearth:block/chandelier_gold",
+		"chain": "rustic_hearth:block/chain_gold",
+		"particle": "rustic_hearth:block/chandelier_gold"
+	}
+}

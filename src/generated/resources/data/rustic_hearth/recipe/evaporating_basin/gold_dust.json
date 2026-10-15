@@ -1,0 +1,11 @@
+{
+  "type": "rustic_hearth:evaporating_basin",
+  "fluid": {
+    "amount": 100,
+    "fluid": "rustic_hearth:golden_apple_juice"
+  },
+  "result": {
+    "count": 1,
+    "id": "rustic_hearth:gold_dust"
+  }
+}

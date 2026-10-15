@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "rustic_hearth:block/fertile_soil",
+    "side": "rustic_hearth:block/fertile_soil",
+    "top": "minecraft:block/farmland_moist"
+  }
+}

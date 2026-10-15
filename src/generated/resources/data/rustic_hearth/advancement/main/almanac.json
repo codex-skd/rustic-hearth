@@ -1,0 +1,33 @@
+{
+  "parent": "rustic_hearth:main/root",
+  "criteria": {
+    "has_almanac": {
+      "conditions": {
+        "items": [
+          {
+            "items": "rustic_hearth:almanac"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.rustic_hearth.almanac.desc"
+    },
+    "icon": {
+      "count": 1,
+      "id": "rustic_hearth:almanac"
+    },
+    "title": {
+      "translate": "advancements.rustic_hearth.almanac"
+    }
+  },
+  "requirements": [
+    [
+      "has_almanac"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

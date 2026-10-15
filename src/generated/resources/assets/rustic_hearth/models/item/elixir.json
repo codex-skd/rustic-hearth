@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "rustic_hearth:item/elixir_overlay",
+    "layer1": "rustic_hearth:item/elixir_bottle"
+  }
+}

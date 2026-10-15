@@ -1,0 +1,29 @@
+{
+  "feature": "rustic_hearth:beehive",
+  "placement": [
+    {
+      "type": "rustic_hearth:config_chance",
+      "option": "beehiveGenChance"
+    },
+    {
+      "type": "rustic_hearth:config_count",
+      "option": "maxBeehiveAttempts"
+    },
+    {
+      "type": "minecraft:random_offset",
+      "xz_spread": {
+        "type": "minecraft:uniform",
+        "max_inclusive": 15,
+        "min_inclusive": 1
+      },
+      "y_spread": 0
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "MOTION_BLOCKING"
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

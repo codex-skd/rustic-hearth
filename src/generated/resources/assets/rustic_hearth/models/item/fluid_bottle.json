@@ -1,0 +1,53 @@
+{
+  "parent": "neoforge:item/default",
+  "fluid": "minecraft:empty",
+  "loader": "neoforge:fluid_container",
+  "overrides": [
+    {
+      "model": "rustic_hearth:item/fluid_bottle_ale",
+      "predicate": {
+        "rustic_hearth:booze": 1.0
+      }
+    },
+    {
+      "model": "rustic_hearth:item/fluid_bottle_cider",
+      "predicate": {
+        "rustic_hearth:booze": 2.0
+      }
+    },
+    {
+      "model": "rustic_hearth:item/fluid_bottle_iron_wine",
+      "predicate": {
+        "rustic_hearth:booze": 3.0
+      }
+    },
+    {
+      "model": "rustic_hearth:item/fluid_bottle_mead",
+      "predicate": {
+        "rustic_hearth:booze": 4.0
+      }
+    },
+    {
+      "model": "rustic_hearth:item/fluid_bottle_wildberry_wine",
+      "predicate": {
+        "rustic_hearth:booze": 5.0
+      }
+    },
+    {
+      "model": "rustic_hearth:item/fluid_bottle_wine",
+      "predicate": {
+        "rustic_hearth:booze": 6.0
+      }
+    },
+    {
+      "model": "rustic_hearth:item/fluid_bottle_ambrosia",
+      "predicate": {
+        "rustic_hearth:booze": 7.0
+      }
+    }
+  ],
+  "textures": {
+    "base": "minecraft:item/potion",
+    "fluid": "minecraft:item/potion_overlay"
+  }
+}

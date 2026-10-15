@@ -1,0 +1,11 @@
+{
+  "parent": "neoforge:item/default",
+  "cover_is_mask": false,
+  "fluid": "rustic_hearth:cider",
+  "loader": "neoforge:fluid_container",
+  "textures": {
+    "base": "rustic_hearth:item/alcohol_bottle",
+    "cover": "rustic_hearth:item/alcohol_label",
+    "fluid": "rustic_hearth:item/alcohol_overlay"
+  }
+}

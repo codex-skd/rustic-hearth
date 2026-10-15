@@ -1,7 +1,7 @@
 {
   "values": [
-    "cottagecraft:chain",
-    "cottagecraft:chain_gold",
-    "cottagecraft:chain_silver"
+    "rustic_hearth:chain",
+    "rustic_hearth:chain_gold",
+    "rustic_hearth:chain_silver"
   ]
 }

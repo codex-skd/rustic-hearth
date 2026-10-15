@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "rustic_hearth:block/ironwood_slab"
+    },
+    "type=double": {
+      "model": "rustic_hearth:block/ironwood_planks"
+    },
+    "type=top": {
+      "model": "rustic_hearth:block/ironwood_slab_top"
+    }
+  }
+}

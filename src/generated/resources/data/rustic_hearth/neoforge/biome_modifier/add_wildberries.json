@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#rustic_hearth:has_feature/wildberries",
+  "features": "rustic_hearth:wildberries",
+  "step": "vegetal_decoration"
+}

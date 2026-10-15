@@ -1,0 +1,6 @@
+{
+  "parent": "rustic_hearth:block/table_leg_template",
+  "textures": {
+    "planks": "minecraft:block/bamboo_planks"
+  }
+}

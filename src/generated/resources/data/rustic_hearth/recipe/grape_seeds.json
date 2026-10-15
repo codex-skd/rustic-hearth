@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "rustic_hearth:grapes"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "rustic_hearth:grape_stem"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "rustic_hearth:brewing",
+  "input": {
+    "fluid": "rustic_hearth:ale_wort"
+  },
+  "result": {
+    "amount": 1,
+    "id": "rustic_hearth:ale"
+  }
+}

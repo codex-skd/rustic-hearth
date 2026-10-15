@@ -1,0 +1,10 @@
+{
+  "type": "rustic_hearth:brewing",
+  "input": {
+    "tag": "c:honey"
+  },
+  "result": {
+    "amount": 1,
+    "id": "rustic_hearth:mead"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "parent": "rustic_hearth:vases/vase_0",
+  "overrides": [
+    {
+      "model": "rustic_hearth:vases/vase_1",
+      "predicate": {
+        "rustic_hearth:design": 1.0
+      }
+    },
+    {
+      "model": "rustic_hearth:vases/vase_2",
+      "predicate": {
+        "rustic_hearth:design": 2.0
+      }
+    },
+    {
+      "model": "rustic_hearth:vases/vase_3",
+      "predicate": {
+        "rustic_hearth:design": 3.0
+      }
+    },
+    {
+      "model": "rustic_hearth:vases/vase_4",
+      "predicate": {
+        "rustic_hearth:design": 4.0
+      }
+    },
+    {
+      "model": "rustic_hearth:vases/vase_5",
+      "predicate": {
+        "rustic_hearth:design": 5.0
+      }
+    },
+    {
+      "model": "rustic_hearth:vases/vase_6",
+      "predicate": {
+        "rustic_hearth:design": 6.0
+      }
+    },
+    {
+      "model": "rustic_hearth:vases/vase_7",
+      "predicate": {
+        "rustic_hearth:design": 7.0
+      }
+    },
+    {
+      "model": "rustic_hearth:vases/vase_8",
+      "predicate": {
+        "rustic_hearth:design": 8.0
+      }
+    },
+    {
+      "model": "rustic_hearth:vases/vase_9",
+      "predicate": {
+        "rustic_hearth:design": 9.0
+      }
+    },
+    {
+      "model": "rustic_hearth:vases/vase_10",
+      "predicate": {
+        "rustic_hearth:design": 10.0
+      }
+    },
+    {
+      "model": "rustic_hearth:vases/vase_11",
+      "predicate": {
+        "rustic_hearth:design": 11.0
+      }
+    },
+    {
+      "model": "rustic_hearth:vases/vase_12",
+      "predicate": {
+        "rustic_hearth:design": 12.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "rustic_hearth:crushing_tub",
+  "byproduct": {
+    "count": 1,
+    "id": "rustic_hearth:apple_seeds"
+  },
+  "ingredient": {
+    "item": "minecraft:apple"
+  },
+  "result": {
+    "amount": 250,
+    "id": "rustic_hearth:apple_juice"
+  }
+}

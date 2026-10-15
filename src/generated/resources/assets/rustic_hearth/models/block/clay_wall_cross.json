@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "rustic_hearth:block/clay_wall_cross"
+  }
+}

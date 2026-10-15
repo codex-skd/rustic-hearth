@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/cube_bottom_top",
-  "textures": {
-    "bottom": "cottagecraft:block/fertile_soil",
-    "side": "cottagecraft:block/fertile_soil",
-    "top": "minecraft:block/farmland_moist"
-  }
-}

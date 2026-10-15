@@ -1,11 +1,11 @@
-# Cottagecraft — Logo de CurseForge
+# Rustic Hearth — Logo de CurseForge
 
 > Prompt para generar el avatar del proyecto en CurseForge (400×400). Misma familia visual que los logos del ecosistema: fondo violeta con nebulosa, marco dorado, pixel-art y un único color de acento por mod (aquí, **rojo vino / borgoña**, distinto del verde té de Steeped, el turquesa de Enchanter's Bench, el naranja brasa de Mobweave Core, el verde lima de Primitive Menagerie y el magenta de Soulbound Summoner).
 
 ## Prompt
 
 ```
-Pixel-art mod icon for a Minecraft NeoForge mod called "Cottagecraft". 400x400 square, perfectly centered.
+Pixel-art mod icon for a Minecraft NeoForge mod called "Rustic Hearth". 400x400 square, perfectly centered.
 
 SUBJECT: a cosy rustic still life on a small wooden cottage table: a plump oak barrel with iron bands and a tap
 in the center, a wooden chair with a round woven cushion to its left, and on the table a glass bottle of deep wine-red

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "rustic_hearth:block/gargoyle",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "rustic_hearth:block/gargoyle",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "rustic_hearth:block/gargoyle"
+    },
+    "facing=west": {
+      "model": "rustic_hearth:block/gargoyle",
+      "y": 90
+    }
+  }
+}

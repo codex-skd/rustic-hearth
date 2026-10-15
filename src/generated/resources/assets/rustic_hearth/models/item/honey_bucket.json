@@ -1,0 +1,5 @@
+{
+  "parent": "neoforge:item/bucket",
+  "fluid": "rustic_hearth:honey",
+  "loader": "neoforge:fluid_container"
+}

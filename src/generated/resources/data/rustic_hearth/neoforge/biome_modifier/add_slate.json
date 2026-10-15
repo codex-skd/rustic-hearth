@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#rustic_hearth:has_feature/slate",
+  "features": "rustic_hearth:slate",
+  "step": "underground_ores"
+}

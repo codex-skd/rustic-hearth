@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "rustic_hearth:block/olive_slab"
+    },
+    "type=double": {
+      "model": "rustic_hearth:block/olive_planks"
+    },
+    "type=top": {
+      "model": "rustic_hearth:block/olive_slab_top"
+    }
+  }
+}

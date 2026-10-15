@@ -1,0 +1,9 @@
+{
+	"parent": "rustic_hearth:block/lantern_up",
+	"render_type": "minecraft:cutout",
+	"textures": {
+		"top": "rustic_hearth:block/lantern_top_silver",
+		"side": "rustic_hearth:block/lantern_side_silver",
+		"particle": "rustic_hearth:block/lantern_side_silver"
+	}
+}

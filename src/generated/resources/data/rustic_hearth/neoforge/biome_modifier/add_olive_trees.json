@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#rustic_hearth:has_feature/olive_trees",
+  "features": "rustic_hearth:olive_trees",
+  "step": "vegetal_decoration"
+}

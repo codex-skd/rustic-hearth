@@ -1,0 +1,11 @@
+{
+  "type": "rustic_hearth:evaporating_basin",
+  "fluid": {
+    "amount": 500,
+    "fluid": "rustic_hearth:ironberry_juice"
+  },
+  "result": {
+    "count": 1,
+    "id": "rustic_hearth:tiny_iron_dust"
+  }
+}

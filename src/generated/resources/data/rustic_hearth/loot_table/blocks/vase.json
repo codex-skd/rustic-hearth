@@ -1,0 +1,49 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:copy_components",
+              "include": [
+                "minecraft:custom_name"
+              ],
+              "source": "block_entity"
+            },
+            {
+              "block": "rustic_hearth:vase",
+              "conditions": [
+                {
+                  "condition": "minecraft:inverted",
+                  "term": {
+                    "block": "rustic_hearth:vase",
+                    "condition": "minecraft:block_state_property",
+                    "properties": {
+                      "variant": "0"
+                    }
+                  }
+                }
+              ],
+              "function": "minecraft:copy_state",
+              "properties": [
+                "variant"
+              ]
+            }
+          ],
+          "name": "rustic_hearth:vase"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "rustic_hearth:blocks/vase"
+}

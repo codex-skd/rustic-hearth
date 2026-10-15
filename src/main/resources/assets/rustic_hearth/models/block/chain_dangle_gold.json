@@ -1,0 +1,8 @@
+{
+  "parent": "rustic_hearth:block/chain_dangle",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "particle": "rustic_hearth:block/chain_gold",
+    "chain": "rustic_hearth:block/chain_gold"
+  }
+}

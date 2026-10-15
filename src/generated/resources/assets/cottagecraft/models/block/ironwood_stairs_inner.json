@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/inner_stairs",
-  "textures": {
-    "bottom": "cottagecraft:block/planks_ironwood",
-    "side": "cottagecraft:block/planks_ironwood",
-    "top": "cottagecraft:block/planks_ironwood"
-  }
-}

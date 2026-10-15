@@ -1,0 +1,9 @@
+{
+  "parent": "rustic_hearth:block/vase_0",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "bottom": "rustic_hearth:block/vases/vase_bottom_5",
+    "side": "rustic_hearth:block/vases/vase_side_5",
+    "top": "rustic_hearth:block/vases/vase_top_5"
+  }
+}

@@ -1,150 +1,150 @@
 {
   "values": {
-    "cottagecraft:apiary": {
+    "rustic_hearth:apiary": {
       "burn_time": 300
     },
-    "cottagecraft:apple_sapling": {
+    "rustic_hearth:apple_sapling": {
       "burn_time": 100
     },
-    "cottagecraft:barrel": {
+    "rustic_hearth:barrel": {
       "burn_time": 300
     },
-    "cottagecraft:brewing_barrel": {
+    "rustic_hearth:brewing_barrel": {
       "burn_time": 300
     },
-    "cottagecraft:cabinet": {
+    "rustic_hearth:cabinet": {
       "burn_time": 300
     },
-    "cottagecraft:chair_acacia": {
+    "rustic_hearth:chair_acacia": {
       "burn_time": 300
     },
-    "cottagecraft:chair_bamboo": {
+    "rustic_hearth:chair_bamboo": {
       "burn_time": 300
     },
-    "cottagecraft:chair_birch": {
+    "rustic_hearth:chair_birch": {
       "burn_time": 300
     },
-    "cottagecraft:chair_cherry": {
+    "rustic_hearth:chair_cherry": {
       "burn_time": 300
     },
-    "cottagecraft:chair_dark_oak": {
+    "rustic_hearth:chair_dark_oak": {
       "burn_time": 300
     },
-    "cottagecraft:chair_ironwood": {
+    "rustic_hearth:chair_ironwood": {
       "burn_time": 300
     },
-    "cottagecraft:chair_jungle": {
+    "rustic_hearth:chair_jungle": {
       "burn_time": 300
     },
-    "cottagecraft:chair_mangrove": {
+    "rustic_hearth:chair_mangrove": {
       "burn_time": 300
     },
-    "cottagecraft:chair_oak": {
+    "rustic_hearth:chair_oak": {
       "burn_time": 300
     },
-    "cottagecraft:chair_olive": {
+    "rustic_hearth:chair_olive": {
       "burn_time": 300
     },
-    "cottagecraft:chair_spruce": {
+    "rustic_hearth:chair_spruce": {
       "burn_time": 300
     },
-    "cottagecraft:crushing_tub": {
+    "rustic_hearth:crushing_tub": {
       "burn_time": 300
     },
-    "cottagecraft:ironwood_sapling": {
+    "rustic_hearth:ironwood_sapling": {
       "burn_time": 100
     },
-    "cottagecraft:lantern_wood": {
+    "rustic_hearth:lantern_wood": {
       "burn_time": 300
     },
-    "cottagecraft:liquid_barrel": {
+    "rustic_hearth:liquid_barrel": {
       "burn_time": 300
     },
-    "cottagecraft:olive_sapling": {
+    "rustic_hearth:olive_sapling": {
       "burn_time": 100
     },
-    "cottagecraft:painted_wood_black": {
+    "rustic_hearth:painted_wood_black": {
       "burn_time": 300
     },
-    "cottagecraft:painted_wood_blue": {
+    "rustic_hearth:painted_wood_blue": {
       "burn_time": 300
     },
-    "cottagecraft:painted_wood_brown": {
+    "rustic_hearth:painted_wood_brown": {
       "burn_time": 300
     },
-    "cottagecraft:painted_wood_cyan": {
+    "rustic_hearth:painted_wood_cyan": {
       "burn_time": 300
     },
-    "cottagecraft:painted_wood_gray": {
+    "rustic_hearth:painted_wood_gray": {
       "burn_time": 300
     },
-    "cottagecraft:painted_wood_green": {
+    "rustic_hearth:painted_wood_green": {
       "burn_time": 300
     },
-    "cottagecraft:painted_wood_light_blue": {
+    "rustic_hearth:painted_wood_light_blue": {
       "burn_time": 300
     },
-    "cottagecraft:painted_wood_light_gray": {
+    "rustic_hearth:painted_wood_light_gray": {
       "burn_time": 300
     },
-    "cottagecraft:painted_wood_lime": {
+    "rustic_hearth:painted_wood_lime": {
       "burn_time": 300
     },
-    "cottagecraft:painted_wood_magenta": {
+    "rustic_hearth:painted_wood_magenta": {
       "burn_time": 300
     },
-    "cottagecraft:painted_wood_orange": {
+    "rustic_hearth:painted_wood_orange": {
       "burn_time": 300
     },
-    "cottagecraft:painted_wood_pink": {
+    "rustic_hearth:painted_wood_pink": {
       "burn_time": 300
     },
-    "cottagecraft:painted_wood_purple": {
+    "rustic_hearth:painted_wood_purple": {
       "burn_time": 300
     },
-    "cottagecraft:painted_wood_red": {
+    "rustic_hearth:painted_wood_red": {
       "burn_time": 300
     },
-    "cottagecraft:painted_wood_white": {
+    "rustic_hearth:painted_wood_white": {
       "burn_time": 300
     },
-    "cottagecraft:painted_wood_yellow": {
+    "rustic_hearth:painted_wood_yellow": {
       "burn_time": 300
     },
-    "cottagecraft:table_acacia": {
+    "rustic_hearth:table_acacia": {
       "burn_time": 300
     },
-    "cottagecraft:table_bamboo": {
+    "rustic_hearth:table_bamboo": {
       "burn_time": 300
     },
-    "cottagecraft:table_birch": {
+    "rustic_hearth:table_birch": {
       "burn_time": 300
     },
-    "cottagecraft:table_cherry": {
+    "rustic_hearth:table_cherry": {
       "burn_time": 300
     },
-    "cottagecraft:table_dark_oak": {
+    "rustic_hearth:table_dark_oak": {
       "burn_time": 300
     },
-    "cottagecraft:table_ironwood": {
+    "rustic_hearth:table_ironwood": {
       "burn_time": 300
     },
-    "cottagecraft:table_jungle": {
+    "rustic_hearth:table_jungle": {
       "burn_time": 300
     },
-    "cottagecraft:table_mangrove": {
+    "rustic_hearth:table_mangrove": {
       "burn_time": 300
     },
-    "cottagecraft:table_oak": {
+    "rustic_hearth:table_oak": {
       "burn_time": 300
     },
-    "cottagecraft:table_olive": {
+    "rustic_hearth:table_olive": {
       "burn_time": 300
     },
-    "cottagecraft:table_spruce": {
+    "rustic_hearth:table_spruce": {
       "burn_time": 300
     },
-    "cottagecraft:wildberry_bush": {
+    "rustic_hearth:wildberry_bush": {
       "burn_time": 200
     }
   }

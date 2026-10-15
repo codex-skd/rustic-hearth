@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "rustic_hearth:config",
+      "option": "enableSlate"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "rustic_hearth:slate_brick"
+  },
+  "result": {
+    "count": 2,
+    "id": "rustic_hearth:slate_brick_slab"
+  }
+}

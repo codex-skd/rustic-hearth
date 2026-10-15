@@ -1,0 +1,11 @@
+{
+  "type": "rustic_hearth:brewing",
+  "input": {
+    "fluid": "rustic_hearth:golden_apple_juice"
+  },
+  "quality": "ambrosia",
+  "result": {
+    "amount": 1,
+    "id": "rustic_hearth:ambrosia"
+  }
+}

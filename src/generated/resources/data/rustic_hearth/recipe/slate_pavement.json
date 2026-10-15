@@ -1,0 +1,26 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "rustic_hearth:config",
+      "option": "enableSlate"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "B": {
+      "item": "rustic_hearth:slate_brick"
+    },
+    "S": {
+      "item": "rustic_hearth:slate"
+    }
+  },
+  "pattern": [
+    "SB",
+    "BS"
+  ],
+  "result": {
+    "count": 4,
+    "id": "rustic_hearth:slate_pavement"
+  }
+}

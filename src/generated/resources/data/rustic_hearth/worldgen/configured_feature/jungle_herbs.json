@@ -1,0 +1,46 @@
+{
+  "type": "minecraft:simple_block",
+  "config": {
+    "to_place": {
+      "type": "minecraft:weighted_state_provider",
+      "entries": [
+        {
+          "data": {
+            "Name": "rustic_hearth:blood_orchid",
+            "Properties": {
+              "age": "3"
+            }
+          },
+          "weight": 1
+        },
+        {
+          "data": {
+            "Name": "rustic_hearth:horsetail",
+            "Properties": {
+              "age": "3"
+            }
+          },
+          "weight": 1
+        },
+        {
+          "data": {
+            "Name": "rustic_hearth:marsh_mallow",
+            "Properties": {
+              "age": "3"
+            }
+          },
+          "weight": 1
+        },
+        {
+          "data": {
+            "Name": "rustic_hearth:mooncap_mushroom",
+            "Properties": {
+              "age": "3"
+            }
+          },
+          "weight": 1
+        }
+      ]
+    }
+  }
+}

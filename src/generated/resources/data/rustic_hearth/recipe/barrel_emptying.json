@@ -1,0 +1,13 @@
+{
+  "type": "rustic_hearth:shapeless_no_remainder",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "rustic_hearth:liquid_barrel"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "rustic_hearth:liquid_barrel"
+  }
+}

@@ -1,4 +1,4 @@
-<h1 align="center">&#127863; Cottagecraft</h1>
+<h1 align="center">&#127863; Rustic Hearth</h1>
 
 <p align="center"><strong>Cozy rural decoration, farming, brewing and alchemy. A NeoForge 1.21.1 fork of Rustic Revived.</strong></p>
 
@@ -20,7 +20,7 @@
 <table>
 <tr>
 <td width="65%">
-<p>Cottagecraft brings a medieval countryside to your world: <strong>furniture and decoration</strong> for a cosy cottage, <strong>vineyards, olive groves and herb gardens</strong>, <strong>bees</strong>, a <strong>brewing barrel</strong> for booze and an <strong>alchemy workshop</strong> to turn herbs into elixirs. A built-in <strong>Almanac</strong> explains every machine and recipe.</p>
+<p>Rustic Hearth brings a medieval countryside to your world: <strong>furniture and decoration</strong> for a cosy cottage, <strong>vineyards, olive groves and herb gardens</strong>, <strong>bees</strong>, a <strong>brewing barrel</strong> for booze and an <strong>alchemy workshop</strong> to turn herbs into elixirs. A built-in <strong>Almanac</strong> explains every machine and recipe.</p>
 
 <p>It is a fork of <strong>Rustic Revived</strong> (NeoForge, by NadienDev), which is a port of <strong>Rustic</strong> (1.12.2) by cadaverous-eris and the-realest-stu. <strong>The code and assets have been modified.</strong> This fork is unofficial and is not affiliated with or endorsed by the original authors.</p>
 </td>
@@ -105,7 +105,7 @@
 <li><strong>License: MIT</strong>, the same as Rustic Revived and Rustic. Credit to <strong>cadaverous-eris</strong> and <strong>the-realest-stu</strong> (Rustic) and <strong>NadienDev</strong> (Rustic Revived). <strong>The code and assets have been modified.</strong></li>
 <li>Originals: <a href="https://www.curseforge.com/minecraft/mc-mods/rustic"><strong>Rustic</strong></a> and <a href="https://www.curseforge.com/minecraft/mc-mods/rustic-revived"><strong>Rustic Revived</strong></a>. This fork is unofficial.</li>
 <li>Compared with Rustic Revived, the optional integrations with CraftTweaker, KubeJS, Dynamic Trees and InvTweaks have been removed (JEI and Quark are kept).</li>
-<li>Every block and item lives in the <code>cottagecraft</code> namespace, so it does not clash with Rustic or Rustic Revived if you install them side by side.</li>
+<li>Every block and item lives in the <code>rustic_hearth</code> namespace, so it does not clash with Rustic or Rustic Revived if you install them side by side.</li>
 <li><strong>Beta:</strong> the mod builds and the dedicated server starts cleanly, but it has not been played in-game yet. Expect rough edges.</li>
 </ul>
 

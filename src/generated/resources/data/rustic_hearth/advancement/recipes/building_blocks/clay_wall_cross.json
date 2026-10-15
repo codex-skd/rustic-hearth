@@ -1,0 +1,38 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "rustic_hearth:config",
+      "option": "enableClayWalls"
+    }
+  ],
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_clay_wall": {
+      "conditions": {
+        "items": [
+          {
+            "items": "rustic_hearth:clay_wall"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "rustic_hearth:clay_wall_cross"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_clay_wall"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "rustic_hearth:clay_wall_cross"
+    ]
+  }
+}

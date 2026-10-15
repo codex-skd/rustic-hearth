@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "C": {
+      "item": "rustic_hearth:candle"
+    },
+    "R": {
+      "tag": "c:dusts/redstone"
+    }
+  },
+  "pattern": [
+    "C",
+    "R"
+  ],
+  "result": {
+    "count": 1,
+    "id": "rustic_hearth:candle_lever"
+  }
+}

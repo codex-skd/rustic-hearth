@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "rustic_hearth:block/slate_roof_slab"
+    },
+    "type=double": {
+      "model": "rustic_hearth:block/slate_roof"
+    },
+    "type=top": {
+      "model": "rustic_hearth:block/slate_roof_slab_top"
+    }
+  }
+}

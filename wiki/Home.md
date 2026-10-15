@@ -1,7 +1,7 @@
-# Cottagecraft #
-Cottagecraft is an unofficial port of [Rustic](https://github.com/cadaverous-eris/Rustic) by cadaverous-eris to **NeoForge 1.21.1** and **26.1.2**. This wiki covers the **1.21.1** version. Rustic is a mod that adds many medieval-themed features to Minecraft.
+# Rustic Hearth #
+Rustic Hearth is an unofficial port of [Rustic](https://github.com/cadaverous-eris/Rustic) by cadaverous-eris to **NeoForge 1.21.1** and **26.1.2**. This wiki covers the **1.21.1** version. Rustic is a mod that adds many medieval-themed features to Minecraft.
 
-In 1.21.1 and newer, every block, item, fluid and recipe lives in the `cottagecraft` namespace (for example `cottagecraft:olive_log`), while the mod id is `rustic`. JEI finds the mod's items with both `@rustic` and `@cottagecraft`.
+In 1.21.1 and newer, every block, item, fluid and recipe lives in the `rustic_hearth` namespace (for example `rustic_hearth:olive_log`), while the mod id is `rustic`. JEI finds the mod's items with both `@rustic` and `@rustic_hearth`.
 
 ***
 

@@ -39,7 +39,7 @@ gradle/localmaven
 legacy-1.12.2
 /curseforge.md
 
-# Cottagecraft: reference sources (read-only, never versioned)
+# Rustic Hearth: reference sources (read-only, never versioned)
 temp/
 
 # GitHub workflow copied from Rustic Revived: not used here (GitLab project)

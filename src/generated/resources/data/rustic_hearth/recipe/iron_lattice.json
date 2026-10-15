@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "rustic_hearth:config",
+      "option": "enableLattice"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "tag": "c:ingots/iron"
+    }
+  },
+  "pattern": [
+    " I ",
+    "III",
+    " I "
+  ],
+  "result": {
+    "count": 16,
+    "id": "rustic_hearth:iron_lattice"
+  }
+}

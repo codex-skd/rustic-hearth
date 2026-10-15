@@ -1,0 +1,10 @@
+{
+  "type": "rustic_hearth:crushing_tub",
+  "ingredient": {
+    "item": "rustic_hearth:wildberries"
+  },
+  "result": {
+    "amount": 250,
+    "id": "rustic_hearth:wildberry_juice"
+  }
+}

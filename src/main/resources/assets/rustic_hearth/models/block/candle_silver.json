@@ -1,0 +1,8 @@
+{
+	"parent": "rustic_hearth:block/candle",
+	"render_type": "minecraft:cutout",
+	"textures": {
+		"candle": "rustic_hearth:block/candle_silver",
+		"particle": "rustic_hearth:block/candle_silver"
+	}
+}

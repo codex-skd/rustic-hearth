@@ -1,0 +1,19 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "rustic_hearth:config",
+      "option": "enableBottleEmptying"
+    }
+  ],
+  "type": "rustic_hearth:shapeless_no_remainder",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "rustic_hearth:fluid_bottle"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:glass_bottle"
+  }
+}

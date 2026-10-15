@@ -1,60 +1,60 @@
 {
   "values": {
-    "#cottagecraft:herbs": {
+    "#rustic_hearth:herbs": {
       "chance": 0.65
     },
-    "cottagecraft:apple_leaves": {
+    "rustic_hearth:apple_leaves": {
       "chance": 0.3
     },
-    "cottagecraft:apple_sapling": {
+    "rustic_hearth:apple_sapling": {
       "chance": 0.3
     },
-    "cottagecraft:apple_seeds": {
+    "rustic_hearth:apple_seeds": {
       "chance": 0.3
     },
-    "cottagecraft:chili_pepper": {
+    "rustic_hearth:chili_pepper": {
       "chance": 0.65
     },
-    "cottagecraft:chili_pepper_seeds": {
+    "rustic_hearth:chili_pepper_seeds": {
       "chance": 0.3
     },
-    "cottagecraft:ghost_pepper": {
+    "rustic_hearth:ghost_pepper": {
       "chance": 0.65
     },
-    "cottagecraft:grape_stem": {
+    "rustic_hearth:grape_stem": {
       "chance": 0.3
     },
-    "cottagecraft:grapes": {
+    "rustic_hearth:grapes": {
       "chance": 0.3
     },
-    "cottagecraft:ironberries": {
+    "rustic_hearth:ironberries": {
       "chance": 0.3
     },
-    "cottagecraft:ironwood_leaves": {
+    "rustic_hearth:ironwood_leaves": {
       "chance": 0.3
     },
-    "cottagecraft:ironwood_sapling": {
+    "rustic_hearth:ironwood_sapling": {
       "chance": 0.3
     },
-    "cottagecraft:olive_leaves": {
+    "rustic_hearth:olive_leaves": {
       "chance": 0.3
     },
-    "cottagecraft:olive_sapling": {
+    "rustic_hearth:olive_sapling": {
       "chance": 0.3
     },
-    "cottagecraft:olives": {
+    "rustic_hearth:olives": {
       "chance": 0.3
     },
-    "cottagecraft:tomato": {
+    "rustic_hearth:tomato": {
       "chance": 0.65
     },
-    "cottagecraft:tomato_seeds": {
+    "rustic_hearth:tomato_seeds": {
       "chance": 0.3
     },
-    "cottagecraft:wildberries": {
+    "rustic_hearth:wildberries": {
       "chance": 0.3
     },
-    "cottagecraft:wildberry_bush": {
+    "rustic_hearth:wildberry_bush": {
       "chance": 0.65
     }
   }

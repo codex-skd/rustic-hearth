@@ -1,0 +1,6 @@
+{
+  "parent": "rustic_hearth:block/table_template",
+  "textures": {
+    "planks": "minecraft:block/spruce_planks"
+  }
+}

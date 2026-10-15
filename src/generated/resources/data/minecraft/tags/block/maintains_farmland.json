@@ -1,11 +1,11 @@
 {
   "values": [
-    "cottagecraft:tomato_crop",
-    "cottagecraft:chili_crop",
-    "cottagecraft:grape_stem",
-    "cottagecraft:crop_stake",
-    "cottagecraft:stake_tied",
-    "cottagecraft:apple_seeds",
-    "#cottagecraft:herbs"
+    "rustic_hearth:tomato_crop",
+    "rustic_hearth:chili_crop",
+    "rustic_hearth:grape_stem",
+    "rustic_hearth:crop_stake",
+    "rustic_hearth:stake_tied",
+    "rustic_hearth:apple_seeds",
+    "#rustic_hearth:herbs"
   ]
 }

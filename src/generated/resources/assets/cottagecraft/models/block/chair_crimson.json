@@ -1,6 +1,0 @@
-{
-  "parent": "cottagecraft:block/chair_template",
-  "textures": {
-    "planks": "minecraft:block/crimson_planks"
-  }
-}

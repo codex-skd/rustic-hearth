@@ -1,0 +1,50 @@
+{
+  "parent": "rustic_hearth:main/the_good_stuff",
+  "criteria": {
+    "has_max_quality_wine": {
+      "conditions": {
+        "items": [
+          {
+            "predicates": {
+              "rustic_hearth:booze": {
+                "fluid": "rustic_hearth:wine",
+                "quality": {
+                  "min": 0.999
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.rustic_hearth.winemaxxing.desc"
+    },
+    "frame": "challenge",
+    "icon": {
+      "components": {
+        "rustic_hearth:fluid": {
+          "amount": 250,
+          "components": {
+            "rustic_hearth:booze_quality": 1.0
+          },
+          "id": "rustic_hearth:wine"
+        }
+      },
+      "count": 1,
+      "id": "rustic_hearth:fluid_bottle"
+    },
+    "title": {
+      "translate": "advancements.rustic_hearth.winemaxxing"
+    }
+  },
+  "requirements": [
+    [
+      "has_max_quality_wine"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

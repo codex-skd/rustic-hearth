@@ -1,0 +1,5 @@
+{
+  "parent": "neoforge:item/bucket",
+  "fluid": "rustic_hearth:vanta_oil",
+  "loader": "neoforge:fluid_container"
+}

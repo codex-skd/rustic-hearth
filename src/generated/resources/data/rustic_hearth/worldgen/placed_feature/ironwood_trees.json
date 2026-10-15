@@ -1,0 +1,49 @@
+{
+  "feature": "rustic_hearth:ironwood_tree",
+  "placement": [
+    {
+      "type": "rustic_hearth:config_filter",
+      "option": "staticTrees"
+    },
+    {
+      "type": "rustic_hearth:config_chance",
+      "option": "ironwoodGenChance"
+    },
+    {
+      "type": "rustic_hearth:config_count",
+      "option": "maxIronwoodGenAttempts"
+    },
+    {
+      "type": "minecraft:random_offset",
+      "xz_spread": {
+        "type": "minecraft:uniform",
+        "max_inclusive": 13,
+        "min_inclusive": 3
+      },
+      "y_spread": 0
+    },
+    {
+      "type": "minecraft:surface_water_depth_filter",
+      "max_water_depth": 0
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "OCEAN_FLOOR"
+    },
+    {
+      "type": "minecraft:biome"
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:would_survive",
+        "state": {
+          "Name": "rustic_hearth:ironwood_sapling",
+          "Properties": {
+            "stage": "0"
+          }
+        }
+      }
+    }
+  ]
+}

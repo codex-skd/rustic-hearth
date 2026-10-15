@@ -1,0 +1,10 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "rustic_hearth:config",
+      "option": "enableOliveOiling"
+    }
+  ],
+  "type": "rustic_hearth:olive_oil",
+  "category": "misc"
+}

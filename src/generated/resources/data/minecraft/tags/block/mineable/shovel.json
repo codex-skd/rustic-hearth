@@ -1,8 +1,8 @@
 {
   "values": [
-    "cottagecraft:clay_wall",
-    "cottagecraft:clay_wall_cross",
-    "cottagecraft:clay_wall_diag",
-    "cottagecraft:fertile_soil"
+    "rustic_hearth:clay_wall",
+    "rustic_hearth:clay_wall_cross",
+    "rustic_hearth:clay_wall_diag",
+    "rustic_hearth:fertile_soil"
   ]
 }

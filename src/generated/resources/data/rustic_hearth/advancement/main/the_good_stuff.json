@@ -1,0 +1,39 @@
+{
+  "parent": "rustic_hearth:main/root",
+  "criteria": {
+    "has_quality_beverage": {
+      "conditions": {
+        "items": [
+          {
+            "predicates": {
+              "rustic_hearth:booze": {
+                "quality": {
+                  "min": 0.8999
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.rustic_hearth.the_good_stuff.desc"
+    },
+    "icon": {
+      "count": 1,
+      "id": "rustic_hearth:brewing_barrel"
+    },
+    "title": {
+      "translate": "advancements.rustic_hearth.the_good_stuff"
+    }
+  },
+  "requirements": [
+    [
+      "has_quality_beverage"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

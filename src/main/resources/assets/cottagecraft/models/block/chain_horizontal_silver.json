@@ -1,8 +1,0 @@
-{
-	"parent": "cottagecraft:block/chain_horizontal",
-	"render_type": "minecraft:cutout",
-	"textures": {
-		"chain": "cottagecraft:block/chain_silver",
-		"particle": "cottagecraft:block/chain_silver"
-	}
-}

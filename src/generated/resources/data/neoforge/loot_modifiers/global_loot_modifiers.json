@@ -1,7 +1,7 @@
 {
   "entries": [
-    "cottagecraft:grass_seeds",
-    "cottagecraft:grape_seeds"
+    "rustic_hearth:grass_seeds",
+    "rustic_hearth:grape_seeds"
   ],
   "replace": false
 }

@@ -1,5 +1,0 @@
-{
-  "parent": "neoforge:item/bucket",
-  "fluid": "cottagecraft:olive_oil",
-  "loader": "neoforge:fluid_container"
-}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "rustic_hearth:condenser_advanced",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "bottom": "true"
+              }
+            }
+          ],
+          "name": "rustic_hearth:condenser_advanced"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "rustic_hearth:blocks/condenser_advanced"
+}

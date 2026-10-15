@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "rustic_hearth:block/pillar_stone_top",
+    "side": "rustic_hearth:block/pillar_stone_side"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "rustic_hearth:block/chair_template",
+  "textures": {
+    "planks": "rustic_hearth:block/planks_olive"
+  }
+}

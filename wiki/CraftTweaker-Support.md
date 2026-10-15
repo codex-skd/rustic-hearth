@@ -1,51 +1,51 @@
-Cottagecraft includes [CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker) integration so that modpack makers can add and remove recipes for its custom crafting systems.
+Rustic Hearth includes [CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker) integration so that modpack makers can add and remove recipes for its custom crafting systems.
 > CraftTweaker support is only available in the **1.21.1** version. For 26.1.2, use [KubeJS](KubeJS-Support.md) or a datapack.
 
-Every manager is available both as `mods.cottagecraft.<Name>` and as a recipe type (`<recipetype:cottagecraft:...>`), so the standard CraftTweaker methods (`remove`, `removeByName`, `removeByModid`, `removeAll`...) also work. The methods that take a `name` create the recipe `crafttweaker:<name>`; the others generate a name automatically.
+Every manager is available both as `mods.rustic_hearth.<Name>` and as a recipe type (`<recipetype:rustic_hearth:...>`), so the standard CraftTweaker methods (`remove`, `removeByName`, `removeByModid`, `removeAll`...) also work. The methods that take a `name` create the recipe `crafttweaker:<name>`; the others generate a name automatically.
 
 ***
 
 ## Crushing Tub Recipes ##
-`mods.cottagecraft.CrushingTub` / `<recipetype:cottagecraft:crushing_tub>`
+`mods.rustic_hearth.CrushingTub` / `<recipetype:rustic_hearth:crushing_tub>`
 ```
 // name, output fluid, input ingredient, optional item byproduct
-mods.cottagecraft.CrushingTub.addRecipe("melon_water", <fluid:minecraft:water> * 125, <item:minecraft:melon_slice>);
-mods.cottagecraft.CrushingTub.addRecipe("pumpkin_water", <fluid:minecraft:water> * 250, <item:minecraft:pumpkin>, <item:minecraft:pumpkin_seeds>);
+mods.rustic_hearth.CrushingTub.addRecipe("melon_water", <fluid:minecraft:water> * 125, <item:minecraft:melon_slice>);
+mods.rustic_hearth.CrushingTub.addRecipe("pumpkin_water", <fluid:minecraft:water> * 250, <item:minecraft:pumpkin>, <item:minecraft:pumpkin_seeds>);
 
 // legacy order: output, byproduct (can be null), input
-mods.cottagecraft.CrushingTub.addRecipe(<fluid:minecraft:water> * 125, null, <item:minecraft:melon_slice>);
+mods.rustic_hearth.CrushingTub.addRecipe(<fluid:minecraft:water> * 125, null, <item:minecraft:melon_slice>);
 ```
 To remove recipes:
 ```
-mods.cottagecraft.CrushingTub.removeRecipe(<item:cottagecraft:grapes>);                                 // by input
-mods.cottagecraft.CrushingTub.removeRecipe(<fluid:cottagecraft:apple_juice>);                           // by output
-mods.cottagecraft.CrushingTub.removeRecipe(<fluid:cottagecraft:apple_juice>, <item:minecraft:apple>);   // by output and input
+mods.rustic_hearth.CrushingTub.removeRecipe(<item:rustic_hearth:grapes>);                                 // by input
+mods.rustic_hearth.CrushingTub.removeRecipe(<fluid:rustic_hearth:apple_juice>);                           // by output
+mods.rustic_hearth.CrushingTub.removeRecipe(<fluid:rustic_hearth:apple_juice>, <item:minecraft:apple>);   // by output and input
 ```
 
 ## Evaporating Basin Recipes ##
-`mods.cottagecraft.EvaporatingBasin` / `<recipetype:cottagecraft:evaporating_basin>`
+`mods.rustic_hearth.EvaporatingBasin` / `<recipetype:rustic_hearth:evaporating_basin>`
 ```
 // name, output item, input fluid, optional time in ticks (0 or left out = the fluid amount, minimum 20)
-mods.cottagecraft.EvaporatingBasin.addRecipe("salt", <item:minecraft:sugar>, <fluid:cottagecraft:olive_oil> * 750);
-mods.cottagecraft.EvaporatingBasin.addRecipe("quick_salt", <item:minecraft:sugar>, <fluid:cottagecraft:olive_oil> * 750, 200);
+mods.rustic_hearth.EvaporatingBasin.addRecipe("salt", <item:minecraft:sugar>, <fluid:rustic_hearth:olive_oil> * 750);
+mods.rustic_hearth.EvaporatingBasin.addRecipe("quick_salt", <item:minecraft:sugar>, <fluid:rustic_hearth:olive_oil> * 750, 200);
 
 // without a name
-mods.cottagecraft.EvaporatingBasin.addRecipe(<item:minecraft:sugar>, <fluid:cottagecraft:olive_oil> * 750);
+mods.rustic_hearth.EvaporatingBasin.addRecipe(<item:minecraft:sugar>, <fluid:rustic_hearth:olive_oil> * 750);
 ```
 To remove recipes:
 ```
-mods.cottagecraft.EvaporatingBasin.removeRecipe(<item:cottagecraft:tiny_iron_dust>);   // by output
-mods.cottagecraft.EvaporatingBasin.removeRecipe(<fluid:cottagecraft:ironberry_juice>); // by input fluid
+mods.rustic_hearth.EvaporatingBasin.removeRecipe(<item:rustic_hearth:tiny_iron_dust>);   // by output
+mods.rustic_hearth.EvaporatingBasin.removeRecipe(<fluid:rustic_hearth:ironberry_juice>); // by input fluid
 ```
 
 ## Alchemy Recipes ##
-`mods.cottagecraft.Condenser` / `<recipetype:cottagecraft:condenser>`
+`mods.rustic_hearth.Condenser` / `<recipetype:rustic_hearth:condenser>`
 
 Elixirs store their effects in the vanilla `minecraft:potion_contents` component, just like potions:
 ```
-val slowness = <item:cottagecraft:elixir>.withJsonComponent(<componenttype:minecraft:potion_contents>,
+val slowness = <item:rustic_hearth:elixir>.withJsonComponent(<componenttype:minecraft:potion_contents>,
     {custom_effects: [{id: "minecraft:slowness", duration: 1800}]});
-val longSlowness = <item:cottagecraft:elixir>.withJsonComponent(<componenttype:minecraft:potion_contents>,
+val longSlowness = <item:rustic_hearth:elixir>.withJsonComponent(<componenttype:minecraft:potion_contents>,
     {custom_effects: [{id: "minecraft:slowness", duration: 4800}]});
 ```
 
@@ -54,12 +54,12 @@ Alchemy recipes are divided into *simple* recipes, made in the standard condense
 
 Simple method (two inputs, no modifier):
 ```
-mods.cottagecraft.Condenser.addRecipe(slowness, <item:minecraft:cobweb>, <item:minecraft:vine>);
+mods.rustic_hearth.Condenser.addRecipe(slowness, <item:minecraft:cobweb>, <item:minecraft:vine>);
 ```
 
 Full method:
 ```
-mods.cottagecraft.Condenser.addRecipe(name, output, inputs, modifier, bottle, fluid, time, advanced);
+mods.rustic_hearth.Condenser.addRecipe(name, output, inputs, modifier, bottle, fluid, time, advanced);
 ```
 where
 + `name` is the recipe name (can be left out, see below)
@@ -73,30 +73,30 @@ where
 
 All optional parameters can be left out, but cannot be skipped: use `null` to keep the default of an optional parameter and still set a later one.
 ```
-mods.cottagecraft.Condenser.addRecipe("long_slowness", longSlowness, [<item:minecraft:cobweb>, <item:minecraft:vine>], <item:cottagecraft:horsetail>);
-mods.cottagecraft.Condenser.addRecipe(longSlowness, [<item:minecraft:cobweb>, <item:minecraft:vine>], <item:cottagecraft:horsetail>);
-mods.cottagecraft.Condenser.addRecipe(longSlowness, [<item:minecraft:cobweb>, <item:minecraft:vine>], null, null, <fluid:minecraft:water> * 250, 600);
+mods.rustic_hearth.Condenser.addRecipe("long_slowness", longSlowness, [<item:minecraft:cobweb>, <item:minecraft:vine>], <item:rustic_hearth:horsetail>);
+mods.rustic_hearth.Condenser.addRecipe(longSlowness, [<item:minecraft:cobweb>, <item:minecraft:vine>], <item:rustic_hearth:horsetail>);
+mods.rustic_hearth.Condenser.addRecipe(longSlowness, [<item:minecraft:cobweb>, <item:minecraft:vine>], null, null, <fluid:minecraft:water> * 250, 600);
 ```
 
 To remove recipes:
 ```
-mods.cottagecraft.Condenser.removeRecipe(output);
+mods.rustic_hearth.Condenser.removeRecipe(output);
 ```
 
 ## Brewing Recipes ##
-`mods.cottagecraft.Brewing` / `<recipetype:cottagecraft:brewing>`
+`mods.rustic_hearth.Brewing` / `<recipetype:rustic_hearth:brewing>`
 
 The brewing barrel converts the input fluid into the output fluid. `quality` is `"standard"` (random quality between 5% and 75%) or `"ambrosia"` (between 49% and 74%, and cultures never lower the quality).
 ```
 // name, output fluid, input fluid, optional quality mode
-mods.cottagecraft.Brewing.addRecipe("berry_mead", <fluid:cottagecraft:mead>, <fluid:cottagecraft:wildberry_juice>);
-mods.cottagecraft.Brewing.addRecipe("golden_mead", <fluid:cottagecraft:mead>, <fluid:cottagecraft:golden_apple_juice>, "ambrosia");
+mods.rustic_hearth.Brewing.addRecipe("berry_mead", <fluid:rustic_hearth:mead>, <fluid:rustic_hearth:wildberry_juice>);
+mods.rustic_hearth.Brewing.addRecipe("golden_mead", <fluid:rustic_hearth:mead>, <fluid:rustic_hearth:golden_apple_juice>, "ambrosia");
 
 // without a name
-mods.cottagecraft.Brewing.addRecipe(<fluid:cottagecraft:mead>, <fluid:cottagecraft:wildberry_juice>);
+mods.rustic_hearth.Brewing.addRecipe(<fluid:rustic_hearth:mead>, <fluid:rustic_hearth:wildberry_juice>);
 ```
 To remove recipes:
 ```
-mods.cottagecraft.Brewing.removeRecipe(<fluid:cottagecraft:wine>);                 // by output
-mods.cottagecraft.Brewing.removeByInputFluid(<fluid:cottagecraft:grape_juice>);    // by input
+mods.rustic_hearth.Brewing.removeRecipe(<fluid:rustic_hearth:wine>);                 // by output
+mods.rustic_hearth.Brewing.removeByInputFluid(<fluid:rustic_hearth:grape_juice>);    // by input
 ```

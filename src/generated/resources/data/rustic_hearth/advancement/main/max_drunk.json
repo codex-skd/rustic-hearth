@@ -1,0 +1,44 @@
+{
+  "parent": "rustic_hearth:main/root",
+  "criteria": {
+    "has_max_inebriation": {
+      "conditions": {
+        "effects": {
+          "rustic_hearth:tipsy": {
+            "ambient": false,
+            "amplifier": 3
+          }
+        }
+      },
+      "trigger": "minecraft:effects_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.rustic_hearth.max_drunk.desc"
+    },
+    "frame": "goal",
+    "icon": {
+      "components": {
+        "rustic_hearth:fluid": {
+          "amount": 250,
+          "components": {
+            "rustic_hearth:booze_quality": 1.0
+          },
+          "id": "rustic_hearth:ale"
+        }
+      },
+      "count": 1,
+      "id": "rustic_hearth:fluid_bottle"
+    },
+    "title": {
+      "translate": "advancements.rustic_hearth.max_drunk"
+    }
+  },
+  "requirements": [
+    [
+      "has_max_inebriation"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

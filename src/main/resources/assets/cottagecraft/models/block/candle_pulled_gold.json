@@ -1,8 +1,0 @@
-{
-	"parent": "cottagecraft:block/candle_pulled",
-	"render_type": "minecraft:cutout",
-	"textures": {
-		"candle": "cottagecraft:block/candle_gold",
-		"particle": "cottagecraft:block/candle_gold"
-	}
-}

@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#rustic_hearth:has_feature/nether_herbs",
+  "features": "rustic_hearth:nether_herbs",
+  "step": "underground_decoration"
+}

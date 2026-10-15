@@ -1,0 +1,10 @@
+{
+  "type": "rustic_hearth:crushing_tub",
+  "ingredient": {
+    "item": "rustic_hearth:olives"
+  },
+  "result": {
+    "amount": 250,
+    "id": "rustic_hearth:olive_oil"
+  }
+}
