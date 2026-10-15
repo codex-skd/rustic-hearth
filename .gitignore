@@ -1,0 +1,26 @@
+# Gradle
+build/
+.gradle/
+gradle/wrapper/gradle-wrapper.jar
+
+# Minecraft dev environment
+run/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+*.class
+.project
+.classpath
+.settings/
+bin/
+
+# Reference sources (read-only, never versioned)
+temp/
+
+# CurseForge logo (local only, never versioned)
+docs/curseforge/logo_*.png
+docs/curseforge/icon_preview.png

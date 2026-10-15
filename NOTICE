@@ -1,0 +1,15 @@
+Cottagecraft
+============
+
+Cottagecraft is a fork of Rustic Revived, itself a NeoForge port of Rustic (Minecraft 1.12.2).
+The code and assets have been modified (renamed, retargeted to NeoForge 21.1.249, trimmed of some optional integrations).
+Licensed under the MIT License (see LICENSE).
+
+Lineage
+-------
+- Rustic (Minecraft 1.12.2) by cadaverous-eris and the-realest-stu.
+  Original project: https://github.com/cadaverous-eris/Rustic (CurseForge project 256141).
+- Rustic Revived (NeoForge 1.21.1) by NadienDev (Modern Mods), MIT. CurseForge project 1711764.
+  This fork started from Rustic Revived 1.0.0 (see docs/UPSTREAM.md).
+
+Cottagecraft is unofficial and is not affiliated with or endorsed by the authors above.
