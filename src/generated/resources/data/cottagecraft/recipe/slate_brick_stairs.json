@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "cottagecraft:config",
+      "option": "enableSlate"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "S": {
+      "item": "cottagecraft:slate_brick"
+    }
+  },
+  "pattern": [
+    "S  ",
+    "SS ",
+    "SSS"
+  ],
+  "result": {
+    "count": 4,
+    "id": "cottagecraft:slate_brick_stairs"
+  }
+}

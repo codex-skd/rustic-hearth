@@ -1,0 +1,7 @@
+{
+  "common_leaves": "cottagecraft:ironwood",
+  "common_species": "cottagecraft:ironwood",
+  "generate_stripped_branch": false,
+  "max_branch_radius": 8,
+  "primitive_log": "cottagecraft:ironwood_log"
+}

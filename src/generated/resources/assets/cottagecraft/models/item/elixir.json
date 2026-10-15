@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cottagecraft:item/elixir_overlay",
+    "layer1": "cottagecraft:item/elixir_bottle"
+  }
+}

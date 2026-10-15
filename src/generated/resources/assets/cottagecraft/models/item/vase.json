@@ -1,0 +1,77 @@
+{
+  "parent": "cottagecraft:vases/vase_0",
+  "overrides": [
+    {
+      "model": "cottagecraft:vases/vase_1",
+      "predicate": {
+        "cottagecraft:design": 1.0
+      }
+    },
+    {
+      "model": "cottagecraft:vases/vase_2",
+      "predicate": {
+        "cottagecraft:design": 2.0
+      }
+    },
+    {
+      "model": "cottagecraft:vases/vase_3",
+      "predicate": {
+        "cottagecraft:design": 3.0
+      }
+    },
+    {
+      "model": "cottagecraft:vases/vase_4",
+      "predicate": {
+        "cottagecraft:design": 4.0
+      }
+    },
+    {
+      "model": "cottagecraft:vases/vase_5",
+      "predicate": {
+        "cottagecraft:design": 5.0
+      }
+    },
+    {
+      "model": "cottagecraft:vases/vase_6",
+      "predicate": {
+        "cottagecraft:design": 6.0
+      }
+    },
+    {
+      "model": "cottagecraft:vases/vase_7",
+      "predicate": {
+        "cottagecraft:design": 7.0
+      }
+    },
+    {
+      "model": "cottagecraft:vases/vase_8",
+      "predicate": {
+        "cottagecraft:design": 8.0
+      }
+    },
+    {
+      "model": "cottagecraft:vases/vase_9",
+      "predicate": {
+        "cottagecraft:design": 9.0
+      }
+    },
+    {
+      "model": "cottagecraft:vases/vase_10",
+      "predicate": {
+        "cottagecraft:design": 10.0
+      }
+    },
+    {
+      "model": "cottagecraft:vases/vase_11",
+      "predicate": {
+        "cottagecraft:design": 11.0
+      }
+    },
+    {
+      "model": "cottagecraft:vases/vase_12",
+      "predicate": {
+        "cottagecraft:design": 12.0
+      }
+    }
+  ]
+}

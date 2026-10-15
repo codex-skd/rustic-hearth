@@ -1,0 +1,35 @@
+{
+  "feature": "cottagecraft:nether_slate",
+  "placement": [
+    {
+      "type": "cottagecraft:config_filter",
+      "option": "enableSlate"
+    },
+    {
+      "type": "cottagecraft:config_filter",
+      "option": "netherSlate"
+    },
+    {
+      "type": "cottagecraft:config_count",
+      "option": "slateVeinsPerChunk"
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "max_inclusive": {
+          "absolute": 119
+        },
+        "min_inclusive": {
+          "absolute": 8
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

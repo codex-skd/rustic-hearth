@@ -1,0 +1,10 @@
+{
+  "type": "cottagecraft:crushing_tub",
+  "ingredient": {
+    "item": "cottagecraft:olives"
+  },
+  "result": {
+    "amount": 250,
+    "id": "cottagecraft:olive_oil"
+  }
+}

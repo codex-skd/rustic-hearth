@@ -1,26 +1,53 @@
-# Gradle
-build/
-.gradle/
-gradle/wrapper/gradle-wrapper.jar
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
 
-# Minecraft dev environment
-run/
-
-# IDE
-.vscode/
-.idea/
-*.iml
+# idea
+out
 *.ipr
 *.iws
-*.class
-.project
-.classpath
-.settings/
-bin/
+*.iml
+.idea
 
-# Reference sources (read-only, never versioned)
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+runs
+run-data
+
+repo
+src/generated/resources/.cache
+src/generated/resources/.cache/*
+src\generated\resources\.cache
+.github\modernize
+
+
+# local only
+.vscode
+/*.jar
+/1.21.1.json
+/almanac.png
+gradle/localmaven
+legacy-1.12.2
+/curseforge.md
+
+# Cottagecraft: reference sources (read-only, never versioned)
 temp/
+
+# GitHub workflow copied from Rustic Revived: not used here (GitLab project)
+.github/
 
 # CurseForge logo (local only, never versioned)
 docs/curseforge/logo_*.png
 docs/curseforge/icon_preview.png
+
+# Gradle wrapper jar (not versioned, like the other mods)
+gradle/wrapper/gradle-wrapper.jar

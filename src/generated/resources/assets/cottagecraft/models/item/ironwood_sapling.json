@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cottagecraft:block/sapling_ironwood"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "cottagecraft:block/chain"
+      },
+      "when": {
+        "axis": "y"
+      }
+    },
+    {
+      "apply": {
+        "model": "cottagecraft:block/chain_horizontal"
+      },
+      "when": {
+        "axis": "z"
+      }
+    },
+    {
+      "apply": {
+        "model": "cottagecraft:block/chain_horizontal",
+        "y": 90
+      },
+      "when": {
+        "axis": "x"
+      }
+    },
+    {
+      "apply": {
+        "model": "cottagecraft:block/chain_dangle"
+      },
+      "when": {
+        "axis": "z",
+        "dangle": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "cottagecraft:block/chain_dangle",
+        "y": 90
+      },
+      "when": {
+        "axis": "x",
+        "dangle": "true"
+      }
+    }
+  ]
+}

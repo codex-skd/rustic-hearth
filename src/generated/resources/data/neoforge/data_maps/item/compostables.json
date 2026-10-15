@@ -1,0 +1,61 @@
+{
+  "values": {
+    "#cottagecraft:herbs": {
+      "chance": 0.65
+    },
+    "cottagecraft:apple_leaves": {
+      "chance": 0.3
+    },
+    "cottagecraft:apple_sapling": {
+      "chance": 0.3
+    },
+    "cottagecraft:apple_seeds": {
+      "chance": 0.3
+    },
+    "cottagecraft:chili_pepper": {
+      "chance": 0.65
+    },
+    "cottagecraft:chili_pepper_seeds": {
+      "chance": 0.3
+    },
+    "cottagecraft:ghost_pepper": {
+      "chance": 0.65
+    },
+    "cottagecraft:grape_stem": {
+      "chance": 0.3
+    },
+    "cottagecraft:grapes": {
+      "chance": 0.3
+    },
+    "cottagecraft:ironberries": {
+      "chance": 0.3
+    },
+    "cottagecraft:ironwood_leaves": {
+      "chance": 0.3
+    },
+    "cottagecraft:ironwood_sapling": {
+      "chance": 0.3
+    },
+    "cottagecraft:olive_leaves": {
+      "chance": 0.3
+    },
+    "cottagecraft:olive_sapling": {
+      "chance": 0.3
+    },
+    "cottagecraft:olives": {
+      "chance": 0.3
+    },
+    "cottagecraft:tomato": {
+      "chance": 0.65
+    },
+    "cottagecraft:tomato_seeds": {
+      "chance": 0.3
+    },
+    "cottagecraft:wildberries": {
+      "chance": 0.3
+    },
+    "cottagecraft:wildberry_bush": {
+      "chance": 0.65
+    }
+  }
+}

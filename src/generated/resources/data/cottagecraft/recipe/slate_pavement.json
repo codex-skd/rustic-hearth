@@ -1,0 +1,26 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "cottagecraft:config",
+      "option": "enableSlate"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "B": {
+      "item": "cottagecraft:slate_brick"
+    },
+    "S": {
+      "item": "cottagecraft:slate"
+    }
+  },
+  "pattern": [
+    "SB",
+    "BS"
+  ],
+  "result": {
+    "count": 4,
+    "id": "cottagecraft:slate_pavement"
+  }
+}

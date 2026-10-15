@@ -1,0 +1,50 @@
+{
+  "parent": "cottagecraft:main/the_good_stuff",
+  "criteria": {
+    "has_max_quality_wine": {
+      "conditions": {
+        "items": [
+          {
+            "predicates": {
+              "cottagecraft:booze": {
+                "fluid": "cottagecraft:wine",
+                "quality": {
+                  "min": 0.999
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.cottagecraft.winemaxxing.desc"
+    },
+    "frame": "challenge",
+    "icon": {
+      "components": {
+        "cottagecraft:fluid": {
+          "amount": 250,
+          "components": {
+            "cottagecraft:booze_quality": 1.0
+          },
+          "id": "cottagecraft:wine"
+        }
+      },
+      "count": 1,
+      "id": "cottagecraft:fluid_bottle"
+    },
+    "title": {
+      "translate": "advancements.cottagecraft.winemaxxing"
+    }
+  },
+  "requirements": [
+    [
+      "has_max_quality_wine"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

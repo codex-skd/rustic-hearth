@@ -1,0 +1,8 @@
+{
+	"parent": "cottagecraft:block/chain",
+	"render_type": "minecraft:cutout",
+	"textures": {
+		"chain": "cottagecraft:block/chain_gold",
+		"particle": "cottagecraft:block/chain_gold"
+	}
+}

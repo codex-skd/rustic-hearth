@@ -1,0 +1,11 @@
+{
+  "type": "cottagecraft:brewing",
+  "input": {
+    "fluid": "cottagecraft:golden_apple_juice"
+  },
+  "quality": "ambrosia",
+  "result": {
+    "amount": 1,
+    "id": "cottagecraft:ambrosia"
+  }
+}

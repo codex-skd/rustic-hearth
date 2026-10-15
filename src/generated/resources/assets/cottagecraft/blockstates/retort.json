@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "cottagecraft:block/retort",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "cottagecraft:block/retort"
+    },
+    "facing=south": {
+      "model": "cottagecraft:block/retort",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cottagecraft:block/retort",
+      "y": 270
+    }
+  }
+}

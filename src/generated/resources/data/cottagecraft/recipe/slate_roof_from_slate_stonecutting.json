@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "cottagecraft:config",
+      "option": "enableSlate"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "cottagecraft:slate"
+  },
+  "result": {
+    "count": 1,
+    "id": "cottagecraft:slate_roof"
+  }
+}

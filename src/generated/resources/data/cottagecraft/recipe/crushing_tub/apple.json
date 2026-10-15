@@ -1,0 +1,14 @@
+{
+  "type": "cottagecraft:crushing_tub",
+  "byproduct": {
+    "count": 1,
+    "id": "cottagecraft:apple_seeds"
+  },
+  "ingredient": {
+    "item": "minecraft:apple"
+  },
+  "result": {
+    "amount": 250,
+    "id": "cottagecraft:apple_juice"
+  }
+}

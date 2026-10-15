@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "cottagecraft:block/apiary",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "cottagecraft:block/apiary"
+    },
+    "facing=south": {
+      "model": "cottagecraft:block/apiary",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cottagecraft:block/apiary",
+      "y": 270
+    }
+  }
+}

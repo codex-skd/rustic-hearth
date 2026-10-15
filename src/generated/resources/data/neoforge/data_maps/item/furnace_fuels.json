@@ -1,0 +1,151 @@
+{
+  "values": {
+    "cottagecraft:apiary": {
+      "burn_time": 300
+    },
+    "cottagecraft:apple_sapling": {
+      "burn_time": 100
+    },
+    "cottagecraft:barrel": {
+      "burn_time": 300
+    },
+    "cottagecraft:brewing_barrel": {
+      "burn_time": 300
+    },
+    "cottagecraft:cabinet": {
+      "burn_time": 300
+    },
+    "cottagecraft:chair_acacia": {
+      "burn_time": 300
+    },
+    "cottagecraft:chair_bamboo": {
+      "burn_time": 300
+    },
+    "cottagecraft:chair_birch": {
+      "burn_time": 300
+    },
+    "cottagecraft:chair_cherry": {
+      "burn_time": 300
+    },
+    "cottagecraft:chair_dark_oak": {
+      "burn_time": 300
+    },
+    "cottagecraft:chair_ironwood": {
+      "burn_time": 300
+    },
+    "cottagecraft:chair_jungle": {
+      "burn_time": 300
+    },
+    "cottagecraft:chair_mangrove": {
+      "burn_time": 300
+    },
+    "cottagecraft:chair_oak": {
+      "burn_time": 300
+    },
+    "cottagecraft:chair_olive": {
+      "burn_time": 300
+    },
+    "cottagecraft:chair_spruce": {
+      "burn_time": 300
+    },
+    "cottagecraft:crushing_tub": {
+      "burn_time": 300
+    },
+    "cottagecraft:ironwood_sapling": {
+      "burn_time": 100
+    },
+    "cottagecraft:lantern_wood": {
+      "burn_time": 300
+    },
+    "cottagecraft:liquid_barrel": {
+      "burn_time": 300
+    },
+    "cottagecraft:olive_sapling": {
+      "burn_time": 100
+    },
+    "cottagecraft:painted_wood_black": {
+      "burn_time": 300
+    },
+    "cottagecraft:painted_wood_blue": {
+      "burn_time": 300
+    },
+    "cottagecraft:painted_wood_brown": {
+      "burn_time": 300
+    },
+    "cottagecraft:painted_wood_cyan": {
+      "burn_time": 300
+    },
+    "cottagecraft:painted_wood_gray": {
+      "burn_time": 300
+    },
+    "cottagecraft:painted_wood_green": {
+      "burn_time": 300
+    },
+    "cottagecraft:painted_wood_light_blue": {
+      "burn_time": 300
+    },
+    "cottagecraft:painted_wood_light_gray": {
+      "burn_time": 300
+    },
+    "cottagecraft:painted_wood_lime": {
+      "burn_time": 300
+    },
+    "cottagecraft:painted_wood_magenta": {
+      "burn_time": 300
+    },
+    "cottagecraft:painted_wood_orange": {
+      "burn_time": 300
+    },
+    "cottagecraft:painted_wood_pink": {
+      "burn_time": 300
+    },
+    "cottagecraft:painted_wood_purple": {
+      "burn_time": 300
+    },
+    "cottagecraft:painted_wood_red": {
+      "burn_time": 300
+    },
+    "cottagecraft:painted_wood_white": {
+      "burn_time": 300
+    },
+    "cottagecraft:painted_wood_yellow": {
+      "burn_time": 300
+    },
+    "cottagecraft:table_acacia": {
+      "burn_time": 300
+    },
+    "cottagecraft:table_bamboo": {
+      "burn_time": 300
+    },
+    "cottagecraft:table_birch": {
+      "burn_time": 300
+    },
+    "cottagecraft:table_cherry": {
+      "burn_time": 300
+    },
+    "cottagecraft:table_dark_oak": {
+      "burn_time": 300
+    },
+    "cottagecraft:table_ironwood": {
+      "burn_time": 300
+    },
+    "cottagecraft:table_jungle": {
+      "burn_time": 300
+    },
+    "cottagecraft:table_mangrove": {
+      "burn_time": 300
+    },
+    "cottagecraft:table_oak": {
+      "burn_time": 300
+    },
+    "cottagecraft:table_olive": {
+      "burn_time": 300
+    },
+    "cottagecraft:table_spruce": {
+      "burn_time": 300
+    },
+    "cottagecraft:wildberry_bush": {
+      "burn_time": 200
+    }
+  }
+}

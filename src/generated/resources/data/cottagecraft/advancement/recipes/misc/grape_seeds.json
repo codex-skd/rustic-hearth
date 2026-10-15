@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_grapes": {
+      "conditions": {
+        "items": [
+          {
+            "items": "cottagecraft:grapes"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "cottagecraft:grape_seeds"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_grapes"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "cottagecraft:grape_seeds"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "cottagecraft:block/beehive",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "cottagecraft:block/beehive"
+    },
+    "facing=south": {
+      "model": "cottagecraft:block/beehive",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cottagecraft:block/beehive",
+      "y": 270
+    }
+  }
+}

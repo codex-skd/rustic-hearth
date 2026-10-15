@@ -1,0 +1,42 @@
+{
+  "type": "cottagecraft:condenser",
+  "advanced": true,
+  "bottle": {
+    "item": "minecraft:glass_bottle"
+  },
+  "fluid": {
+    "amount": 125,
+    "fluid": "minecraft:water"
+  },
+  "ingredients": [
+    {
+      "item": "cottagecraft:cohosh"
+    },
+    {
+      "item": "cottagecraft:honeycomb"
+    }
+  ],
+  "modifier": {
+    "item": "cottagecraft:marsh_mallow"
+  },
+  "result": {
+    "components": {
+      "minecraft:potion_contents": {
+        "custom_effects": [
+          {
+            "amplifier": 1,
+            "duration": 450,
+            "id": "minecraft:regeneration",
+            "neoforge:cures": [
+              "milk",
+              "protected_by_totem"
+            ],
+            "show_icon": true
+          }
+        ]
+      }
+    },
+    "count": 1,
+    "id": "cottagecraft:elixir"
+  }
+}

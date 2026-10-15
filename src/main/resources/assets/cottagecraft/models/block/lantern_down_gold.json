@@ -1,0 +1,9 @@
+{
+	"parent": "cottagecraft:block/lantern_down",
+	"render_type": "minecraft:cutout",
+	"textures": {
+		"top": "cottagecraft:block/lantern_top_gold",
+		"side": "cottagecraft:block/lantern_side_gold",
+		"particle": "cottagecraft:block/lantern_side_gold"
+	}
+}

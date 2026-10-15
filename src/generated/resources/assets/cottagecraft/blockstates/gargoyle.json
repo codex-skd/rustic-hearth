@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "cottagecraft:block/gargoyle",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "cottagecraft:block/gargoyle",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "cottagecraft:block/gargoyle"
+    },
+    "facing=west": {
+      "model": "cottagecraft:block/gargoyle",
+      "y": 90
+    }
+  }
+}

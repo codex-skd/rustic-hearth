@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#cottagecraft:has_feature/beehives",
+  "features": "cottagecraft:beehives",
+  "step": "top_layer_modification"
+}

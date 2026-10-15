@@ -1,0 +1,10 @@
+{
+  "type": "cottagecraft:crushing_tub",
+  "ingredient": {
+    "item": "cottagecraft:honeycomb"
+  },
+  "result": {
+    "amount": 250,
+    "id": "cottagecraft:honey"
+  }
+}

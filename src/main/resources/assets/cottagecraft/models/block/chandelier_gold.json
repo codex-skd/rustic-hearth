@@ -1,0 +1,9 @@
+{
+	"parent": "cottagecraft:block/chandelier",
+	"render_type": "minecraft:cutout",
+	"textures": {
+		"chandelier": "cottagecraft:block/chandelier_gold",
+		"chain": "cottagecraft:block/chain_gold",
+		"particle": "cottagecraft:block/chandelier_gold"
+	}
+}

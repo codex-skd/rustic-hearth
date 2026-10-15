@@ -1,0 +1,7 @@
+{
+  "render_type": "minecraft:cutout",
+  "parent": "cottagecraft:block/stake_crop",
+  "textures": {
+    "crop": "cottagecraft:block/chili_crop_2"
+  }
+}

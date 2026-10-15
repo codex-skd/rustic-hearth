@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_ironwood_slab": {
+      "conditions": {
+        "items": [
+          {
+            "items": "cottagecraft:ironwood_slab"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "cottagecraft:carved_ironwood"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_ironwood_slab"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "cottagecraft:carved_ironwood"
+    ]
+  }
+}

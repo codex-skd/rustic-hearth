@@ -1,0 +1,9 @@
+{
+  "parent": "cottagecraft:block/vase_1",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "bottom": "cottagecraft:block/vases/vase_bottom_9",
+    "side": "cottagecraft:block/vases/vase_side_9",
+    "top": "cottagecraft:block/vases/vase_top_9"
+  }
+}

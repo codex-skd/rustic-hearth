@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "cottagecraft:block/apple_seeds_0"
+    },
+    "age=1": {
+      "model": "cottagecraft:block/apple_seeds_1"
+    }
+  }
+}

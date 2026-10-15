@@ -1,0 +1,10 @@
+{
+  "type": "cottagecraft:crushing_tub",
+  "ingredient": {
+    "item": "cottagecraft:vanta_lily"
+  },
+  "result": {
+    "amount": 250,
+    "id": "cottagecraft:vanta_oil"
+  }
+}

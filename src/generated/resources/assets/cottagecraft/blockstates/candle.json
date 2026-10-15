@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "cottagecraft:block/candle_wall",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "cottagecraft:block/candle_wall"
+    },
+    "facing=south": {
+      "model": "cottagecraft:block/candle_wall",
+      "y": 180
+    },
+    "facing=up": {
+      "model": "cottagecraft:block/candle"
+    },
+    "facing=west": {
+      "model": "cottagecraft:block/candle_wall",
+      "y": 270
+    }
+  }
+}

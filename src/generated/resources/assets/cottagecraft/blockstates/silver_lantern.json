@@ -1,0 +1,25 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "cottagecraft:block/lantern_down_silver"
+    },
+    "facing=east": {
+      "model": "cottagecraft:block/lantern_wall_silver",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "cottagecraft:block/lantern_wall_silver"
+    },
+    "facing=south": {
+      "model": "cottagecraft:block/lantern_wall_silver",
+      "y": 180
+    },
+    "facing=up": {
+      "model": "cottagecraft:block/lantern_up_silver"
+    },
+    "facing=west": {
+      "model": "cottagecraft:block/lantern_wall_silver",
+      "y": 270
+    }
+  }
+}

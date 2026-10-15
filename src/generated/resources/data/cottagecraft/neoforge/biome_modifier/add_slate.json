@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#cottagecraft:has_feature/slate",
+  "features": "cottagecraft:slate",
+  "step": "underground_ores"
+}

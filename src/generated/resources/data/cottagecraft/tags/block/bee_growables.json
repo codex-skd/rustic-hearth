@@ -1,0 +1,23 @@
+{
+  "values": [
+    "cottagecraft:tomato_crop",
+    "cottagecraft:chili_crop",
+    "cottagecraft:grape_stem",
+    "cottagecraft:grape_leaves",
+    "cottagecraft:wildberry_bush",
+    "cottagecraft:apple_leaves",
+    "cottagecraft:apple_seeds",
+    "#cottagecraft:herbs",
+    "#minecraft:crops",
+    "#minecraft:saplings",
+    "minecraft:cactus",
+    "minecraft:sugar_cane",
+    "minecraft:nether_wart",
+    "minecraft:cocoa",
+    "minecraft:sweet_berry_bush",
+    "minecraft:bamboo",
+    "minecraft:bamboo_sapling",
+    "minecraft:melon_stem",
+    "minecraft:pumpkin_stem"
+  ]
+}

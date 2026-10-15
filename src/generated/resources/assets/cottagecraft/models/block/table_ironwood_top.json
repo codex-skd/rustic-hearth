@@ -1,0 +1,6 @@
+{
+  "parent": "cottagecraft:block/table_top_template",
+  "textures": {
+    "planks": "cottagecraft:block/planks_ironwood"
+  }
+}

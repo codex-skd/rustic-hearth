@@ -1,0 +1,10 @@
+{
+  "type": "cottagecraft:crushing_tub",
+  "ingredient": {
+    "item": "cottagecraft:grapes"
+  },
+  "result": {
+    "amount": 250,
+    "id": "cottagecraft:grape_juice"
+  }
+}

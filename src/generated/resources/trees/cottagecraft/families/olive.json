@@ -1,0 +1,7 @@
+{
+  "common_leaves": "cottagecraft:olive",
+  "common_species": "cottagecraft:olive",
+  "generate_stripped_branch": false,
+  "max_branch_radius": 8,
+  "primitive_log": "cottagecraft:olive_log"
+}

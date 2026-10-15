@@ -1,0 +1,39 @@
+{
+  "parent": "cottagecraft:main/root",
+  "criteria": {
+    "has_quality_beverage": {
+      "conditions": {
+        "items": [
+          {
+            "predicates": {
+              "cottagecraft:booze": {
+                "quality": {
+                  "min": 0.8999
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.cottagecraft.the_good_stuff.desc"
+    },
+    "icon": {
+      "count": 1,
+      "id": "cottagecraft:brewing_barrel"
+    },
+    "title": {
+      "translate": "advancements.cottagecraft.the_good_stuff"
+    }
+  },
+  "requirements": [
+    [
+      "has_quality_beverage"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

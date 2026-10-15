@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#cottagecraft:has_feature/nether_herbs",
+  "features": "cottagecraft:nether_herbs",
+  "step": "underground_decoration"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "cottagecraft:block/table_template",
+  "textures": {
+    "planks": "minecraft:block/jungle_planks"
+  }
+}

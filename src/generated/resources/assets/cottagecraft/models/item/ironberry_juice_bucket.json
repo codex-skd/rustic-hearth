@@ -1,0 +1,5 @@
+{
+  "parent": "neoforge:item/bucket",
+  "fluid": "cottagecraft:ironberry_juice",
+  "loader": "neoforge:fluid_container"
+}

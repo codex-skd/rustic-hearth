@@ -1,0 +1,10 @@
+{
+  "type": "cottagecraft:brewing",
+  "input": {
+    "tag": "c:honey"
+  },
+  "result": {
+    "amount": 1,
+    "id": "cottagecraft:mead"
+  }
+}

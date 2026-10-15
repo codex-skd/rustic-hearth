@@ -1,0 +1,11 @@
+{
+  "parent": "neoforge:item/default",
+  "cover_is_mask": false,
+  "fluid": "cottagecraft:mead",
+  "loader": "neoforge:fluid_container",
+  "textures": {
+    "base": "cottagecraft:item/alcohol_bottle",
+    "cover": "cottagecraft:item/alcohol_label",
+    "fluid": "cottagecraft:item/alcohol_overlay"
+  }
+}

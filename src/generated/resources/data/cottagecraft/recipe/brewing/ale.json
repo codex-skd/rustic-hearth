@@ -1,0 +1,10 @@
+{
+  "type": "cottagecraft:brewing",
+  "input": {
+    "fluid": "cottagecraft:ale_wort"
+  },
+  "result": {
+    "amount": 1,
+    "id": "cottagecraft:ale"
+  }
+}

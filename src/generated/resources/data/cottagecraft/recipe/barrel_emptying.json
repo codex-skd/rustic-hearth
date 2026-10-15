@@ -1,0 +1,13 @@
+{
+  "type": "cottagecraft:shapeless_no_remainder",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cottagecraft:liquid_barrel"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "cottagecraft:liquid_barrel"
+  }
+}

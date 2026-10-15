@@ -1,0 +1,10 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "cottagecraft:config",
+      "option": "enableOliveOiling"
+    }
+  ],
+  "type": "cottagecraft:olive_oil",
+  "category": "misc"
+}

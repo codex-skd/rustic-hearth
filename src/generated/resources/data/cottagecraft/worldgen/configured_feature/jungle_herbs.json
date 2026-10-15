@@ -1,0 +1,46 @@
+{
+  "type": "minecraft:simple_block",
+  "config": {
+    "to_place": {
+      "type": "minecraft:weighted_state_provider",
+      "entries": [
+        {
+          "data": {
+            "Name": "cottagecraft:blood_orchid",
+            "Properties": {
+              "age": "3"
+            }
+          },
+          "weight": 1
+        },
+        {
+          "data": {
+            "Name": "cottagecraft:horsetail",
+            "Properties": {
+              "age": "3"
+            }
+          },
+          "weight": 1
+        },
+        {
+          "data": {
+            "Name": "cottagecraft:marsh_mallow",
+            "Properties": {
+              "age": "3"
+            }
+          },
+          "weight": 1
+        },
+        {
+          "data": {
+            "Name": "cottagecraft:mooncap_mushroom",
+            "Properties": {
+              "age": "3"
+            }
+          },
+          "weight": 1
+        }
+      ]
+    }
+  }
+}
