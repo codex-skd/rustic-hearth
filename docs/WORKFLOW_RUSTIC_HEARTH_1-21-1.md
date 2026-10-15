@@ -10,7 +10,7 @@
 | Campo | Valor |
 |---|---|
 | **Mod ID** | `rustic_hearth` |
-| **Clase principal** | `com.skd.rustichearth.Rustic Hearth` |
+| **Clase principal** | `com.skd.rustichearth.RusticHearth` |
 | **Display name** | `Rustic Hearth` |
 | **Versión Minecraft** | `1.21.1` |
 | **Versión NeoForge** | `21.1.249` (no subir sin pedirlo) |
@@ -34,7 +34,7 @@ Fork de **Rustic Revived** (NadienDev, MIT, NeoForge 1.21.1), a su vez port de *
 
 ## Convenciones, ramas, versionado, commits
 
-Las del grupo (`WORKFLOW_GENERIC`): snake_case `rustic_hearth`, clase `Rustic Hearth`, Title Case `Rustic Hearth`. Rama única `production`. Versión `0.0.0-beta.X`; JAR `rustic_hearth-1.21.1-neoforge-21.1.249-<version>.jar`. Commits en inglés con `v<version>`. Sin tags.
+Las del grupo (`WORKFLOW_GENERIC`): snake_case `rustic_hearth`, clase `RusticHearth`, Title Case `Rustic Hearth`. Rama única `production`. Versión `0.0.0-beta.X`; JAR `rustic_hearth-1.21.1-neoforge-21.1.249-<version>.jar`. Commits en inglés con `v<version>`. Sin tags.
 
 ## Flujo por tarea
 

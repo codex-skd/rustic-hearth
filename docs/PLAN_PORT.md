@@ -8,7 +8,7 @@ Copia operativa de `warhost/docs/PLAN_FORK_RUSTIC.md` con las decisiones tomadas
 |---|---|
 | Nombre | **Rustic Hearth** |
 | Mod id / namespace | `rustic_hearth` (un único mod id; sin el segundo mod `rusticrevived`) |
-| Clase principal | `com.skd.rustichearth.Rustic Hearth` |
+| Clase principal | `com.skd.rustichearth.RusticHearth` |
 | Paquete base | `com.skd.rustichearth` (sustituye a `nadiendev.rusticrevived`) |
 | Repositorio | https://gitlab.com/stalking-dragons/minecraft/rustic-hearth.git |
 | Rama | `minecraft/1.21.1/neoforge-21.1.249/production` |

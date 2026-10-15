@@ -13,7 +13,7 @@ relations = jei:optionalDependency, quark:optionalDependency
 |----------|-------|
 | `mod_id` | `rustic_hearth` |
 | `display_name` | `Rustic Hearth` |
-| `slug esperado` | `rustic-hearth` (la API de búsqueda no devuelve nada parecido a «Rustic Hearth», 2026-10-16; **la API no vio el proyecto «Rustic Hearth» que el usuario dice que ya existía, así que la web es la que manda**) |
+| `slug esperado` | `rustic-hearth` (la API de búsqueda no devuelve nada parecido a «Rustic Hearth», 2026-10-16; **la API no vio el proyecto «Cottagecraft» que el usuario dice que ya existía, así que la web es la que manda**) |
 | `classId` | `6` (Mods) |
 | `category` | Farming (principal). Secundarias, como Rustic y Rustic Revived: Cosmetic, Food, Storage. Verificar los nombres exactos del desplegable |
 | `license` | MIT |
