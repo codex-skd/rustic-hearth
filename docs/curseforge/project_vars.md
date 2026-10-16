@@ -42,7 +42,11 @@ JEI (slug `jei`, ID 238222) y Quark (slug `quark`, ID 243121), ambos verificados
 - **Licencia del origen**: el repo de Rustic (cadaverous-eris) no trae `LICENSE` en GitHub; MIT según la ficha 256141 (confirmado por el usuario). Verificar también que **texturas y modelos** caen bajo esa licencia antes de publicar.
 - **Avisar** (cortesía) a NadienDev, autor de Rustic Revived.
 - **Wiki del repo** (`wiki/`): viene de Revived y la portada dice «Rustic Hearth is an unofficial port of Rustic…» y habla de id `rustic` — está sin corregir; no enlazarla desde CurseForge hasta revisarla.
-- Logo: generar con `logo_prompt.md`; derivar `logo_400.png` (solo local) e `icon.png` 64×64 en la **raíz** de `src/main/resources`, con `logoFile="icon.png"` en `neoforge.mods.toml` (ahora el toml usa `logo.png`, comprobar cuál es el definitivo).
+- Logo hecho (`logo_original.png`, `logo_400.png` solo local); icono 64x64 en la raíz de `src/main/resources` con `logoFile="icon.png"`. Subir `logo_400.png` como avatar en la web de CurseForge.
 - **Rewards**: al ser MIT, el proyecto sí podría inscribirse en el programa de recompensas de CurseForge (decisión del usuario; no lo hago yo).
 - Descripción y release notes son **borrador**: revisar tras R3/R4 (ids confirmados y prueba en cliente).
 - Fase R4 (prueba en cliente) pendiente: no publicar antes sin avisar de que es beta sin jugar.
+
+## Publicado
+
+- 0.0.0-beta.1: fichero CurseForge 9204816 (subido el 2026-10-16, release beta; pendiente de aprobación de CurseForge).
