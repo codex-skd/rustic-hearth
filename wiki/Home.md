@@ -1,12 +1,12 @@
 # Rustic Hearth #
-Rustic Hearth is an unofficial port of [Rustic](https://github.com/cadaverous-eris/Rustic) by cadaverous-eris to **NeoForge 1.21.1** and **26.1.2**. This wiki covers the **1.21.1** version. Rustic is a mod that adds many medieval-themed features to Minecraft.
+Rustic Hearth is a fork of **Rustic Revived** (NadienDev), itself a NeoForge port of [Rustic](https://github.com/cadaverous-eris/Rustic) by cadaverous-eris and the-realest-stu, for **NeoForge 1.21.1**. Rustic is a mod that adds many medieval-themed features to Minecraft. This wiki is inherited from Rustic Revived and covers the **1.21.1** version; some pages may still describe integrations that Rustic Hearth no longer includes (CraftTweaker, KubeJS, Dynamic Trees, InvTweaks).
 
-In 1.21.1 and newer, every block, item, fluid and recipe lives in the `rustic_hearth` namespace (for example `rustic_hearth:olive_log`), while the mod id is `rustic`. JEI finds the mod's items with both `@rustic` and `@rustic_hearth`.
+Every block, item, fluid and recipe lives in the `rustic_hearth` namespace (for example `rustic_hearth:olive_log`), which is also the mod id. JEI finds the mod's items with `@rustic_hearth`.
 
 ***
 
 ## Downloads ##
-All versions can be found on the [releases page](https://github.com/Modern-Mods/Rustic-Revived/releases).
+Releases are published on CurseForge (project 1747262) and in the [GitLab repository](https://gitlab.com/stalking-dragons/minecraft/rustic-hearth).
 
 ## Features ##
 + [The Almanac (in-game documentation)](The-Almanac.md)

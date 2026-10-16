@@ -18,11 +18,11 @@
 | **Repositorio GitLab** | `https://gitlab.com/stalking-dragons/minecraft/rustic-hearth.git` |
 | **Paquete base** | `com.skd.rustichearth` |
 | **Licencia** | **MIT** (fork de Rustic Revived, que porta Rustic). Verificar texturas/modelos del original antes de publicar |
-| **CurseForge project id** | pendiente |
+| **CurseForge project id** | `1747262` |
 
 ## Qué es
 
-Fork de **Rustic Revived** (NadienDev, MIT, NeoForge 1.21.1), a su vez port de **Rustic** 1.12.2: decoración, agricultura, elaboración de bebidas y alquimia de estilo rural-medieval. Fuente de partida en `temp/original/` (Revived) y `temp/original_rustic_1.12.2/` (original), gitignored y solo lectura. Plan en `docs/PLAN_PORT.md`, trazabilidad en `docs/UPSTREAM.md`. Rustic es el primer punto del bloque 2 de `warhost/docs/PLAN_DE_RUTA.md`.
+Fork de **Rustic Revived** (NadienDev, MIT, NeoForge 1.21.1), a su vez port de **Rustic** 1.12.2: decoración, agricultura, elaboración de bebidas y alquimia de estilo rural-medieval. Fuente de partida en `temp/original/` (Revived) y `temp/original_rustic_1.12.2/` (original), gitignored y solo lectura. Plan en `docs/PLAN_PORT.md` (fases R0-R3 hechas; R4 = prueba en cliente a cargo del usuario, R5 = publicación), trazabilidad en `docs/UPSTREAM.md`, tabla de ids para el conversor de plantillas AW2 en `docs/IDS_RUSTIC_HEARTH.md` (se comprueba con `python docs/tools/check_template_ids.py`), guía de prueba en `docs/PRUEBA_CLIENTE.md`. Carpeta local `G:\Proyectos\Mods_Minecraft\rustic_hearth\neoforge\1.21.1`. Rustic es el primer punto del bloque 2 de `warhost/docs/PLAN_DE_RUTA.md`.
 
 ## Restricciones activas (viajan con cualquier delegación a OpenCode)
 
@@ -39,10 +39,11 @@ Las del grupo (`WORKFLOW_GENERIC`): snake_case `rustic_hearth`, clase `RusticHea
 ## Flujo por tarea
 
 1. Desarrollo → `./gradlew.bat build` → commit → push.
-2. Verificar con `runServer` puro; parar los daemons de Gradle al terminar (`./gradlew.bat --stop`) y matar solo los java del proyecto (`fml.modFolders=rustic_hearth` en la línea de comandos).
+2. Verificar con `runServer` puro (debe verse `Rustic Hearth 0.0.0-beta.1 (rustic_hearth)` y `Done`); parar los daemons de Gradle al terminar (`./gradlew.bat --stop`) y matar solo los java del proyecto (`fml.modFolders=rustic_hearth` en la línea de comandos).
 3. Render y jugabilidad: solo en cliente (a cargo del usuario).
 4. CurseForge solo con confirmación expresa.
-5. Graphify tras cada push cuando haya código (`graphify update .`).
+5. Graphify tras cada push cuando haya código (`graphify update .`; el `extract` con Ollama `qwen2.5-coder:7b` falla con docs y JSON, no usarlo).
+6. `datagen`: `./gradlew.bat runData` regenera `src/generated/resources/`; 31 recetas de `recipe/condenser/**` cambian de orden en cada ejecución (ruido de NeoForge en `neoforge:cures`), no son un cambio real.
 
 ## Idioma
 
