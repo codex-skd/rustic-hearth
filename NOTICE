@@ -2,7 +2,7 @@ Rustic Hearth
 =============
 
 Rustic Hearth is a fork of Rustic Revived, itself a NeoForge port of Rustic (Minecraft 1.12.2).
-The code and assets have been modified (renamed, retargeted to NeoForge 21.1.249, trimmed of some optional integrations).
+The code and assets have been modified (renamed, retargeted to NeoForge 21.1.259, trimmed of some optional integrations).
 Licensed under the MIT License (see LICENSE).
 
 Lineage

@@ -11,7 +11,7 @@ Copia operativa de `warhost/docs/PLAN_FORK_RUSTIC.md` con las decisiones tomadas
 | Clase principal | `com.skd.rustichearth.RusticHearth` |
 | Paquete base | `com.skd.rustichearth` (sustituye a `nadiendev.rusticrevived`) |
 | Repositorio | https://gitlab.com/stalking-dragons/minecraft/rustic-hearth.git |
-| Rama | `minecraft/1.21.1/neoforge-21.1.249/production` |
+| Rama | `minecraft/1.21.1/neoforge-21.1.259/production` |
 | Versión inicial | `0.0.0-beta.1` |
 | Licencia | MIT (ver `LICENSE`, `NOTICE`, `docs/UPSTREAM.md`) |
 
@@ -24,7 +24,7 @@ Se conservan **JEI y Quark**; se descartan CraftTweaker, KubeJS, Dynamic Trees e
 | Fase | Contenido | Hito verificable |
 |---|---|---|
 | R0 | Repo, licencias, instantáneas de origen, docs (esta fase) | Repo con `LICENSE`, `NOTICE`, `docs/` |
-| R1 | **Renombrado** a `com.skd.rustichearth` y namespace `rustic_hearth` (código, assets, datos, tags, `trees`, `src/generated`), un solo mod id, NeoForge 21.1.249, cabeceras de licencia | `build` + `runServer` limpios; datagen regenera sin diferencias |
+| R1 | **Renombrado** a `com.skd.rustichearth` y namespace `rustic_hearth` (código, assets, datos, tags, `trees`, `src/generated`), un solo mod id, NeoForge 21.1.259, cabeceras de licencia | `build` + `runServer` limpios; datagen regenera sin diferencias |
 | R2 | **Recorte de compat**: quitar CraftTweaker, KubeJS, Dynamic Trees, InvTweaks; JEI y Quark opcionales | Arranca sin ninguno de los opcionales ✅ (hecho) |
 | R3 | **Cotejo con AW2**: script que cruza los 66 ids de las plantillas con el registro real; tabla `docs/IDS_RUSTIC_HEARTH.md` (id 1.12 → id nuevo); añadir lo que falte | 0 ids sin resolver ✅ (hecho: 51 exactos, 10 mapeados, 5 tile entity descartables, 0 sin resolver) |
 | R4 | **Estabilización**: prueba en cliente por el usuario y arreglos | Checklist `docs/PRUEBA_CLIENTE.md` pasada |

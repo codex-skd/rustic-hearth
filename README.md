@@ -14,4 +14,4 @@ with or endorsed by the authors above.
 ## Requirements
 
 - Minecraft 1.21.1
-- NeoForge 21.1.249
+- NeoForge 21.1.259

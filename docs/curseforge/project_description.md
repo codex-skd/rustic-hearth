@@ -74,7 +74,7 @@
 <tr>
 <td>NeoForge</td>
 <td>Required</td>
-<td>21.1.249+</td>
+<td>21.1.259+</td>
 </tr>
 <tr>
 <td>Java</td>

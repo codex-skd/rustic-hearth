@@ -13,8 +13,8 @@
 | **Clase principal** | `com.skd.rustichearth.RusticHearth` |
 | **Display name** | `Rustic Hearth` |
 | **Versión Minecraft** | `1.21.1` |
-| **Versión NeoForge** | `21.1.249` (no subir sin pedirlo) |
-| **Rama de trabajo** | `minecraft/1.21.1/neoforge-21.1.249/production` |
+| **Versión NeoForge** | `21.1.259` (no subir sin pedirlo) |
+| **Rama de trabajo** | `minecraft/1.21.1/neoforge-21.1.259/production` |
 | **Repositorio GitLab** | `https://gitlab.com/stalking-dragons/minecraft/rustic-hearth.git` |
 | **Paquete base** | `com.skd.rustichearth` |
 | **Licencia** | **MIT** (fork de Rustic Revived, que porta Rustic). Verificar texturas/modelos del original antes de publicar |
@@ -34,7 +34,7 @@ Fork de **Rustic Revived** (NadienDev, MIT, NeoForge 1.21.1), a su vez port de *
 
 ## Convenciones, ramas, versionado, commits
 
-Las del grupo (`WORKFLOW_GENERIC`): snake_case `rustic_hearth`, clase `RusticHearth`, Title Case `Rustic Hearth`. Rama única `production`. Versión `0.0.0-beta.X`; JAR `rustic_hearth-1.21.1-neoforge-21.1.249-<version>.jar`. Commits en inglés con `v<version>`. Sin tags.
+Las del grupo (`WORKFLOW_GENERIC`): snake_case `rustic_hearth`, clase `RusticHearth`, Title Case `Rustic Hearth`. Rama única `production`. Versión `0.0.0-beta.X`; JAR `rustic_hearth-1.21.1-neoforge-21.1.259-<version>.jar`. Commits en inglés con `v<version>`. Sin tags.
 
 ## Flujo por tarea
 
