@@ -1,6 +1,6 @@
 # CurseForge — Variables del proyecto
 
-> Leídas por `codex-docs/scripts/curseforge-upload.ps1`. IDs verificados con la API: 9638 Client, 9639 Server, 11779 1.21.1, 10150 NeoForge. **No se guarda el token en este fichero**: la subida se hace con curl leyendo `codex-docs/secrets.md`.
+> Leídas por `codex-docs/scripts/curseforge-upload.ps1`. IDs verificados con la API: 9638 Client, 9639 Server, 11779 1.21.1, 10150 NeoForge. **No se guarda el token en este fichero**: la subida lee la variable de entorno `API_MOD_UPLOAD_CURSEFORGE`.
 
 project_id = 1747262
 game_versions = 9638, 9639, 11779, 10150
@@ -50,3 +50,17 @@ JEI (slug `jei`, ID 238222) y Quark (slug `quark`, ID 243121), ambos verificados
 ## Publicado
 
 - 0.0.0-beta.1: fichero CurseForge 9204816 (subido el 2026-10-16, release beta; pendiente de aprobación de CurseForge).
+
+## Tokens
+
+Los tokens **no se guardan en el repo**: son variables de entorno de usuario de Windows, compartidas por todos los mods.
+
+| API | Variable de entorno | Cabecera | Uso |
+|-----|---------------------|----------|-----|
+| Upload | `API_MOD_UPLOAD_CURSEFORGE` | `X-Api-Token` | Subir archivos JAR (token de cuenta, compartido con todos los mods) |
+| Core (GET) | `API_MOD_GET_CURSEFORGE` | `x-api-key` | Consultar datos del mod (token de cuenta, compartido) |
+
+Autenticación Upload: cabecera `X-Api-Token`
+Autenticación Core: cabecera `x-api-key`
+Consultas GET: `codex-docs/scripts/curseforge-get.ps1` (lee `API_MOD_GET_CURSEFORGE`).
+Subidas: `codex-docs/scripts/curseforge-upload.ps1` (lee `API_MOD_UPLOAD_CURSEFORGE`).
