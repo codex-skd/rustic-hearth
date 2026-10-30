@@ -7485,8 +7485,8 @@
     "semantic_hash": ""
   },
   "CHANGELOG.md": {
-    "mtime": 1793297232.805941,
-    "ast_hash": "d5cc332939904aa9e698908130408115",
+    "mtime": 1793323331.5106761,
+    "ast_hash": "4c72d0ab8654f1b01f1f23aac22dfef1",
     "semantic_hash": ""
   },
   "README.md": {
@@ -7517,11 +7517,6 @@
   "docs/curseforge/project_description.md": {
     "mtime": 1793092456.0829058,
     "ast_hash": "0d6c0ce801e8258a3898b670f1a10f67",
-    "semantic_hash": ""
-  },
-  "docs/curseforge/project_vars.md": {
-    "mtime": 1793276386.8354974,
-    "ast_hash": "649399d5debbca39e5cc5feaa95f19e4",
     "semantic_hash": ""
   },
   "wiki/Alchemy.md": {

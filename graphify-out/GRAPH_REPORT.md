@@ -1,16 +1,16 @@
-# Graph Report - 1.21.1  (2026-10-29)
+# Graph Report - 1.21.1  (2026-10-30)
 
 ## Corpus Check
-- 1551 files · ~229,952 words
+- 1550 files · ~229,478 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 3903 nodes · 9089 edges · 200 communities (189 shown, 11 thin omitted)
+- 3896 nodes · 9083 edges · 211 communities (200 shown, 11 thin omitted)
 - Extraction: 97% EXTRACTED · 3% INFERRED · 0% AMBIGUOUS · INFERRED: 275 edges (avg confidence: 0.8)
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `ee90e921`
+- Built from commit: `11d90644`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -204,6 +204,17 @@
 - VaseMenu.java
 - .loadAdditional
 - Lanterns.md
+- OreConfiguration
+- Provider
+- .use
+- StakeCropSeedItem
+- RusticWorldGenProvider.java
+- DataGenerators.java
+- BlazingTrailEffect
+- ShameEffect.java
+- MaterialColors
+- .loadAdditional
+- ModBanners.java
 
 ## God Nodes (most connected - your core abstractions)
 1. `ModBlocks` - 68 edges
@@ -232,63 +243,63 @@
 ## Import Cycles
 - None detected.
 
-## Communities (200 total, 11 thin omitted)
+## Communities (211 total, 11 thin omitted)
 
 ### Community 0 - "HerbBlock"
-Cohesion: 0.05
-Nodes (61): BonemealableBlock, BushBlock, AppleSeedsBlock, Block, BlockGetter, BlockPos, BlockState, Builder (+53 more)
+Cohesion: 0.08
+Nodes (40): BonemealableBlock, BushBlock, AppleSeedsBlock, Block, BlockGetter, BlockPos, BlockState, Builder (+32 more)
 
 ### Community 1 - "BrewingBarrelBlockEntity"
-Cohesion: 0.16
-Nodes (11): SlotItemHandler, BrewingBarrelMenu, ContainerSlot, BlockPos, ContainerData, IItemHandler, Inventory, ItemStack (+3 more)
+Cohesion: 0.17
+Nodes (10): BrewingBarrelMenu, ContainerSlot, BlockPos, ContainerData, IItemHandler, Inventory, ItemStack, Override (+2 more)
 
 ### Community 2 - "EvaporatingBasinBlock.java"
-Cohesion: 0.05
-Nodes (64): EntityBlock, Precipitation, AlchemyInteractions, BlockPos, IFluidHandler, IItemHandlerModifiable, InteractionHand, InteractionResult (+56 more)
+Cohesion: 0.17
+Nodes (20): EvaporatingBasinBlock, BlockEntity, BlockEntityTicker, BlockEntityType, BlockGetter, BlockHitResult, BlockPos, BlockState (+12 more)
 
 ### Community 3 - "FarmData.java"
 Cohesion: 0.08
-Nodes (31): BiomeModifier, Decoration, Enchantment, HolderGetter, OreConfiguration, PlacedFeature, PlacementModifier, Herb (+23 more)
+Nodes (35): BiomeModifier, Decoration, Enchantment, HolderGetter, MultiPartBlockStateBuilder, PlacedFeature, PlacementModifier, FarmData (+27 more)
 
 ### Community 4 - "GrapeLeavesBlock"
-Cohesion: 0.07
-Nodes (45): FarmHelper, Axis, BlockGetter, BlockPos, BlockState, ItemStack, Level, Player (+37 more)
+Cohesion: 0.09
+Nodes (34): FarmHelper, Axis, BlockGetter, BlockPos, BlockState, ItemStack, Level, Player (+26 more)
 
 ### Community 5 - "RopeBaseBlock"
 Cohesion: 0.09
 Nodes (35): Axis, BlockGetter, BlockHitResult, BlockPlaceContext, BlockPos, BlockState, BooleanProperty, Builder (+27 more)
 
 ### Community 6 - "RusticBlockStateProvider"
-Cohesion: 0.13
-Nodes (13): MultiPartBlockStateBuilder, DecorData, Block, Blocks, Criterion, DeferredBlock, Direction, DyeColor (+5 more)
+Cohesion: 0.15
+Nodes (12): DecorData, Block, Blocks, Criterion, DeferredBlock, Direction, DyeColor, Ingredient (+4 more)
 
 ### Community 7 - "AbstractCondenserBlock"
 Cohesion: 0.12
-Nodes (26): PushReaction, AbstractCondenserBlock, BlockEntity, BlockGetter, BlockHitResult, BlockPlaceContext, BlockPos, BlockState (+18 more)
+Nodes (27): Block, PushReaction, AbstractCondenserBlock, BlockEntity, BlockGetter, BlockHitResult, BlockPlaceContext, BlockPos (+19 more)
 
 ### Community 8 - "ModFluids.java"
 Cohesion: 0.08
 Nodes (31): BucketItem, Flowing, FlowingFluid, FluidType, LiquidBlock, Source, DrinkableFluidType, DrinkEffect (+23 more)
 
 ### Community 9 - ".init"
-Cohesion: 0.10
-Nodes (11): FMLCommonSetupEvent, CommonSetup, IEventBus, RegisterCapabilitiesEvent, FarmSetup, IEventBus, RegisterCapabilitiesEvent, SafeVarargs (+3 more)
+Cohesion: 0.06
+Nodes (23): BlockSource, DefaultDispenseItemBehavior, FireBlock, FMLCommonSetupEvent, ItemStack, Override, RopeDispenseBehavior, IEventBus (+15 more)
 
 ### Community 10 - "HorizontalDirectionalBlock"
-Cohesion: 0.08
-Nodes (33): HorizontalDirectionalBlock, ClayWallDiagBlock, Block, BlockPlaceContext, BlockState, Builder, MapCodec, Override (+25 more)
+Cohesion: 0.05
+Nodes (49): HorizontalDirectionalBlock, ClayWallDiagBlock, Block, BlockPlaceContext, BlockState, Builder, MapCodec, Override (+41 more)
 
 ### Community 11 - "StakeCropBlock"
 Cohesion: 0.12
 Nodes (24): BlockGetter, BlockHitResult, BlockPos, BlockState, Builder, CollisionContext, Direction, Explosion (+16 more)
 
 ### Community 12 - "StakeTiedBlock"
-Cohesion: 0.17
-Nodes (18): BlockGetter, BlockPos, BlockState, BooleanProperty, Builder, CollisionContext, Direction, Explosion (+10 more)
+Cohesion: 0.10
+Nodes (32): CropStakeBlock, BlockGetter, BlockHitResult, BlockPos, BlockState, CollisionContext, InteractionHand, ItemInteractionResult (+24 more)
 
 ### Community 13 - "CraftingDisplayRecipe"
-Cohesion: 0.14
-Nodes (14): ICraftingCategoryExtension, ICraftingGridHelper, CraftingDisplayExtension, IFocusGroup, IRecipeLayoutBuilder, Override, RecipeHolder, CraftingDisplayRecipe (+6 more)
+Cohesion: 0.08
+Nodes (25): ICraftingCategoryExtension, ICraftingGridHelper, IGuiHandlerRegistration, IModPlugin, IRecipeCatalystRegistration, IRecipeCategoryRegistration, IRecipeRegistration, ISubtypeRegistration (+17 more)
 
 ### Community 14 - "ModTags.java"
 Cohesion: 0.10
@@ -303,8 +314,8 @@ Cohesion: 0.09
 Nodes (31): DoubleCandleBlock, facing(), getSerializedName(), Axis, BlockGetter, BlockPlaceContext, BlockPos, BlockState (+23 more)
 
 ### Community 17 - "OffsetBushModel.java"
-Cohesion: 0.22
-Nodes (14): BakedModel, BakedModelWrapper, BakedQuad, BlockAndTintGetter, ModelData, ModelProperty, RenderType, BlockPos (+6 more)
+Cohesion: 0.23
+Nodes (13): BakedModel, BakedModelWrapper, BakedQuad, BlockAndTintGetter, ModelData, ModelProperty, BlockPos, BlockState (+5 more)
 
 ### Community 18 - "FluidBottleItem"
 Cohesion: 0.14
@@ -319,28 +330,28 @@ Cohesion: 0.10
 Nodes (21): ChestLidController, ContainerOpenersCounter, SoundEvent, CabinetBlockEntity, AbstractContainerMenu, BlockPos, BlockState, Builder (+13 more)
 
 ### Community 21 - "RusticRecipeProvider"
-Cohesion: 0.13
-Nodes (16): RecipeProvider, Item, ItemLike, RecipeOutput, TagKey, RecipeOutput, Criterion, Item (+8 more)
+Cohesion: 0.14
+Nodes (15): RecipeProvider, Item, ItemLike, RecipeOutput, TagKey, Criterion, Item, ItemLike (+7 more)
 
 ### Community 22 - "LatticeBlock"
 Cohesion: 0.14
 Nodes (22): BlockGetter, BlockHitResult, BlockPlaceContext, BlockPos, BlockState, BooleanProperty, Builder, CollisionContext (+14 more)
 
 ### Community 23 - "MiscData.java"
-Cohesion: 0.10
-Nodes (17): AdvancementHolder, GlobalLootModifierProvider, BannerPattern, BootstrapContext, Component, DamageType, Direction, ExistingFileHelper (+9 more)
+Cohesion: 0.14
+Nodes (13): AdvancementHolder, BannerPattern, BootstrapContext, Component, DamageType, Direction, ExistingFileHelper, ItemModelBuilder (+5 more)
 
 ### Community 24 - "ModEffects.java"
-Cohesion: 0.11
-Nodes (14): MobEffect, MobEffectCategory, BlazingTrailEffect, LivingEntity, Override, IronSkinEffect, RusticEffect, LivingEntity (+6 more)
+Cohesion: 0.23
+Nodes (8): MobEffect, MobEffectCategory, IronSkinEffect, RusticEffect, DeferredHolder, DeferredRegister, MobEffect, ModEffects
 
 ### Community 25 - "BookButtons.java"
 Cohesion: 0.12
 Nodes (14): AbstractButton, NarrationElementOutput, BackButton, BookButton, BookButtons, CategoryButton, EntryLinkButton, Component (+6 more)
 
 ### Community 26 - "ModMenus.java"
-Cohesion: 0.21
-Nodes (12): IContainerFactory, RegisterMenuScreensEvent, RegisterMenuScreensEvent, QuarkCompat, CabinetMenu, DoubleCabinetMenu, RusticBarrelMenu, VaseMenu (+4 more)
+Cohesion: 0.15
+Nodes (18): IContainerFactory, CabinetMenu, DoubleCabinetMenu, Container, Inventory, RegistryFriendlyByteBuf, Container, Inventory (+10 more)
 
 ### Community 27 - "AppleLeavesBlock"
 Cohesion: 0.13
@@ -355,36 +366,36 @@ Cohesion: 0.17
 Nodes (13): SingleRecipeInput, CrushingTubRecipe, FluidStack, Ingredient, ItemStack, Level, MapCodec, Override (+5 more)
 
 ### Community 30 - "CabinetBlock"
-Cohesion: 0.18
-Nodes (11): CabinetBlock, Block, BlockPlaceContext, BlockPos, BlockState, Builder, Direction, Level (+3 more)
+Cohesion: 0.16
+Nodes (14): CabinetBlock, Block, BlockEntityTicker, BlockEntityType, BlockPlaceContext, BlockPos, BlockState, Builder (+6 more)
 
 ### Community 31 - "AbstractCondenserBlockEntity"
-Cohesion: 0.12
-Nodes (14): MenuProvider, AbstractCondenserBlockEntity, BlockEntityType, BlockPos, BlockState, ContainerData, Direction, FluidTank (+6 more)
+Cohesion: 0.14
+Nodes (12): AbstractCondenserBlockEntity, BlockEntityType, BlockPos, BlockState, ContainerData, Direction, FluidTank, IItemHandler (+4 more)
 
 ### Community 32 - "RusticBlockLoot"
 Cohesion: 0.15
 Nodes (9): BlockLootSubProvider, NumberProvider, Block, Builder, Item, ItemLike, Override, Provider (+1 more)
 
 ### Community 33 - "BrewingRecipe"
-Cohesion: 0.13
-Nodes (18): BrewingRecipe, getSerializedName(), FluidIngredient, FluidStack, ItemStack, Level, MapCodec, Override (+10 more)
+Cohesion: 0.11
+Nodes (20): RecipeHolder, RecipeType, JeiRecipeTypes, BrewingRecipe, getSerializedName(), FluidIngredient, FluidStack, ItemStack (+12 more)
 
 ### Community 34 - "AlchemyData.java"
-Cohesion: 0.13
-Nodes (16): RecipeCategory, AlchemyData, Block, Fluid, FluidIngredient, Fluids, Holder, ItemLike (+8 more)
+Cohesion: 0.17
+Nodes (13): AlchemyData, Block, Fluid, FluidIngredient, Fluids, Holder, ItemLike, ItemStack (+5 more)
 
 ### Community 35 - "StorageData.java"
 Cohesion: 0.10
-Nodes (14): DataMapProvider, DataMapType, Block, Blocks, Builder, Items, ModelFile, RecipeOutput (+6 more)
+Nodes (15): DataMapProvider, DataMapType, RecipeCategory, Block, Blocks, Builder, Items, ModelFile (+7 more)
 
 ### Community 36 - "CondenserRecipe"
 Cohesion: 0.13
 Nodes (14): DataResult, CondenserRecipe, Ingredient, ItemStack, Level, MapCodec, NonNullList, Override (+6 more)
 
 ### Community 37 - "ApiaryBlockEntity.java"
-Cohesion: 0.13
-Nodes (17): ApiaryBlockEntity, FilteredHandler, AbstractContainerMenu, BlockPos, BlockState, Component, CompoundTag, Direction (+9 more)
+Cohesion: 0.12
+Nodes (18): MenuProvider, ApiaryBlockEntity, FilteredHandler, AbstractContainerMenu, BlockPos, BlockState, Component, CompoundTag (+10 more)
 
 ### Community 38 - "GrapeStemBlock"
 Cohesion: 0.18
@@ -395,16 +406,16 @@ Cohesion: 0.15
 Nodes (19): BrewingBarrelBlock, BlockEntity, BlockEntityTicker, BlockEntityType, BlockHitResult, BlockPlaceContext, BlockPos, BlockState (+11 more)
 
 ### Community 40 - "EvaporatingBasinRecipe"
-Cohesion: 0.15
-Nodes (15): Recipe, RecipeHolder, RecipeType, JeiRecipeTypes, EvaporatingBasinRecipe, ItemStack, Level, MapCodec (+7 more)
+Cohesion: 0.19
+Nodes (12): Recipe, EvaporatingBasinRecipe, ItemStack, Level, MapCodec, Override, Provider, RecipeSerializer (+4 more)
 
 ### Community 41 - "ModBlocks.java"
 Cohesion: 0.13
 Nodes (11): MapColor, Block, DeferredBlock, DoorBlock, DyeColor, FenceBlock, FenceGateBlock, RotatedPillarBlock (+3 more)
 
 ### Community 42 - "LiquidBarrelBlockEntity"
-Cohesion: 0.21
-Nodes (9): BlockPos, BlockState, Builder, CompoundTag, DataComponentInput, FluidTank, Override, Provider (+1 more)
+Cohesion: 0.13
+Nodes (15): BlockPos, BlockState, Builder, CompoundTag, DataComponentInput, FluidTank, Override, Provider (+7 more)
 
 ### Community 43 - ".add"
 Cohesion: 0.13
@@ -419,28 +430,28 @@ Cohesion: 0.19
 Nodes (15): BlockGetter, BlockPlaceContext, BlockPos, BlockState, BooleanProperty, Builder, CollisionContext, Direction (+7 more)
 
 ### Community 46 - "VaseBlock.java"
-Cohesion: 0.18
-Nodes (17): BlockEntity, BlockGetter, BlockHitResult, BlockPos, BlockState, Builder, CollisionContext, IntegerProperty (+9 more)
+Cohesion: 0.06
+Nodes (37): BlockItem, CustomPacketPayload, MouseScrollingEvent, BlockEntity, BlockGetter, BlockHitResult, BlockPos, BlockState (+29 more)
 
 ### Community 47 - "Block"
-Cohesion: 0.16
-Nodes (16): Block, BlockGetter, BlockPlaceContext, BlockPos, BlockState, Builder, CollisionContext, DirectionProperty (+8 more)
+Cohesion: 0.18
+Nodes (15): BlockGetter, BlockPlaceContext, BlockPos, BlockState, Builder, CollisionContext, DirectionProperty, Level (+7 more)
 
 ### Community 48 - "ElixirItem"
-Cohesion: 0.05
-Nodes (48): BannerPatternItem, Item, ItemNameBlockItem, PotionContents, AlmanacItem, InteractionHand, InteractionResultHolder, ItemStack (+40 more)
+Cohesion: 0.20
+Nodes (14): PotionContents, ElixirItem, Component, InteractionHand, InteractionResultHolder, ItemStack, Level, LivingEntity (+6 more)
 
 ### Community 49 - "CabinetBlock.java"
-Cohesion: 0.10
-Nodes (23): RenderShape, DoubleCabinetProvider, AbstractContainerMenu, BlockEntity, BlockEntityTicker, BlockEntityType, BlockHitResult, BooleanProperty (+15 more)
+Cohesion: 0.11
+Nodes (20): RenderShape, DoubleCabinetProvider, AbstractContainerMenu, BlockEntity, BlockHitResult, BooleanProperty, Component, Container (+12 more)
 
 ### Community 50 - "WoodVariant"
 Cohesion: 0.10
-Nodes (22): SoundType, getSerializedName(), Block, Override, ResourceLocation, planks(), planksTexture(), sound() (+14 more)
+Nodes (23): SoundType, getSerializedName(), Block, Override, ResourceLocation, planks(), planksTexture(), sound() (+15 more)
 
 ### Community 51 - "ApiaryBlock.java"
-Cohesion: 0.17
-Nodes (16): ApiaryBlock, Block, BlockEntity, BlockEntityTicker, BlockEntityType, BlockHitResult, BlockPlaceContext, BlockPos (+8 more)
+Cohesion: 0.14
+Nodes (21): getSerializedName(), HerbBlock, Block, BlockGetter, BlockPos, BlockState, Builder, CollisionContext (+13 more)
 
 ### Community 52 - "Override"
 Cohesion: 0.15
@@ -451,28 +462,28 @@ Cohesion: 0.20
 Nodes (11): CraftingBookCategory, CraftingInput, ItemStack, Level, MobEffectInstance, NonNullList, Nullable, Override (+3 more)
 
 ### Community 54 - "AlchemyClientSetup.java"
-Cohesion: 0.15
+Cohesion: 0.16
 Nodes (10): ItemTooltipEvent, AlchemyClientSetup, Component, FMLClientSetupEvent, IEventBus, ItemStack, MobEffectInstance, RegisterClientExtensionsEvent (+2 more)
 
 ### Community 55 - "EntityBlock"
-Cohesion: 0.15
-Nodes (10): BlockStateProvider, FarmData, ModelFile, Block, ExistingFileHelper, ItemModelBuilder, Override, PackOutput (+2 more)
+Cohesion: 0.16
+Nodes (8): BlockStateProvider, Block, ExistingFileHelper, ItemModelBuilder, Override, PackOutput, ResourceLocation, RusticBlockStateProvider
 
 ### Community 56 - "Home.md"
 Cohesion: 0.24
 Nodes (4): Ghost Peppers ##, Grape Juice ##, Grape Vines ##, Grapes ##
 
 ### Community 57 - "ChairBlock.java"
-Cohesion: 0.05
-Nodes (47): Entity, EntityHitResult, HitResult, MoveFunction, ParticleOptions, ChairBlock, Block, BlockGetter (+39 more)
+Cohesion: 0.08
+Nodes (32): AABB, Entity, MoveFunction, ChairBlock, Block, BlockGetter, BlockHitResult, BlockPlaceContext (+24 more)
 
 ### Community 58 - "AlchemySetup.java"
 Cohesion: 0.12
-Nodes (16): AttackEntityEvent, RightClickBlock, RightClickItem, AlchemySetup, BlockPos, BlockState, Finish, IEventBus (+8 more)
+Nodes (15): AttackEntityEvent, RightClickBlock, RightClickItem, AlchemySetup, BlockPos, BlockState, Finish, InteractionHand (+7 more)
 
 ### Community 59 - "Minecraft"
-Cohesion: 0.22
-Nodes (8): Minecraft, ItemDisplayContext, ItemStack, MultiBufferSource, Override, PoseStack, LiquidBarrelItemRenderer, VaseScrollHandler
+Cohesion: 0.13
+Nodes (15): BlockEntityWithoutLevelRenderer, Minecraft, AlchemyParticles, ItemDisplayContext, ItemStack, MultiBufferSource, Override, PoseStack (+7 more)
 
 ### Community 60 - "EffectEvents.java"
 Cohesion: 0.15
@@ -487,16 +498,16 @@ Cohesion: 0.15
 Nodes (5): BookCategory, ResourceLocation, BookEntryCategory, Override, CategoryPage
 
 ### Community 63 - "StorageClientSetup"
-Cohesion: 0.16
-Nodes (6): Item, MaterialColors, RegisterClientExtensionsEvent, RegisterClientReloadListenersEvent, RegisterRenderers, StorageClientSetup
+Cohesion: 0.12
+Nodes (8): IEventBus, RegisterClientExtensionsEvent, RegisterClientReloadListenersEvent, RegisterMenuScreensEvent, RegisterRenderers, StorageClientSetup, RegisterMenuScreensEvent, QuarkCompat
 
 ### Community 64 - "AbstractCondenserMenu"
 Cohesion: 0.15
-Nodes (10): AbstractCondenserMenu, BlockPos, ContainerData, FluidTank, IItemHandler, Inventory, ItemStack, MenuType (+2 more)
+Nodes (11): SlotItemHandler, AbstractCondenserMenu, BlockPos, ContainerData, FluidTank, IItemHandler, Inventory, ItemStack (+3 more)
 
 ### Community 65 - "EvaporatingBasinBlockEntity"
-Cohesion: 0.15
-Nodes (12): EvaporatingBasinBlockEntity, BlockPos, BlockState, CompoundTag, FluidStack, FluidTank, IItemHandler, ItemStackHandler (+4 more)
+Cohesion: 0.13
+Nodes (14): EvaporatingBasinBlockEntity, BlockPos, BlockState, FluidStack, FluidTank, IItemHandler, ItemStackHandler, Level (+6 more)
 
 ### Community 66 - "Crushing-Tub.md"
 Cohesion: 0.15
@@ -507,32 +518,32 @@ Cohesion: 0.16
 Nodes (15): CriterionTrigger, Doubles, ItemSubPredicate, RegisterEvent, BoozeItemPredicate, Codec, Fluid, Holder (+7 more)
 
 ### Community 68 - "RusticHearth.java"
-Cohesion: 0.22
-Nodes (9): Logger, Mod, ModContainer, BannerPattern, ResourceKey, ModBanners, IEventBus, ResourceLocation (+1 more)
+Cohesion: 0.36
+Nodes (6): Logger, Mod, ModContainer, IEventBus, ResourceLocation, RusticHearth
 
 ### Community 69 - "BoozeFluidType.java"
 Cohesion: 0.20
 Nodes (9): Item, BoozeFluidType, FluidStack, FunctionalInterface, ItemStack, Level, Override, Player (+1 more)
 
 ### Community 70 - ".render"
-Cohesion: 0.23
-Nodes (14): CropStakeBlock, BlockGetter, BlockHitResult, BlockPos, BlockState, CollisionContext, InteractionHand, ItemInteractionResult (+6 more)
+Cohesion: 0.19
+Nodes (17): CrushingTubBlock, BlockEntity, BlockGetter, BlockHitResult, BlockPos, BlockState, CollisionContext, Entity (+9 more)
 
 ### Community 71 - "LiquidBarrelItem.java"
 Cohesion: 0.18
 Nodes (11): FluidHandlerItemStack, FluidStack, FluidHandler, Block, Component, FluidStack, ItemStack, Override (+3 more)
 
 ### Community 72 - "ClientSetup.java"
-Cohesion: 0.20
-Nodes (5): ModifyBakingResult, FarmClientSetup, Block, IEventBus, Item
+Cohesion: 0.11
+Nodes (10): ModifyBakingResult, ClientSetup, IEventBus, RegisterClientExtensionsEvent, RegisterRenderers, IEventBus, FarmClientSetup, Block (+2 more)
 
 ### Community 73 - "WorldGenOptions"
-Cohesion: 0.13
-Nodes (11): OreFeature, Codec, FeaturePlaceContext, Override, SlateVeinFeature, BooleanSupplier, Codec, ConfigValue (+3 more)
+Cohesion: 0.24
+Nodes (6): BooleanSupplier, Codec, ConfigValue, DoubleValue, IntValue, WorldGenOptions
 
 ### Community 74 - "RusticBarrelBlock.java"
-Cohesion: 0.09
-Nodes (30): RandomizableContainerBlockEntity, BlockEntity, BlockGetter, BlockHitResult, BlockPos, BlockState, CollisionContext, InteractionResult (+22 more)
+Cohesion: 0.23
+Nodes (13): BlockEntity, BlockGetter, BlockHitResult, BlockPos, BlockState, CollisionContext, InteractionResult, Level (+5 more)
 
 ### Community 75 - "BookEntry"
 Cohesion: 0.17
@@ -540,11 +551,11 @@ Nodes (6): BookEntry, ItemStack, Nullable, BookPage, CategoriesPage, TextPage
 
 ### Community 76 - "FirePowerAttackPayload.java"
 Cohesion: 0.18
-Nodes (13): CustomPacketPayload, FirePowerAttackPayload, IPayloadContext, Override, RegistryFriendlyByteBuf, StreamCodec, Type, IPayloadContext (+5 more)
+Nodes (17): EntityBlock, Precipitation, BlockEntity, BlockGetter, BlockHitResult, BlockPos, BlockState, CollisionContext (+9 more)
 
 ### Community 77 - "RusticJeiPlugin.java"
-Cohesion: 0.07
-Nodes (29): IGuiHandlerRegistration, IModPlugin, IRecipeCatalystRegistration, IRecipeCategoryRegistration, IRecipeRegistration, ISubtypeRegistration, IVanillaCategoryExtensionRegistration, JeiPlugin (+21 more)
+Cohesion: 0.23
+Nodes (8): CondenserBlockEntity, AbstractContainerMenu, BlockPos, BlockState, Component, Inventory, Override, Player
 
 ### Community 78 - "FluidContentSubtypeInterpreter.java"
 Cohesion: 0.20
@@ -555,8 +566,8 @@ Cohesion: 0.23
 Nodes (13): ShapelessRecipe, CraftingBookCategory, CraftingInput, Ingredient, ItemStack, MapCodec, NonNullList, Override (+5 more)
 
 ### Community 80 - "CrushingTubBlockEntity"
-Cohesion: 0.12
-Nodes (17): CrushingTubBlockEntity, BlockPos, BlockState, CompoundTag, FluidTank, IFluidHandler, ItemStack, ItemStackHandler (+9 more)
+Cohesion: 0.18
+Nodes (10): CrushingTubBlockEntity, BlockPos, BlockState, CompoundTag, FluidTank, IFluidHandler, ItemStack, ItemStackHandler (+2 more)
 
 ### Community 81 - "PageView.java"
 Cohesion: 0.57
@@ -587,8 +598,8 @@ Cohesion: 0.18
 Nodes (11): BlockEntity, BlockEntityType, BlockPos, BlockState, ClientGamePacketListener, CompoundTag, IItemHandler, Override (+3 more)
 
 ### Community 88 - "CraftingDisplays.java"
-Cohesion: 0.33
-Nodes (7): CraftingRecipe, CraftingDisplays, Fluid, Item, ItemStack, RecipeHolder, TagKey
+Cohesion: 0.30
+Nodes (8): CraftingRecipe, DataComponents, CraftingDisplays, Fluid, Item, ItemStack, RecipeHolder, TagKey
 
 ### Community 89 - "TomatoEntity.java"
 Cohesion: 0.22
@@ -603,40 +614,40 @@ Cohesion: 0.50
 Nodes (3): BlockEntityTicker, BlockEntityType, SuppressWarnings
 
 ### Community 92 - "FertileSoilBlock.java"
-Cohesion: 0.21
-Nodes (6): IFluidHandlerItem, BrewingBarrelBlockEntity, ContainerData, ItemStackHandler, Nullable, RecipeHolder
+Cohesion: 0.12
+Nodes (15): IFluidHandlerItem, BrewingBarrelBlockEntity, AbstractContainerMenu, BlockPos, BlockState, Component, ContainerData, FluidStack (+7 more)
 
 ### Community 93 - "ModBlockEntities.java"
-Cohesion: 0.17
-Nodes (9): BlockSource, DefaultDispenseItemBehavior, FireBlock, ItemStack, Override, RopeDispenseBehavior, DecorSetup, IEventBus (+1 more)
+Cohesion: 0.21
+Nodes (10): EntityHitResult, HitResult, ParticleOptions, EntityType, Item, Level, LivingEntity, Override (+2 more)
 
 ### Community 94 - "FluidRendering.java"
 Cohesion: 0.24
 Nodes (9): FluidRendering, Component, FluidStack, GuiGraphics, MultiBufferSource, Pose, PoseStack, VertexConsumer (+1 more)
 
 ### Community 96 - "RusticFoodItem.java"
-Cohesion: 0.24
-Nodes (8): CabinetRecipe, CraftingBookCategory, CraftingInput, ItemStack, Level, Override, Provider, RecipeSerializer
+Cohesion: 0.23
+Nodes (9): CustomRecipe, CabinetRecipe, CraftingBookCategory, CraftingInput, ItemStack, Level, Override, Provider (+1 more)
 
 ### Community 97 - "OliveOilRecipe.java"
-Cohesion: 0.22
-Nodes (9): CustomRecipe, CraftingBookCategory, CraftingInput, ItemStack, Level, Override, Provider, RecipeSerializer (+1 more)
+Cohesion: 0.24
+Nodes (8): CraftingBookCategory, CraftingInput, ItemStack, Level, Override, Provider, RecipeSerializer, OliveOilRecipe
 
 ### Community 98 - ".addTags"
 Cohesion: 0.26
 Nodes (10): BlockPos, BlockState, Direction, Level, LevelReader, MapCodec, Override, RandomSource (+2 more)
 
 ### Community 99 - "VaseItem.java"
-Cohesion: 0.22
-Nodes (6): BlockItem, MouseScrollingEvent, FMLClientSetupEvent, Block, ItemStack, VaseItem
+Cohesion: 0.25
+Nodes (10): RandomizableContainerBlockEntity, BlockEntityType, BlockPos, BlockState, CompoundTag, ItemStack, NonNullList, Override (+2 more)
 
 ### Community 100 - "ChatFormatting"
 Cohesion: 0.16
 Nodes (11): ChatFormatting, BoozeQuality, Component, of(), Tier, HIGH, HIGHEST, HIGHISH (+3 more)
 
 ### Community 101 - "RusticTagProviders.java"
-Cohesion: 0.08
-Nodes (29): BannerPatterns, Biomes, BlockTagsProvider, EntityTypes, IntrinsicHolderTagsProvider, IntrinsicTagAppender, ItemTagsProvider, Fluids (+21 more)
+Cohesion: 0.19
+Nodes (14): BlockTagsProvider, IntrinsicHolderTagsProvider, IntrinsicTagAppender, ItemTagsProvider, Blocks, EntityTypes, Fluids, Items (+6 more)
 
 ### Community 102 - "AdvancedCondenserBlock"
 Cohesion: 0.23
@@ -675,19 +686,19 @@ Cohesion: 0.31
 Nodes (7): AbstractContainerScreen, ApiaryScreen, Component, GuiGraphics, Inventory, Override, ResourceLocation
 
 ### Community 111 - "CondenserMenu.java"
-Cohesion: 0.18
-Nodes (9): AbstractContainerMenu, BlockPos, BlockState, Component, FluidStack, IItemHandler, Inventory, Level (+1 more)
+Cohesion: 0.26
+Nodes (10): AlchemyInteractions, BlockPos, IFluidHandler, IItemHandlerModifiable, InteractionHand, InteractionResult, ItemInteractionResult, ItemStack (+2 more)
 
 ### Community 112 - "DecorClientSetup.java"
-Cohesion: 0.20
-Nodes (7): DecorClientSetup, Block, IEventBus, ItemStack, Pose, RegisterRenderers, VertexConsumer
+Cohesion: 0.21
+Nodes (7): RenderType, DecorClientSetup, Block, ItemStack, Pose, RegisterRenderers, VertexConsumer
 
 ### Community 114 - "ModDataComponents.java"
-Cohesion: 0.24
-Nodes (11): DataComponents, DataComponentType, Codec, DeferredHolder, Item, MobEffectInstance, RegistryFriendlyByteBuf, StreamCodec (+3 more)
+Cohesion: 0.27
+Nodes (10): DataComponentType, Codec, DeferredHolder, Item, MobEffectInstance, RegistryFriendlyByteBuf, StreamCodec, ModDataComponents (+2 more)
 
 ### Community 115 - "ChairSeatEntity"
-Cohesion: 0.24
+Cohesion: 0.26
 Nodes (10): AlchemyCategory, GuiGraphics, IDrawableAnimated, IDrawableStatic, IFocusGroup, IGuiHelper, IRecipeLayoutBuilder, IRecipeSlotsView (+2 more)
 
 ### Community 116 - "ModWorldGen.java"
@@ -699,8 +710,8 @@ Cohesion: 0.30
 Nodes (10): SimpleCraftingRecipeSerializer, DeferredHolder, DeferredRegister, ICondition, MapCodec, RecipeSerializer, RecipeType, RegistryFriendlyByteBuf (+2 more)
 
 ### Community 118 - "AlchemyCategory.java"
-Cohesion: 0.60
-Nodes (3): Container, Inventory, RegistryFriendlyByteBuf
+Cohesion: 0.25
+Nodes (11): FertileSoilBlock, BlockGetter, BlockPos, BlockState, Direction, LevelReader, MapCodec, Override (+3 more)
 
 ### Community 120 - "FullmetalClient.java"
 Cohesion: 0.24
@@ -711,8 +722,8 @@ Cohesion: 0.27
 Nodes (9): IronTorchBlock, BlockPos, BlockState, Direction, Level, MapCodec, Override, RandomSource (+1 more)
 
 ### Community 122 - "CabinetRenderer.java"
-Cohesion: 0.27
-Nodes (8): AABB, CabinetRenderer, Direction, Item, MultiBufferSource, Override, PoseStack, ResourceLocation
+Cohesion: 0.29
+Nodes (7): CabinetRenderer, Direction, Item, MultiBufferSource, Override, PoseStack, ResourceLocation
 
 ### Community 123 - "Almanac"
 Cohesion: 0.23
@@ -735,8 +746,8 @@ Cohesion: 0.33
 Nodes (5): IFluidHandler, DrainOnlyFluidHandler, FluidAction, FluidStack, Override
 
 ### Community 128 - "ConfigChancePlacement"
-Cohesion: 0.27
-Nodes (8): PlacementFilter, ConfigChancePlacement, BlockPos, MapCodec, Override, PlacementContext, PlacementModifierType, RandomSource
+Cohesion: 0.29
+Nodes (7): ConfigChancePlacement, BlockPos, MapCodec, Override, PlacementContext, PlacementModifierType, RandomSource
 
 ### Community 129 - "RusticChainBlock"
 Cohesion: 0.24
@@ -751,8 +762,8 @@ Cohesion: 0.20
 Nodes (11): AbstractContainerMenu, BlockPos, BlockState, Component, Inventory, Override, VaseBlockEntity, BlockEntityType (+3 more)
 
 ### Community 134 - "ConfigFilterPlacement"
-Cohesion: 0.29
-Nodes (7): ConfigFilterPlacement, BlockPos, MapCodec, Override, PlacementContext, PlacementModifierType, RandomSource
+Cohesion: 0.24
+Nodes (8): PlacementFilter, ConfigFilterPlacement, BlockPos, MapCodec, Override, PlacementContext, PlacementModifierType, RandomSource
 
 ### Community 135 - "Brewing.md"
 Cohesion: 0.18
@@ -778,13 +789,9 @@ Nodes (6): AbstractCondenserScreen, Component, GuiGraphics, Inventory, Override,
 Cohesion: 0.60
 Nodes (3): Container, Inventory, RegistryFriendlyByteBuf
 
-### Community 141 - "AlmanacItem.java"
-Cohesion: 0.29
-Nodes (3): Blocks, Blocks, Blocks
-
 ### Community 142 - ".use"
-Cohesion: 0.32
-Nodes (4): AutomationHandler, IItemHandlerModifiable, ItemStack, Override
+Cohesion: 0.23
+Nodes (6): AutomationHandler, CompoundTag, IItemHandlerModifiable, ItemStack, Override, Provider
 
 ### Community 144 - "Mod-Compatibility.md"
 Cohesion: 0.17
@@ -831,16 +838,16 @@ Cohesion: 0.39
 Nodes (5): SaplingBlock, MapCodec, Override, TreeGrower, RusticSaplingBlock
 
 ### Community 155 - "RusticAdvancementProvider.java"
-Cohesion: 0.30
+Cohesion: 0.27
 Nodes (8): EvaporatingCategory, GuiGraphics, IFocusGroup, IGuiHelper, IRecipeLayoutBuilder, IRecipeSlotsView, Override, RecipeHolder
 
 ### Community 156 - "RusticWorldGenProvider.java"
-Cohesion: 0.14
-Nodes (14): AdvancementProvider, DatapackBuiltinEntriesProvider, GatherDataEvent, RegistrySetBuilder, DataGenerators, EventBusSubscriber, SubscribeEvent, ExistingFileHelper (+6 more)
+Cohesion: 0.43
+Nodes (5): AdvancementProvider, ExistingFileHelper, PackOutput, Provider, RusticAdvancementProvider
 
 ### Community 157 - "Proyecto"
-Cohesion: 0.22
-Nodes (8): Alternativas de summary, CurseForge — Variables del proyecto, Dependencias opcionales, Pendiente antes de subir, Proyecto, Publicado, Summary (campo *Summary*, editable en la web; límite 200), Tokens
+Cohesion: 0.24
+Nodes (11): Component, FunctionalInterface, ItemStack, Level, LivingEntity, Override, Player, TooltipContext (+3 more)
 
 ### Community 159 - "ErisNameFormat.java"
 Cohesion: 0.38
@@ -860,23 +867,23 @@ Nodes (5): Compat opcional (supuesto, reversible), Fases, Identidad (decidido 20
 
 ### Community 163 - "ClientSetup.java"
 Cohesion: 0.22
-Nodes (5): ClientSetup, IEventBus, RegisterClientExtensionsEvent, RegisterRenderers, IEventBus
+Nodes (10): CondenserScreen, Component, Inventory, ResourceLocation, CondenserMenu, ContainerData, IItemHandler, Inventory (+2 more)
 
 ### Community 164 - "RusticLanguageProvider.java"
 Cohesion: 0.47
 Nodes (3): LanguageProvider, PackOutput, RusticLanguageProvider
 
 ### Community 165 - "ModEntities.java"
-Cohesion: 0.31
-Nodes (7): BlockEntityWithoutLevelRenderer, CabinetItemRenderer, ItemDisplayContext, ItemStack, MultiBufferSource, Override, PoseStack
+Cohesion: 0.27
+Nodes (9): BannerPatternItem, ItemNameBlockItem, Block, BlockItem, DeferredBlock, DeferredItem, Item, SafeVarargs (+1 more)
 
 ### Community 166 - "Rustic Hearth #"
 Cohesion: 0.33
 Nodes (5): EffectCure, LivingEntity, MobEffectInstance, Override, TipsyEffect
 
 ### Community 167 - "Rustic Hearth — Logo de CurseForge"
-Cohesion: 0.33
-Nodes (6): Context, FluidStack, MultiBufferSource, Override, PoseStack, LiquidBarrelRenderer
+Cohesion: 0.15
+Nodes (5): Biomes, EntityTypes, Items, Fluids, Override
 
 ### Community 168 - "rename_from_revived.py"
 Cohesion: 0.60
@@ -887,8 +894,8 @@ Cohesion: 0.60
 Nodes (4): convert_text(), main(), new_name(), Renames the project in place from Cottagecraft to Rustic Hearth (text content, t
 
 ### Community 170 - "ModBanners.java"
-Cohesion: 0.31
-Nodes (6): BlockEntityRenderer, EvaporatingBasinRenderer, Context, MultiBufferSource, Override, PoseStack
+Cohesion: 0.29
+Nodes (8): BlockEntityRenderer, CrushingTubRenderer, BlockEntity, Context, ItemStack, MultiBufferSource, Override, PoseStack
 
 ### Community 171 - "gradlew"
 Cohesion: 0.83
@@ -899,8 +906,8 @@ Cohesion: 0.50
 Nodes (3): Origin, Requirements, Rustic Hearth
 
 ### Community 173 - "Changelog"
-Cohesion: 0.40
-Nodes (4): 0.0.0-beta.1 (sin publicar), [0.0.0-beta.2] - 2026-10-29, Changed, Changelog
+Cohesion: 0.29
+Nodes (6): 0.0.0-beta.1 (sin publicar), [0.0.0-beta.2] - 2026-10-29, [0.0.0-beta.3] - 2026-10-30, Changed, Changed, Changelog
 
 ### Community 178 - "RusticClient.java"
 Cohesion: 0.28
@@ -930,6 +937,10 @@ Nodes (3): FeatherEffect, LivingEntity, Override
 Cohesion: 0.38
 Nodes (3): FullmetalEffect, LivingEntity, Override
 
+### Community 185 - "CompatSetup"
+Cohesion: 0.28
+Nodes (8): Item, AlmanacItem, InteractionHand, InteractionResultHolder, ItemStack, Level, Override, Player
+
 ### Community 186 - "CLAUDE.md — rustic_hearth (1.21.1)"
 Cohesion: 0.40
 Nodes (4): CLAUDE.md — rustic_hearth (1.21.1), Prioridad de instrucciones, Recordatorios específicos, Workflow del mod
@@ -939,32 +950,76 @@ Cohesion: 0.40
 Nodes (4): Después de generarla, Por qué cada elemento está pedido, Prompt, Rustic Hearth — Logo de CurseForge
 
 ### Community 189 - "RusticBarrelMenu.java"
-Cohesion: 0.60
-Nodes (3): Container, Inventory, RegistryFriendlyByteBuf
+Cohesion: 0.24
+Nodes (7): BannerPatterns, BannerPatterns, Biomes, BannerPattern, Biome, TagAppender, TagsProvider
 
 ### Community 190 - "VaseMenu.java"
+Cohesion: 0.27
+Nodes (5): GlobalLootModifierProvider, Override, PackOutput, Provider, RusticLootModifierProvider
+
+### Community 191 - ".loadAdditional"
+Cohesion: 0.29
+Nodes (7): AbstractContainerMenu, BlockPos, BlockState, Component, Inventory, Override, RusticBarrelBlockEntity
+
+### Community 200 - "OreConfiguration"
+Cohesion: 0.31
+Nodes (6): OreConfiguration, OreFeature, Codec, FeaturePlaceContext, Override, SlateVeinFeature
+
+### Community 201 - "Provider"
+Cohesion: 0.42
+Nodes (4): ExistingFileHelper, PackOutput, Provider, TagLookup
+
+### Community 202 - ".use"
+Cohesion: 0.31
+Nodes (7): InteractionHand, InteractionResultHolder, ItemStack, Level, Override, Player, TomatoItem
+
+### Community 203 - "StakeCropSeedItem"
+Cohesion: 0.36
+Nodes (5): Block, InteractionResult, Override, StakeCropSeedItem, UseOnContext
+
+### Community 204 - "RusticWorldGenProvider.java"
+Cohesion: 0.43
+Nodes (5): DatapackBuiltinEntriesProvider, RegistrySetBuilder, PackOutput, Provider, RusticWorldGenProvider
+
+### Community 205 - "DataGenerators.java"
+Cohesion: 0.43
+Nodes (4): GatherDataEvent, DataGenerators, EventBusSubscriber, SubscribeEvent
+
+### Community 206 - "BlazingTrailEffect"
+Cohesion: 0.38
+Nodes (3): BlazingTrailEffect, LivingEntity, Override
+
+### Community 207 - "ShameEffect.java"
+Cohesion: 0.38
+Nodes (3): LivingEntity, Override, ShameEffect
+
+### Community 209 - ".loadAdditional"
 Cohesion: 0.60
-Nodes (3): Container, Inventory, RegistryFriendlyByteBuf
+Nodes (3): CompoundTag, Override, Provider
+
+### Community 210 - "ModBanners.java"
+Cohesion: 0.60
+Nodes (3): BannerPattern, ResourceKey, ModBanners
 
 ## Knowledge Gaps
-- **128 isolated node(s):** `OAK`, `SPRUCE`, `BIRCH`, `JUNGLE`, `ACACIA` (+123 more)
+- **123 isolated node(s):** `OAK`, `SPRUCE`, `BIRCH`, `JUNGLE`, `ACACIA` (+118 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 - **11 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `ModBlocks` connect `ModBlocks.java` to `HerbBlock`, `RusticChainBlock`, `EvaporatingBasinBlock.java`, `GrapeLeavesBlock`, `RopeBaseBlock`, `HorizontalDirectionalBlock`, `StakeCropBlock`, `StakeTiedBlock`, `ModTags.java`, `DoubleCandleBlock.java`, `CandleLeverBlock`, `LatticeBlock`, `RusticSaplingBlock`, `AppleLeavesBlock`, `RetortBlock.java`, `CabinetBlock`, `GrapeStemBlock`, `BrewingBarrelBlock.java`, `TableBlock`, `VaseBlock.java`, `Block`, `WoodVariant`, `ApiaryBlock.java`, `ChairBlock.java`, `.render`, `RusticBarrelBlock.java`, `.addTags`, `AdvancedCondenserBlock`, `CondenserBlock`, `IronTorchBlock`, `BrewingCategory.java`?**
+- **Why does `ModBlocks` connect `ModBlocks.java` to `HerbBlock`, `RusticChainBlock`, `EvaporatingBasinBlock.java`, `GrapeLeavesBlock`, `RopeBaseBlock`, `HorizontalDirectionalBlock`, `StakeCropBlock`, `StakeTiedBlock`, `ModTags.java`, `DoubleCandleBlock.java`, `CandleLeverBlock`, `LatticeBlock`, `RusticSaplingBlock`, `AppleLeavesBlock`, `RetortBlock.java`, `CabinetBlock`, `GrapeStemBlock`, `BrewingBarrelBlock.java`, `TableBlock`, `VaseBlock.java`, `Block`, `WoodVariant`, `ApiaryBlock.java`, `ChairBlock.java`, `.render`, `RusticBarrelBlock.java`, `FirePowerAttackPayload.java`, `.addTags`, `AdvancedCondenserBlock`, `CondenserBlock`, `AlchemyCategory.java`, `IronTorchBlock`, `BrewingCategory.java`?**
   _High betweenness centrality (0.043) - this node is a cross-community bridge._
-- **Why does `CabinetBlock` connect `CabinetBlock` to `EvaporatingBasinBlock.java`, `ModBlocks.java`, `HorizontalDirectionalBlock`, `.init`, `CabinetBlock.java`, `CabinetBlockEntity`, `CabinetRenderer.java`?**
+- **Why does `CabinetBlock` connect `CabinetBlock` to `ModBlocks.java`, `HorizontalDirectionalBlock`, `.init`, `FirePowerAttackPayload.java`, `CabinetBlock.java`, `CabinetBlockEntity`, `CabinetRenderer.java`?**
   _High betweenness centrality (0.039) - this node is a cross-community bridge._
-- **Why does `AbstractCondenserBlockEntity` connect `AbstractCondenserBlockEntity` to `AbstractCondenserMenu`, `CondenserRecipe`, `AdvancedCondenserBlock`, `CondenserBlock`, `AbstractCondenserBlock`, `AutomationHandler`, `AdvancedCondenserBlockEntity`, `RusticJeiPlugin.java`, `AdvancedCondenserMenu.java`, `SyncedBlockEntity`, `AlchemySetup.java`, `StorageBlockEntity`?**
+- **Why does `AbstractCondenserBlockEntity` connect `AbstractCondenserBlockEntity` to `AbstractCondenserMenu`, `ClientSetup.java`, `CondenserRecipe`, `ApiaryBlockEntity.java`, `AdvancedCondenserBlock`, `CondenserBlock`, `AbstractCondenserBlock`, `AutomationHandler`, `AdvancedCondenserBlockEntity`, `RusticJeiPlugin.java`, `AdvancedCondenserMenu.java`, `SyncedBlockEntity`, `AlchemySetup.java`, `StorageBlockEntity`?**
   _High betweenness centrality (0.034) - this node is a cross-community bridge._
 - **What connects `Project root = two levels above this file (docs/tools/check_template_ids.py).`, `Every name the new mod registers, from assets, lang keys and Java code.`, `Return (status, targets) for one `rustic:<name>` id.` to the rest of the system?**
-  _133 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _128 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `HerbBlock` be split into smaller, more focused modules?**
-  _Cohesion score 0.052360338074623786 - nodes in this community are weakly interconnected._
-- **Should `EvaporatingBasinBlock.java` be split into smaller, more focused modules?**
-  _Cohesion score 0.05021929824561404 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.08365384615384615 - nodes in this community are weakly interconnected._
 - **Should `FarmData.java` be split into smaller, more focused modules?**
-  _Cohesion score 0.08244680851063829 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.08013468013468013 - nodes in this community are weakly interconnected._
+- **Should `GrapeLeavesBlock` be split into smaller, more focused modules?**
+  _Cohesion score 0.09465891062929667 - nodes in this community are weakly interconnected._

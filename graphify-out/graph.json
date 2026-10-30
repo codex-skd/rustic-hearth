@@ -556,7 +556,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "stringrepresentable",
-      "community": 33,
+      "community": 50,
       "norm_label": "stringrepresentable"
     },
     {
@@ -806,7 +806,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "block",
-      "community": 47,
+      "community": 7,
       "norm_label": "block"
     },
     {
@@ -816,7 +816,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "entityblock",
-      "community": 2,
+      "community": 76,
       "norm_label": "entityblock"
     },
     {
@@ -1536,7 +1536,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_alchemyinteractions",
-      "community": 2,
+      "community": 111,
       "norm_label": "alchemyinteractions.java"
     },
     {
@@ -1546,7 +1546,7 @@
       "source_location": "L23",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_alchemyinteractions_alchemyinteractions",
-      "community": 2,
+      "community": 111,
       "norm_label": "alchemyinteractions"
     },
     {
@@ -1556,7 +1556,7 @@
       "source_location": "L24",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_alchemyinteractions_alchemyinteractions_alchemyinteractions",
-      "community": 2,
+      "community": 111,
       "norm_label": ".alchemyinteractions()"
     },
     {
@@ -1566,7 +1566,7 @@
       "source_location": "L28",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_alchemyinteractions_alchemyinteractions_isfluidcontainer",
-      "community": 2,
+      "community": 111,
       "norm_label": ".isfluidcontainer()"
     },
     {
@@ -1576,7 +1576,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_alchemyinteractions_java_itemstack",
-      "community": 2,
+      "community": 111,
       "norm_label": "itemstack"
     },
     {
@@ -1586,7 +1586,7 @@
       "source_location": "L38",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_alchemyinteractions_alchemyinteractions_usefluidcontainer",
-      "community": 2,
+      "community": 111,
       "norm_label": ".usefluidcontainer()"
     },
     {
@@ -1596,7 +1596,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_alchemyinteractions_java_level",
-      "community": 2,
+      "community": 111,
       "norm_label": "level"
     },
     {
@@ -1606,7 +1606,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_alchemyinteractions_java_player",
-      "community": 2,
+      "community": 111,
       "norm_label": "player"
     },
     {
@@ -1616,7 +1616,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_alchemyinteractions_java_interactionhand",
-      "community": 2,
+      "community": 111,
       "norm_label": "interactionhand"
     },
     {
@@ -1626,7 +1626,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_alchemyinteractions_java_ifluidhandler",
-      "community": 2,
+      "community": 111,
       "norm_label": "ifluidhandler"
     },
     {
@@ -1636,7 +1636,7 @@
       "source_location": "L43",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_alchemyinteractions_alchemyinteractions_usefluidcontainerconsuming",
-      "community": 2,
+      "community": 111,
       "norm_label": ".usefluidcontainerconsuming()"
     },
     {
@@ -1646,7 +1646,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_alchemyinteractions_java_iteminteractionresult",
-      "community": 2,
+      "community": 111,
       "norm_label": "iteminteractionresult"
     },
     {
@@ -1656,7 +1656,7 @@
       "source_location": "L49",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_alchemyinteractions_alchemyinteractions_voidtank",
-      "community": 2,
+      "community": 111,
       "norm_label": ".voidtank()"
     },
     {
@@ -1666,7 +1666,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_alchemyinteractions_java_blockpos",
-      "community": 2,
+      "community": 111,
       "norm_label": "blockpos"
     },
     {
@@ -1676,7 +1676,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_alchemyinteractions_java_interactionresult",
-      "community": 2,
+      "community": 111,
       "norm_label": "interactionresult"
     },
     {
@@ -1686,7 +1686,7 @@
       "source_location": "L61",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_alchemyinteractions_alchemyinteractions_takeitem",
-      "community": 2,
+      "community": 111,
       "norm_label": ".takeitem()"
     },
     {
@@ -1696,7 +1696,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_alchemyinteractions_java_iitemhandlermodifiable",
-      "community": 2,
+      "community": 111,
       "norm_label": "iitemhandlermodifiable"
     },
     {
@@ -2166,7 +2166,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_crushingtubblock",
-      "community": 2,
+      "community": 70,
       "norm_label": "crushingtubblock.java"
     },
     {
@@ -2176,7 +2176,7 @@
       "source_location": "L29",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_crushingtubblock_crushingtubblock",
-      "community": 2,
+      "community": 70,
       "norm_label": "crushingtubblock"
     },
     {
@@ -2186,7 +2186,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_crushingtubblock_java_mapcodec",
-      "community": 2,
+      "community": 70,
       "norm_label": "mapcodec"
     },
     {
@@ -2196,7 +2196,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_crushingtubblock_java_voxelshape",
-      "community": 2,
+      "community": 70,
       "norm_label": "voxelshape"
     },
     {
@@ -2206,7 +2206,7 @@
       "source_location": "L33",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_crushingtubblock_crushingtubblock_crushingtubblock",
-      "community": 2,
+      "community": 70,
       "norm_label": ".crushingtubblock()"
     },
     {
@@ -2216,7 +2216,7 @@
       "source_location": "L37",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_crushingtubblock_crushingtubblock_codec",
-      "community": 2,
+      "community": 70,
       "norm_label": ".codec()"
     },
     {
@@ -2226,7 +2226,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_crushingtubblock_java_override",
-      "community": 2,
+      "community": 70,
       "norm_label": "override"
     },
     {
@@ -2236,7 +2236,7 @@
       "source_location": "L42",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_crushingtubblock_crushingtubblock_getshape",
-      "community": 2,
+      "community": 70,
       "norm_label": ".getshape()"
     },
     {
@@ -2246,7 +2246,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_crushingtubblock_java_blockstate",
-      "community": 2,
+      "community": 70,
       "norm_label": "blockstate"
     },
     {
@@ -2256,7 +2256,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_crushingtubblock_java_blockgetter",
-      "community": 2,
+      "community": 70,
       "norm_label": "blockgetter"
     },
     {
@@ -2266,7 +2266,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_crushingtubblock_java_blockpos",
-      "community": 2,
+      "community": 70,
       "norm_label": "blockpos"
     },
     {
@@ -2276,7 +2276,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_crushingtubblock_java_collisioncontext",
-      "community": 2,
+      "community": 70,
       "norm_label": "collisioncontext"
     },
     {
@@ -2286,7 +2286,7 @@
       "source_location": "L47",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_crushingtubblock_crushingtubblock_newblockentity",
-      "community": 2,
+      "community": 70,
       "norm_label": ".newblockentity()"
     },
     {
@@ -2296,7 +2296,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_crushingtubblock_java_blockentity",
-      "community": 2,
+      "community": 70,
       "norm_label": "blockentity"
     },
     {
@@ -2306,7 +2306,7 @@
       "source_location": "L52",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_crushingtubblock_crushingtubblock_fallon",
-      "community": 2,
+      "community": 70,
       "norm_label": ".fallon()"
     },
     {
@@ -2316,7 +2316,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_crushingtubblock_java_level",
-      "community": 2,
+      "community": 70,
       "norm_label": "level"
     },
     {
@@ -2326,7 +2326,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_crushingtubblock_java_entity",
-      "community": 2,
+      "community": 70,
       "norm_label": "entity"
     },
     {
@@ -2336,7 +2336,7 @@
       "source_location": "L60",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_crushingtubblock_crushingtubblock_useitemon",
-      "community": 2,
+      "community": 70,
       "norm_label": ".useitemon()"
     },
     {
@@ -2346,7 +2346,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_crushingtubblock_java_itemstack",
-      "community": 2,
+      "community": 70,
       "norm_label": "itemstack"
     },
     {
@@ -2356,7 +2356,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_crushingtubblock_java_player",
-      "community": 2,
+      "community": 70,
       "norm_label": "player"
     },
     {
@@ -2366,7 +2366,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_crushingtubblock_java_interactionhand",
-      "community": 2,
+      "community": 70,
       "norm_label": "interactionhand"
     },
     {
@@ -2376,7 +2376,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_crushingtubblock_java_blockhitresult",
-      "community": 2,
+      "community": 70,
       "norm_label": "blockhitresult"
     },
     {
@@ -2386,7 +2386,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_crushingtubblock_java_iteminteractionresult",
-      "community": 2,
+      "community": 70,
       "norm_label": "iteminteractionresult"
     },
     {
@@ -2396,7 +2396,7 @@
       "source_location": "L78",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_crushingtubblock_crushingtubblock_usewithoutitem",
-      "community": 2,
+      "community": 70,
       "norm_label": ".usewithoutitem()"
     },
     {
@@ -2406,7 +2406,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_crushingtubblock_java_interactionresult",
-      "community": 2,
+      "community": 70,
       "norm_label": "interactionresult"
     },
     {
@@ -2416,7 +2416,7 @@
       "source_location": "L92",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_crushingtubblock_crushingtubblock_onremove",
-      "community": 2,
+      "community": 70,
       "norm_label": ".onremove()"
     },
     {
@@ -2716,7 +2716,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_liquidbarrelblock",
-      "community": 2,
+      "community": 76,
       "norm_label": "liquidbarrelblock.java"
     },
     {
@@ -2726,7 +2726,7 @@
       "source_location": "L29",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_liquidbarrelblock_liquidbarrelblock",
-      "community": 2,
+      "community": 76,
       "norm_label": "liquidbarrelblock"
     },
     {
@@ -2736,7 +2736,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_liquidbarrelblock_java_mapcodec",
-      "community": 2,
+      "community": 76,
       "norm_label": "mapcodec"
     },
     {
@@ -2746,7 +2746,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_liquidbarrelblock_java_voxelshape",
-      "community": 2,
+      "community": 76,
       "norm_label": "voxelshape"
     },
     {
@@ -2756,7 +2756,7 @@
       "source_location": "L34",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_liquidbarrelblock_liquidbarrelblock_liquidbarrelblock",
-      "community": 2,
+      "community": 76,
       "norm_label": ".liquidbarrelblock()"
     },
     {
@@ -2766,7 +2766,7 @@
       "source_location": "L38",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_liquidbarrelblock_liquidbarrelblock_codec",
-      "community": 2,
+      "community": 76,
       "norm_label": ".codec()"
     },
     {
@@ -2776,7 +2776,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_liquidbarrelblock_java_override",
-      "community": 2,
+      "community": 76,
       "norm_label": "override"
     },
     {
@@ -2786,7 +2786,7 @@
       "source_location": "L43",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_liquidbarrelblock_liquidbarrelblock_getshape",
-      "community": 2,
+      "community": 76,
       "norm_label": ".getshape()"
     },
     {
@@ -2796,7 +2796,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_liquidbarrelblock_java_blockstate",
-      "community": 2,
+      "community": 76,
       "norm_label": "blockstate"
     },
     {
@@ -2806,7 +2806,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_liquidbarrelblock_java_blockgetter",
-      "community": 2,
+      "community": 76,
       "norm_label": "blockgetter"
     },
     {
@@ -2816,7 +2816,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_liquidbarrelblock_java_blockpos",
-      "community": 2,
+      "community": 76,
       "norm_label": "blockpos"
     },
     {
@@ -2826,7 +2826,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_liquidbarrelblock_java_collisioncontext",
-      "community": 2,
+      "community": 76,
       "norm_label": "collisioncontext"
     },
     {
@@ -2836,7 +2836,7 @@
       "source_location": "L48",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_liquidbarrelblock_liquidbarrelblock_newblockentity",
-      "community": 2,
+      "community": 76,
       "norm_label": ".newblockentity()"
     },
     {
@@ -2846,7 +2846,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_liquidbarrelblock_java_blockentity",
-      "community": 2,
+      "community": 76,
       "norm_label": "blockentity"
     },
     {
@@ -2856,7 +2856,7 @@
       "source_location": "L53",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_liquidbarrelblock_liquidbarrelblock_useitemon",
-      "community": 2,
+      "community": 76,
       "norm_label": ".useitemon()"
     },
     {
@@ -2866,7 +2866,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_liquidbarrelblock_java_itemstack",
-      "community": 2,
+      "community": 76,
       "norm_label": "itemstack"
     },
     {
@@ -2876,7 +2876,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_liquidbarrelblock_java_level",
-      "community": 2,
+      "community": 76,
       "norm_label": "level"
     },
     {
@@ -2886,7 +2886,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_liquidbarrelblock_java_player",
-      "community": 2,
+      "community": 76,
       "norm_label": "player"
     },
     {
@@ -2896,7 +2896,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_liquidbarrelblock_java_interactionhand",
-      "community": 2,
+      "community": 76,
       "norm_label": "interactionhand"
     },
     {
@@ -2906,7 +2906,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_liquidbarrelblock_java_blockhitresult",
-      "community": 2,
+      "community": 76,
       "norm_label": "blockhitresult"
     },
     {
@@ -2916,7 +2916,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_liquidbarrelblock_java_iteminteractionresult",
-      "community": 2,
+      "community": 76,
       "norm_label": "iteminteractionresult"
     },
     {
@@ -2926,7 +2926,7 @@
       "source_location": "L62",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_alchemy_liquidbarrelblock_liquidbarrelblock_handleprecipitation",
-      "community": 2,
+      "community": 76,
       "norm_label": ".handleprecipitation()"
     },
     {
@@ -2936,7 +2936,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "precipitation",
-      "community": 2,
+      "community": 76,
       "norm_label": "precipitation"
     },
     {
@@ -6206,7 +6206,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_decor_ropedispensebehavior",
-      "community": 93,
+      "community": 9,
       "norm_label": "ropedispensebehavior.java"
     },
     {
@@ -6216,7 +6216,7 @@
       "source_location": "L16",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_decor_ropedispensebehavior_ropedispensebehavior",
-      "community": 93,
+      "community": 9,
       "norm_label": "ropedispensebehavior"
     },
     {
@@ -6226,7 +6226,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "defaultdispenseitembehavior",
-      "community": 93,
+      "community": 9,
       "norm_label": "defaultdispenseitembehavior"
     },
     {
@@ -6236,7 +6236,7 @@
       "source_location": "L17",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_decor_ropedispensebehavior_ropedispensebehavior_execute",
-      "community": 93,
+      "community": 9,
       "norm_label": ".execute()"
     },
     {
@@ -6246,7 +6246,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "blocksource",
-      "community": 93,
+      "community": 9,
       "norm_label": "blocksource"
     },
     {
@@ -6256,7 +6256,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_decor_ropedispensebehavior_java_itemstack",
-      "community": 93,
+      "community": 9,
       "norm_label": "itemstack"
     },
     {
@@ -6266,7 +6266,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_decor_ropedispensebehavior_java_override",
-      "community": 93,
+      "community": 9,
       "norm_label": "override"
     },
     {
@@ -8116,7 +8116,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_cropstakeblock",
-      "community": 70,
+      "community": 12,
       "norm_label": "cropstakeblock.java"
     },
     {
@@ -8126,7 +8126,7 @@
       "source_location": "L26",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_cropstakeblock_cropstakeblock",
-      "community": 70,
+      "community": 12,
       "norm_label": "cropstakeblock"
     },
     {
@@ -8136,7 +8136,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_cropstakeblock_java_mapcodec",
-      "community": 70,
+      "community": 12,
       "norm_label": "mapcodec"
     },
     {
@@ -8146,7 +8146,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_cropstakeblock_java_voxelshape",
-      "community": 70,
+      "community": 12,
       "norm_label": "voxelshape"
     },
     {
@@ -8156,7 +8156,7 @@
       "source_location": "L33",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_cropstakeblock_cropstakeblock_cropstakeblock",
-      "community": 70,
+      "community": 12,
       "norm_label": ".cropstakeblock()"
     },
     {
@@ -8166,7 +8166,7 @@
       "source_location": "L37",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_cropstakeblock_cropstakeblock_codec",
-      "community": 70,
+      "community": 12,
       "norm_label": ".codec()"
     },
     {
@@ -8176,7 +8176,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_cropstakeblock_java_override",
-      "community": 70,
+      "community": 12,
       "norm_label": "override"
     },
     {
@@ -8186,7 +8186,7 @@
       "source_location": "L42",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_cropstakeblock_cropstakeblock_getshape",
-      "community": 70,
+      "community": 12,
       "norm_label": ".getshape()"
     },
     {
@@ -8196,7 +8196,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_cropstakeblock_java_blockstate",
-      "community": 70,
+      "community": 12,
       "norm_label": "blockstate"
     },
     {
@@ -8206,7 +8206,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_cropstakeblock_java_blockgetter",
-      "community": 70,
+      "community": 12,
       "norm_label": "blockgetter"
     },
     {
@@ -8216,7 +8216,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_cropstakeblock_java_blockpos",
-      "community": 70,
+      "community": 12,
       "norm_label": "blockpos"
     },
     {
@@ -8226,7 +8226,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_cropstakeblock_java_collisioncontext",
-      "community": 70,
+      "community": 12,
       "norm_label": "collisioncontext"
     },
     {
@@ -8236,7 +8236,7 @@
       "source_location": "L47",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_cropstakeblock_cropstakeblock_getcollisionshape",
-      "community": 70,
+      "community": 12,
       "norm_label": ".getcollisionshape()"
     },
     {
@@ -8246,7 +8246,7 @@
       "source_location": "L52",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_cropstakeblock_cropstakeblock_useitemon",
-      "community": 70,
+      "community": 12,
       "norm_label": ".useitemon()"
     },
     {
@@ -8256,7 +8256,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_cropstakeblock_java_itemstack",
-      "community": 70,
+      "community": 12,
       "norm_label": "itemstack"
     },
     {
@@ -8266,7 +8266,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_cropstakeblock_java_level",
-      "community": 70,
+      "community": 12,
       "norm_label": "level"
     },
     {
@@ -8276,7 +8276,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_cropstakeblock_java_player",
-      "community": 70,
+      "community": 12,
       "norm_label": "player"
     },
     {
@@ -8286,7 +8286,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_cropstakeblock_java_interactionhand",
-      "community": 70,
+      "community": 12,
       "norm_label": "interactionhand"
     },
     {
@@ -8296,7 +8296,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_cropstakeblock_java_blockhitresult",
-      "community": 70,
+      "community": 12,
       "norm_label": "blockhitresult"
     },
     {
@@ -8306,7 +8306,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_cropstakeblock_java_iteminteractionresult",
-      "community": 70,
+      "community": 12,
       "norm_label": "iteminteractionresult"
     },
     {
@@ -8456,7 +8456,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_fertilesoilblock",
-      "community": 4,
+      "community": 118,
       "norm_label": "fertilesoilblock.java"
     },
     {
@@ -8466,7 +8466,7 @@
       "source_location": "L25",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_fertilesoilblock_fertilesoilblock",
-      "community": 4,
+      "community": 118,
       "norm_label": "fertilesoilblock"
     },
     {
@@ -8476,7 +8476,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_fertilesoilblock_java_mapcodec",
-      "community": 4,
+      "community": 118,
       "norm_label": "mapcodec"
     },
     {
@@ -8486,7 +8486,7 @@
       "source_location": "L28",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_fertilesoilblock_fertilesoilblock_fertilesoilblock",
-      "community": 4,
+      "community": 118,
       "norm_label": ".fertilesoilblock()"
     },
     {
@@ -8496,7 +8496,7 @@
       "source_location": "L32",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_fertilesoilblock_fertilesoilblock_codec",
-      "community": 4,
+      "community": 118,
       "norm_label": ".codec()"
     },
     {
@@ -8506,7 +8506,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_fertilesoilblock_java_override",
-      "community": 4,
+      "community": 118,
       "norm_label": "override"
     },
     {
@@ -8516,7 +8516,7 @@
       "source_location": "L37",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_fertilesoilblock_fertilesoilblock_cansustainplant",
-      "community": 4,
+      "community": 118,
       "norm_label": ".cansustainplant()"
     },
     {
@@ -8526,7 +8526,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_fertilesoilblock_java_blockstate",
-      "community": 4,
+      "community": 118,
       "norm_label": "blockstate"
     },
     {
@@ -8536,7 +8536,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_fertilesoilblock_java_blockgetter",
-      "community": 4,
+      "community": 118,
       "norm_label": "blockgetter"
     },
     {
@@ -8546,7 +8546,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_fertilesoilblock_java_blockpos",
-      "community": 4,
+      "community": 118,
       "norm_label": "blockpos"
     },
     {
@@ -8556,7 +8556,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_fertilesoilblock_java_direction",
-      "community": 4,
+      "community": 118,
       "norm_label": "direction"
     },
     {
@@ -8566,7 +8566,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "tristate",
-      "community": 4,
+      "community": 118,
       "norm_label": "tristate"
     },
     {
@@ -8576,7 +8576,7 @@
       "source_location": "L47",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_fertilesoilblock_fertilesoilblock_isfertile",
-      "community": 4,
+      "community": 118,
       "norm_label": ".isfertile()"
     },
     {
@@ -8586,7 +8586,7 @@
       "source_location": "L53",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_fertilesoilblock_fertilesoilblock_ontreegrow",
-      "community": 4,
+      "community": 118,
       "norm_label": ".ontreegrow()"
     },
     {
@@ -8596,7 +8596,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_fertilesoilblock_java_levelreader",
-      "community": 4,
+      "community": 118,
       "norm_label": "levelreader"
     },
     {
@@ -8606,7 +8606,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_fertilesoilblock_java_randomsource",
-      "community": 4,
+      "community": 118,
       "norm_label": "randomsource"
     },
     {
@@ -8616,7 +8616,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_fertilesoilblock_java_treeconfiguration",
-      "community": 4,
+      "community": 118,
       "norm_label": "treeconfiguration"
     },
     {
@@ -9416,7 +9416,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock",
-      "community": 0,
+      "community": 51,
       "norm_label": "herbblock.java"
     },
     {
@@ -9426,7 +9426,7 @@
       "source_location": "L34",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_herbblock",
-      "community": 0,
+      "community": 51,
       "norm_label": "herbblock"
     },
     {
@@ -9436,7 +9436,7 @@
       "source_location": "L37",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_planttype",
-      "community": 0,
+      "community": 51,
       "norm_label": "planttype"
     },
     {
@@ -9446,7 +9446,7 @@
       "source_location": "L39",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_planttype_plains",
-      "community": 0,
+      "community": 51,
       "norm_label": "plains"
     },
     {
@@ -9456,7 +9456,7 @@
       "source_location": "L41",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_planttype_desert",
-      "community": 0,
+      "community": 51,
       "norm_label": "desert"
     },
     {
@@ -9466,7 +9466,7 @@
       "source_location": "L43",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_planttype_cave",
-      "community": 0,
+      "community": 51,
       "norm_label": "cave"
     },
     {
@@ -9476,7 +9476,7 @@
       "source_location": "L45",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_planttype_nether",
-      "community": 0,
+      "community": 51,
       "norm_label": "nether"
     },
     {
@@ -9486,7 +9486,7 @@
       "source_location": "L54",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_getserializedname",
-      "community": 0,
+      "community": 51,
       "norm_label": "getserializedname()"
     },
     {
@@ -9496,7 +9496,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_java_override",
-      "community": 0,
+      "community": 51,
       "norm_label": "override"
     },
     {
@@ -9506,7 +9506,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_java_mapcodec",
-      "community": 0,
+      "community": 51,
       "norm_label": "mapcodec"
     },
     {
@@ -9516,7 +9516,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_java_integerproperty",
-      "community": 0,
+      "community": 51,
       "norm_label": "integerproperty"
     },
     {
@@ -9526,7 +9526,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_java_voxelshape",
-      "community": 0,
+      "community": 51,
       "norm_label": "voxelshape"
     },
     {
@@ -9536,7 +9536,7 @@
       "source_location": "L75",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_herbblock_herbblock",
-      "community": 0,
+      "community": 51,
       "norm_label": ".herbblock()"
     },
     {
@@ -9546,7 +9546,7 @@
       "source_location": "L81",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_herbblock_getplanttype",
-      "community": 0,
+      "community": 51,
       "norm_label": ".getplanttype()"
     },
     {
@@ -9556,7 +9556,7 @@
       "source_location": "L85",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_herbblock_codec",
-      "community": 0,
+      "community": 51,
       "norm_label": ".codec()"
     },
     {
@@ -9566,7 +9566,7 @@
       "source_location": "L90",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_herbblock_createblockstatedefinition",
-      "community": 0,
+      "community": 51,
       "norm_label": ".createblockstatedefinition()"
     },
     {
@@ -9576,7 +9576,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_java_builder",
-      "community": 0,
+      "community": 51,
       "norm_label": "builder"
     },
     {
@@ -9586,7 +9586,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_java_block",
-      "community": 0,
+      "community": 51,
       "norm_label": "block"
     },
     {
@@ -9596,7 +9596,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_java_blockstate",
-      "community": 0,
+      "community": 51,
       "norm_label": "blockstate"
     },
     {
@@ -9606,7 +9606,7 @@
       "source_location": "L96",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_herbblock_grownstate",
-      "community": 0,
+      "community": 51,
       "norm_label": ".grownstate()"
     },
     {
@@ -9616,7 +9616,7 @@
       "source_location": "L100",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_herbblock_getshape",
-      "community": 0,
+      "community": 51,
       "norm_label": ".getshape()"
     },
     {
@@ -9626,7 +9626,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_java_blockgetter",
-      "community": 0,
+      "community": 51,
       "norm_label": "blockgetter"
     },
     {
@@ -9636,7 +9636,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_java_blockpos",
-      "community": 0,
+      "community": 51,
       "norm_label": "blockpos"
     },
     {
@@ -9646,7 +9646,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_java_collisioncontext",
-      "community": 0,
+      "community": 51,
       "norm_label": "collisioncontext"
     },
     {
@@ -9656,7 +9656,7 @@
       "source_location": "L106",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_herbblock_mayplaceon",
-      "community": 0,
+      "community": 51,
       "norm_label": ".mayplaceon()"
     },
     {
@@ -9666,7 +9666,7 @@
       "source_location": "L116",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_herbblock_israndomlyticking",
-      "community": 0,
+      "community": 51,
       "norm_label": ".israndomlyticking()"
     },
     {
@@ -9676,7 +9676,7 @@
       "source_location": "L121",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_herbblock_randomtick",
-      "community": 0,
+      "community": 51,
       "norm_label": ".randomtick()"
     },
     {
@@ -9686,7 +9686,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_java_serverlevel",
-      "community": 0,
+      "community": 51,
       "norm_label": "serverlevel"
     },
     {
@@ -9696,7 +9696,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_java_randomsource",
-      "community": 0,
+      "community": 51,
       "norm_label": "randomsource"
     },
     {
@@ -9706,7 +9706,7 @@
       "source_location": "L131",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_herbblock_isvalidbonemealtarget",
-      "community": 0,
+      "community": 51,
       "norm_label": ".isvalidbonemealtarget()"
     },
     {
@@ -9716,7 +9716,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_java_levelreader",
-      "community": 0,
+      "community": 51,
       "norm_label": "levelreader"
     },
     {
@@ -9726,7 +9726,7 @@
       "source_location": "L136",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_herbblock_isbonemealsuccess",
-      "community": 0,
+      "community": 51,
       "norm_label": ".isbonemealsuccess()"
     },
     {
@@ -9736,7 +9736,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_java_level",
-      "community": 0,
+      "community": 51,
       "norm_label": "level"
     },
     {
@@ -9746,7 +9746,7 @@
       "source_location": "L141",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_farm_herbblock_herbblock_performbonemeal",
-      "community": 0,
+      "community": 51,
       "norm_label": ".performbonemeal()"
     },
     {
@@ -10706,7 +10706,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_storage_apiaryblock",
-      "community": 51,
+      "community": 10,
       "norm_label": "apiaryblock.java"
     },
     {
@@ -10716,7 +10716,7 @@
       "source_location": "L26",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_storage_apiaryblock_apiaryblock",
-      "community": 51,
+      "community": 10,
       "norm_label": "apiaryblock"
     },
     {
@@ -10726,7 +10726,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_storage_apiaryblock_java_mapcodec",
-      "community": 51,
+      "community": 10,
       "norm_label": "mapcodec"
     },
     {
@@ -10736,7 +10736,7 @@
       "source_location": "L29",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_storage_apiaryblock_apiaryblock_apiaryblock",
-      "community": 51,
+      "community": 10,
       "norm_label": ".apiaryblock()"
     },
     {
@@ -10746,7 +10746,7 @@
       "source_location": "L34",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_storage_apiaryblock_apiaryblock_codec",
-      "community": 51,
+      "community": 10,
       "norm_label": ".codec()"
     },
     {
@@ -10756,7 +10756,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_storage_apiaryblock_java_override",
-      "community": 51,
+      "community": 10,
       "norm_label": "override"
     },
     {
@@ -10766,7 +10766,7 @@
       "source_location": "L39",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_storage_apiaryblock_apiaryblock_createblockstatedefinition",
-      "community": 51,
+      "community": 10,
       "norm_label": ".createblockstatedefinition()"
     },
     {
@@ -10776,7 +10776,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_storage_apiaryblock_java_builder",
-      "community": 51,
+      "community": 10,
       "norm_label": "builder"
     },
     {
@@ -10786,7 +10786,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_storage_apiaryblock_java_block",
-      "community": 51,
+      "community": 10,
       "norm_label": "block"
     },
     {
@@ -10796,7 +10796,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_storage_apiaryblock_java_blockstate",
-      "community": 51,
+      "community": 10,
       "norm_label": "blockstate"
     },
     {
@@ -10806,7 +10806,7 @@
       "source_location": "L44",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_storage_apiaryblock_apiaryblock_getstateforplacement",
-      "community": 51,
+      "community": 10,
       "norm_label": ".getstateforplacement()"
     },
     {
@@ -10816,7 +10816,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_storage_apiaryblock_java_blockplacecontext",
-      "community": 51,
+      "community": 10,
       "norm_label": "blockplacecontext"
     },
     {
@@ -10826,7 +10826,7 @@
       "source_location": "L49",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_storage_apiaryblock_apiaryblock_newblockentity",
-      "community": 51,
+      "community": 10,
       "norm_label": ".newblockentity()"
     },
     {
@@ -10836,7 +10836,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_storage_apiaryblock_java_blockpos",
-      "community": 51,
+      "community": 10,
       "norm_label": "blockpos"
     },
     {
@@ -10846,7 +10846,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_storage_apiaryblock_java_blockentity",
-      "community": 51,
+      "community": 10,
       "norm_label": "blockentity"
     },
     {
@@ -10856,7 +10856,7 @@
       "source_location": "L54",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_storage_apiaryblock_apiaryblock_getticker",
-      "community": 51,
+      "community": 10,
       "norm_label": ".getticker()"
     },
     {
@@ -10866,7 +10866,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_storage_apiaryblock_java_level",
-      "community": 51,
+      "community": 10,
       "norm_label": "level"
     },
     {
@@ -10876,7 +10876,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_storage_apiaryblock_java_blockentitytype",
-      "community": 51,
+      "community": 10,
       "norm_label": "blockentitytype"
     },
     {
@@ -10886,7 +10886,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_storage_apiaryblock_java_blockentityticker",
-      "community": 51,
+      "community": 10,
       "norm_label": "blockentityticker"
     },
     {
@@ -10896,7 +10896,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_storage_apiaryblock_java_suppresswarnings",
-      "community": 51,
+      "community": 10,
       "norm_label": "suppresswarnings"
     },
     {
@@ -10906,7 +10906,7 @@
       "source_location": "L61",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_storage_apiaryblock_apiaryblock_usewithoutitem",
-      "community": 51,
+      "community": 10,
       "norm_label": ".usewithoutitem()"
     },
     {
@@ -10916,7 +10916,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_storage_apiaryblock_java_player",
-      "community": 51,
+      "community": 10,
       "norm_label": "player"
     },
     {
@@ -10926,7 +10926,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_storage_apiaryblock_java_blockhitresult",
-      "community": 51,
+      "community": 10,
       "norm_label": "blockhitresult"
     },
     {
@@ -10936,7 +10936,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_storage_apiaryblock_java_interactionresult",
-      "community": 51,
+      "community": 10,
       "norm_label": "interactionresult"
     },
     {
@@ -10946,7 +10946,7 @@
       "source_location": "L69",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_storage_apiaryblock_apiaryblock_onremove",
-      "community": 51,
+      "community": 10,
       "norm_label": ".onremove()"
     },
     {
@@ -11246,7 +11246,7 @@
       "source_location": "L151",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_storage_cabinetblock_cabinetblock_getticker",
-      "community": 49,
+      "community": 30,
       "norm_label": ".getticker()"
     },
     {
@@ -11256,7 +11256,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_storage_cabinetblock_java_blockentitytype",
-      "community": 49,
+      "community": 30,
       "norm_label": "blockentitytype"
     },
     {
@@ -11266,7 +11266,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_storage_cabinetblock_java_blockentityticker",
-      "community": 49,
+      "community": 30,
       "norm_label": "blockentityticker"
     },
     {
@@ -11276,7 +11276,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_storage_cabinetblock_java_suppresswarnings",
-      "community": 49,
+      "community": 30,
       "norm_label": "suppresswarnings"
     },
     {
@@ -11396,7 +11396,7 @@
       "source_location": "L196",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_block_storage_cabinetblock_cabinetblock_getcontainer",
-      "community": 30,
+      "community": 49,
       "norm_label": ".getcontainer()"
     },
     {
@@ -12236,7 +12236,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "menuprovider",
-      "community": 31,
+      "community": 37,
       "norm_label": "menuprovider"
     },
     {
@@ -12846,7 +12846,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_alchemy_brewingbarrelblockentity",
-      "community": 111,
+      "community": 92,
       "norm_label": "brewingbarrelblockentity.java"
     },
     {
@@ -12916,7 +12916,7 @@
       "source_location": "L100",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_alchemy_brewingbarrelblockentity_brewingbarrelblockentity_brewingbarrelblockentity",
-      "community": 111,
+      "community": 92,
       "norm_label": ".brewingbarrelblockentity()"
     },
     {
@@ -12926,7 +12926,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_alchemy_brewingbarrelblockentity_java_blockpos",
-      "community": 111,
+      "community": 92,
       "norm_label": "blockpos"
     },
     {
@@ -12936,7 +12936,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_alchemy_brewingbarrelblockentity_java_blockstate",
-      "community": 111,
+      "community": 92,
       "norm_label": "blockstate"
     },
     {
@@ -12976,7 +12976,7 @@
       "source_location": "L125",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_alchemy_brewingbarrelblockentity_brewingbarrelblockentity_getautomationhandler",
-      "community": 111,
+      "community": 92,
       "norm_label": ".getautomationhandler()"
     },
     {
@@ -12986,7 +12986,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_alchemy_brewingbarrelblockentity_java_iitemhandler",
-      "community": 111,
+      "community": 92,
       "norm_label": "iitemhandler"
     },
     {
@@ -13086,7 +13086,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_alchemy_brewingbarrelblockentity_java_fluidstack",
-      "community": 111,
+      "community": 92,
       "norm_label": "fluidstack"
     },
     {
@@ -13096,7 +13096,7 @@
       "source_location": "L168",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_alchemy_brewingbarrelblockentity_brewingbarrelblockentity_servertick",
-      "community": 111,
+      "community": 92,
       "norm_label": ".servertick()"
     },
     {
@@ -13106,7 +13106,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_alchemy_brewingbarrelblockentity_java_level",
-      "community": 111,
+      "community": 92,
       "norm_label": "level"
     },
     {
@@ -13216,7 +13216,7 @@
       "source_location": "L284",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_alchemy_brewingbarrelblockentity_brewingbarrelblockentity_getdisplayname",
-      "community": 111,
+      "community": 92,
       "norm_label": ".getdisplayname()"
     },
     {
@@ -13226,7 +13226,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_alchemy_brewingbarrelblockentity_java_component",
-      "community": 111,
+      "community": 92,
       "norm_label": "component"
     },
     {
@@ -13246,7 +13246,7 @@
       "source_location": "L289",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_alchemy_brewingbarrelblockentity_brewingbarrelblockentity_createmenu",
-      "community": 111,
+      "community": 92,
       "norm_label": ".createmenu()"
     },
     {
@@ -13256,7 +13256,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_alchemy_brewingbarrelblockentity_java_inventory",
-      "community": 111,
+      "community": 92,
       "norm_label": "inventory"
     },
     {
@@ -13266,7 +13266,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_alchemy_brewingbarrelblockentity_java_player",
-      "community": 111,
+      "community": 92,
       "norm_label": "player"
     },
     {
@@ -13276,7 +13276,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_alchemy_brewingbarrelblockentity_java_abstractcontainermenu",
-      "community": 111,
+      "community": 92,
       "norm_label": "abstractcontainermenu"
     },
     {
@@ -13286,7 +13286,7 @@
       "source_location": "L296",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_alchemy_brewingbarrelblockentity_brewingbarrelblockentity_saveadditional",
-      "community": 191,
+      "community": 142,
       "norm_label": ".saveadditional()"
     },
     {
@@ -13296,7 +13296,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_alchemy_brewingbarrelblockentity_java_compoundtag",
-      "community": 191,
+      "community": 142,
       "norm_label": "compoundtag"
     },
     {
@@ -13306,7 +13306,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_alchemy_brewingbarrelblockentity_java_provider",
-      "community": 191,
+      "community": 142,
       "norm_label": "provider"
     },
     {
@@ -13316,7 +13316,7 @@
       "source_location": "L306",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_alchemy_brewingbarrelblockentity_brewingbarrelblockentity_loadadditional",
-      "community": 191,
+      "community": 142,
       "norm_label": ".loadadditional()"
     },
     {
@@ -14056,7 +14056,7 @@
       "source_location": "L142",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_alchemy_evaporatingbasinblockentity_evaporatingbasinblockentity_saveadditional",
-      "community": 65,
+      "community": 209,
       "norm_label": ".saveadditional()"
     },
     {
@@ -14066,7 +14066,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_alchemy_evaporatingbasinblockentity_java_compoundtag",
-      "community": 65,
+      "community": 209,
       "norm_label": "compoundtag"
     },
     {
@@ -14076,7 +14076,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_alchemy_evaporatingbasinblockentity_java_provider",
-      "community": 65,
+      "community": 209,
       "norm_label": "provider"
     },
     {
@@ -14086,7 +14086,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_alchemy_evaporatingbasinblockentity_java_override",
-      "community": 65,
+      "community": 209,
       "norm_label": "override"
     },
     {
@@ -14096,7 +14096,7 @@
       "source_location": "L153",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_alchemy_evaporatingbasinblockentity_evaporatingbasinblockentity_loadadditional",
-      "community": 65,
+      "community": 209,
       "norm_label": ".loadadditional()"
     },
     {
@@ -15176,7 +15176,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_storage_rusticbarrelblockentity",
-      "community": 74,
+      "community": 191,
       "norm_label": "rusticbarrelblockentity.java"
     },
     {
@@ -15186,7 +15186,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_storage_rusticbarrelblockentity_rusticbarrelblockentity",
-      "community": 74,
+      "community": 191,
       "norm_label": "rusticbarrelblockentity"
     },
     {
@@ -15196,7 +15196,7 @@
       "source_location": "L15",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_storage_rusticbarrelblockentity_rusticbarrelblockentity_rusticbarrelblockentity",
-      "community": 74,
+      "community": 191,
       "norm_label": ".rusticbarrelblockentity()"
     },
     {
@@ -15206,7 +15206,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_storage_rusticbarrelblockentity_java_blockpos",
-      "community": 74,
+      "community": 191,
       "norm_label": "blockpos"
     },
     {
@@ -15216,7 +15216,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_storage_rusticbarrelblockentity_java_blockstate",
-      "community": 74,
+      "community": 191,
       "norm_label": "blockstate"
     },
     {
@@ -15226,7 +15226,7 @@
       "source_location": "L19",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_storage_rusticbarrelblockentity_rusticbarrelblockentity_getdefaultname",
-      "community": 74,
+      "community": 191,
       "norm_label": ".getdefaultname()"
     },
     {
@@ -15236,7 +15236,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_storage_rusticbarrelblockentity_java_component",
-      "community": 74,
+      "community": 191,
       "norm_label": "component"
     },
     {
@@ -15246,7 +15246,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_storage_rusticbarrelblockentity_java_override",
-      "community": 74,
+      "community": 191,
       "norm_label": "override"
     },
     {
@@ -15256,7 +15256,7 @@
       "source_location": "L24",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_storage_rusticbarrelblockentity_rusticbarrelblockentity_createmenu",
-      "community": 74,
+      "community": 191,
       "norm_label": ".createmenu()"
     },
     {
@@ -15266,7 +15266,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_storage_rusticbarrelblockentity_java_inventory",
-      "community": 74,
+      "community": 191,
       "norm_label": "inventory"
     },
     {
@@ -15276,7 +15276,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_storage_rusticbarrelblockentity_java_abstractcontainermenu",
-      "community": 74,
+      "community": 191,
       "norm_label": "abstractcontainermenu"
     },
     {
@@ -15286,7 +15286,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_storage_storageblockentity",
-      "community": 74,
+      "community": 99,
       "norm_label": "storageblockentity.java"
     },
     {
@@ -15296,7 +15296,7 @@
       "source_location": "L17",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_storage_storageblockentity_storageblockentity",
-      "community": 74,
+      "community": 99,
       "norm_label": "storageblockentity"
     },
     {
@@ -15306,7 +15306,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "randomizablecontainerblockentity",
-      "community": 74,
+      "community": 99,
       "norm_label": "randomizablecontainerblockentity"
     },
     {
@@ -15316,7 +15316,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_storage_storageblockentity_java_nonnulllist",
-      "community": 74,
+      "community": 99,
       "norm_label": "nonnulllist"
     },
     {
@@ -15326,7 +15326,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_storage_storageblockentity_java_itemstack",
-      "community": 74,
+      "community": 99,
       "norm_label": "itemstack"
     },
     {
@@ -15336,7 +15336,7 @@
       "source_location": "L21",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_storage_storageblockentity_storageblockentity_storageblockentity",
-      "community": 74,
+      "community": 99,
       "norm_label": ".storageblockentity()"
     },
     {
@@ -15346,7 +15346,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_storage_storageblockentity_java_blockentitytype",
-      "community": 74,
+      "community": 99,
       "norm_label": "blockentitytype"
     },
     {
@@ -15356,7 +15356,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_storage_storageblockentity_java_blockpos",
-      "community": 74,
+      "community": 99,
       "norm_label": "blockpos"
     },
     {
@@ -15366,7 +15366,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_storage_storageblockentity_java_blockstate",
-      "community": 74,
+      "community": 99,
       "norm_label": "blockstate"
     },
     {
@@ -15376,7 +15376,7 @@
       "source_location": "L25",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_storage_storageblockentity_storageblockentity_getcontainersize",
-      "community": 74,
+      "community": 99,
       "norm_label": ".getcontainersize()"
     },
     {
@@ -15386,7 +15386,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_storage_storageblockentity_java_override",
-      "community": 74,
+      "community": 99,
       "norm_label": "override"
     },
     {
@@ -15396,7 +15396,7 @@
       "source_location": "L30",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_storage_storageblockentity_storageblockentity_getitems",
-      "community": 74,
+      "community": 99,
       "norm_label": ".getitems()"
     },
     {
@@ -15406,7 +15406,7 @@
       "source_location": "L35",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_storage_storageblockentity_storageblockentity_setitems",
-      "community": 74,
+      "community": 99,
       "norm_label": ".setitems()"
     },
     {
@@ -15416,7 +15416,7 @@
       "source_location": "L40",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_storage_storageblockentity_storageblockentity_loadadditional",
-      "community": 74,
+      "community": 99,
       "norm_label": ".loadadditional()"
     },
     {
@@ -15426,7 +15426,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_storage_storageblockentity_java_compoundtag",
-      "community": 74,
+      "community": 99,
       "norm_label": "compoundtag"
     },
     {
@@ -15436,7 +15436,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_storage_storageblockentity_java_provider",
-      "community": 74,
+      "community": 99,
       "norm_label": "provider"
     },
     {
@@ -15446,7 +15446,7 @@
       "source_location": "L49",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_blockentity_storage_storageblockentity_storageblockentity_saveadditional",
-      "community": 74,
+      "community": 99,
       "norm_label": ".saveadditional()"
     },
     {
@@ -16166,7 +16166,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_clientsetup",
-      "community": 163,
+      "community": 72,
       "norm_label": "clientsetup.java"
     },
     {
@@ -16176,7 +16176,7 @@
       "source_location": "L21",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_clientsetup_clientsetup",
-      "community": 163,
+      "community": 72,
       "norm_label": "clientsetup"
     },
     {
@@ -16186,7 +16186,7 @@
       "source_location": "L22",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_clientsetup_clientsetup_clientsetup",
-      "community": 163,
+      "community": 72,
       "norm_label": ".clientsetup()"
     },
     {
@@ -16196,7 +16196,7 @@
       "source_location": "L25",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_clientsetup_clientsetup_init",
-      "community": 163,
+      "community": 72,
       "norm_label": ".init()"
     },
     {
@@ -16206,7 +16206,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_clientsetup_java_ieventbus",
-      "community": 163,
+      "community": 72,
       "norm_label": "ieventbus"
     },
     {
@@ -16216,7 +16216,7 @@
       "source_location": "L36",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_clientsetup_clientsetup_registerclientextensions",
-      "community": 163,
+      "community": 72,
       "norm_label": ".registerclientextensions()"
     },
     {
@@ -16226,7 +16226,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_clientsetup_java_registerclientextensionsevent",
-      "community": 163,
+      "community": 72,
       "norm_label": "registerclientextensionsevent"
     },
     {
@@ -16236,7 +16236,7 @@
       "source_location": "L61",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_clientsetup_clientsetup_registerrenderers",
-      "community": 163,
+      "community": 72,
       "norm_label": ".registerrenderers()"
     },
     {
@@ -16246,7 +16246,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_clientsetup_java_registerrenderers",
-      "community": 163,
+      "community": 72,
       "norm_label": "registerrenderers"
     },
     {
@@ -16776,7 +16776,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_alchemyparticles",
-      "community": 31,
+      "community": 59,
       "norm_label": "alchemyparticles.java"
     },
     {
@@ -16786,7 +16786,7 @@
       "source_location": "L12",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_alchemyparticles_alchemyparticles",
-      "community": 31,
+      "community": 59,
       "norm_label": "alchemyparticles"
     },
     {
@@ -16796,7 +16796,7 @@
       "source_location": "L16",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_alchemyparticles_alchemyparticles_alchemyparticles",
-      "community": 31,
+      "community": 59,
       "norm_label": ".alchemyparticles()"
     },
     {
@@ -17116,7 +17116,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_condenserscreen",
-      "community": 77,
+      "community": 163,
       "norm_label": "condenserscreen.java"
     },
     {
@@ -17126,7 +17126,7 @@
       "source_location": "L12",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_condenserscreen_condenserscreen",
-      "community": 77,
+      "community": 163,
       "norm_label": "condenserscreen"
     },
     {
@@ -17136,7 +17136,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_condenserscreen_java_resourcelocation",
-      "community": 77,
+      "community": 163,
       "norm_label": "resourcelocation"
     },
     {
@@ -17146,7 +17146,7 @@
       "source_location": "L17",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_condenserscreen_condenserscreen_condenserscreen",
-      "community": 77,
+      "community": 163,
       "norm_label": ".condenserscreen()"
     },
     {
@@ -17156,7 +17156,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_condenserscreen_java_inventory",
-      "community": 77,
+      "community": 163,
       "norm_label": "inventory"
     },
     {
@@ -17166,7 +17166,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_condenserscreen_java_component",
-      "community": 77,
+      "community": 163,
       "norm_label": "component"
     },
     {
@@ -17176,7 +17176,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_crushingtubrenderer",
-      "community": 80,
+      "community": 170,
       "norm_label": "crushingtubrenderer.java"
     },
     {
@@ -17186,7 +17186,7 @@
       "source_location": "L19",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_crushingtubrenderer_crushingtubrenderer",
-      "community": 80,
+      "community": 170,
       "norm_label": "crushingtubrenderer"
     },
     {
@@ -17206,7 +17206,7 @@
       "source_location": "L22",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_crushingtubrenderer_crushingtubrenderer_crushingtubrenderer",
-      "community": 80,
+      "community": 170,
       "norm_label": ".crushingtubrenderer()"
     },
     {
@@ -17216,7 +17216,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_crushingtubrenderer_java_context",
-      "community": 80,
+      "community": 170,
       "norm_label": "context"
     },
     {
@@ -17226,7 +17226,7 @@
       "source_location": "L25",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_crushingtubrenderer_crushingtubrenderer_render",
-      "community": 80,
+      "community": 170,
       "norm_label": ".render()"
     },
     {
@@ -17236,7 +17236,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_crushingtubrenderer_java_posestack",
-      "community": 80,
+      "community": 170,
       "norm_label": "posestack"
     },
     {
@@ -17246,7 +17246,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_crushingtubrenderer_java_multibuffersource",
-      "community": 80,
+      "community": 170,
       "norm_label": "multibuffersource"
     },
     {
@@ -17256,7 +17256,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_crushingtubrenderer_java_override",
-      "community": 80,
+      "community": 170,
       "norm_label": "override"
     },
     {
@@ -17266,7 +17266,7 @@
       "source_location": "L38",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_crushingtubrenderer_crushingtubrenderer_renderitempile",
-      "community": 80,
+      "community": 170,
       "norm_label": ".renderitempile()"
     },
     {
@@ -17276,7 +17276,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_crushingtubrenderer_java_blockentity",
-      "community": 80,
+      "community": 170,
       "norm_label": "blockentity"
     },
     {
@@ -17286,7 +17286,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_crushingtubrenderer_java_itemstack",
-      "community": 80,
+      "community": 170,
       "norm_label": "itemstack"
     },
     {
@@ -17296,7 +17296,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_evaporatingbasinrenderer",
-      "community": 170,
+      "community": 65,
       "norm_label": "evaporatingbasinrenderer.java"
     },
     {
@@ -17306,7 +17306,7 @@
       "source_location": "L13",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_evaporatingbasinrenderer_evaporatingbasinrenderer",
-      "community": 170,
+      "community": 65,
       "norm_label": "evaporatingbasinrenderer"
     },
     {
@@ -17316,7 +17316,7 @@
       "source_location": "L15",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_evaporatingbasinrenderer_evaporatingbasinrenderer_evaporatingbasinrenderer",
-      "community": 170,
+      "community": 65,
       "norm_label": ".evaporatingbasinrenderer()"
     },
     {
@@ -17326,7 +17326,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_evaporatingbasinrenderer_java_context",
-      "community": 170,
+      "community": 65,
       "norm_label": "context"
     },
     {
@@ -17336,7 +17336,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_evaporatingbasinrenderer_evaporatingbasinrenderer_render",
-      "community": 170,
+      "community": 65,
       "norm_label": ".render()"
     },
     {
@@ -17346,7 +17346,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_evaporatingbasinrenderer_java_posestack",
-      "community": 170,
+      "community": 65,
       "norm_label": "posestack"
     },
     {
@@ -17356,7 +17356,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_evaporatingbasinrenderer_java_multibuffersource",
-      "community": 170,
+      "community": 65,
       "norm_label": "multibuffersource"
     },
     {
@@ -17366,7 +17366,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_evaporatingbasinrenderer_java_override",
-      "community": 170,
+      "community": 65,
       "norm_label": "override"
     },
     {
@@ -17566,7 +17566,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "blockentitywithoutlevelrenderer",
-      "community": 165,
+      "community": 59,
       "norm_label": "blockentitywithoutlevelrenderer"
     },
     {
@@ -17656,7 +17656,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_liquidbarrelrenderer",
-      "community": 167,
+      "community": 42,
       "norm_label": "liquidbarrelrenderer.java"
     },
     {
@@ -17666,7 +17666,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_liquidbarrelrenderer_liquidbarrelrenderer",
-      "community": 167,
+      "community": 42,
       "norm_label": "liquidbarrelrenderer"
     },
     {
@@ -17676,7 +17676,7 @@
       "source_location": "L16",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_liquidbarrelrenderer_liquidbarrelrenderer_liquidbarrelrenderer",
-      "community": 167,
+      "community": 42,
       "norm_label": ".liquidbarrelrenderer()"
     },
     {
@@ -17686,7 +17686,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_liquidbarrelrenderer_java_context",
-      "community": 167,
+      "community": 42,
       "norm_label": "context"
     },
     {
@@ -17696,7 +17696,7 @@
       "source_location": "L19",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_liquidbarrelrenderer_liquidbarrelrenderer_render",
-      "community": 167,
+      "community": 42,
       "norm_label": ".render()"
     },
     {
@@ -17706,7 +17706,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_liquidbarrelrenderer_java_posestack",
-      "community": 167,
+      "community": 42,
       "norm_label": "posestack"
     },
     {
@@ -17716,7 +17716,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_liquidbarrelrenderer_java_multibuffersource",
-      "community": 167,
+      "community": 42,
       "norm_label": "multibuffersource"
     },
     {
@@ -17726,7 +17726,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_liquidbarrelrenderer_java_override",
-      "community": 167,
+      "community": 42,
       "norm_label": "override"
     },
     {
@@ -17736,7 +17736,7 @@
       "source_location": "L26",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_liquidbarrelrenderer_liquidbarrelrenderer_renderfluid",
-      "community": 167,
+      "community": 42,
       "norm_label": ".renderfluid()"
     },
     {
@@ -17746,7 +17746,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_alchemy_liquidbarrelrenderer_java_fluidstack",
-      "community": 167,
+      "community": 42,
       "norm_label": "fluidstack"
     },
     {
@@ -18546,7 +18546,7 @@
       "source_location": "L46",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_decor_decorclientsetup_decorclientsetup_init",
-      "community": 112,
+      "community": 72,
       "norm_label": ".init()"
     },
     {
@@ -18556,7 +18556,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_decor_decorclientsetup_java_ieventbus",
-      "community": 112,
+      "community": 72,
       "norm_label": "ieventbus"
     },
     {
@@ -18936,7 +18936,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "rendertype",
-      "community": 17,
+      "community": 112,
       "norm_label": "rendertype"
     },
     {
@@ -19676,7 +19676,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_storage_cabinetitemrenderer",
-      "community": 165,
+      "community": 59,
       "norm_label": "cabinetitemrenderer.java"
     },
     {
@@ -19686,7 +19686,7 @@
       "source_location": "L17",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_storage_cabinetitemrenderer_cabinetitemrenderer",
-      "community": 165,
+      "community": 59,
       "norm_label": "cabinetitemrenderer"
     },
     {
@@ -19696,7 +19696,7 @@
       "source_location": "L20",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_storage_cabinetitemrenderer_cabinetitemrenderer_cabinetitemrenderer",
-      "community": 165,
+      "community": 59,
       "norm_label": ".cabinetitemrenderer()"
     },
     {
@@ -19706,7 +19706,7 @@
       "source_location": "L25",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_storage_cabinetitemrenderer_cabinetitemrenderer_renderbyitem",
-      "community": 165,
+      "community": 59,
       "norm_label": ".renderbyitem()"
     },
     {
@@ -19716,7 +19716,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_storage_cabinetitemrenderer_java_itemstack",
-      "community": 165,
+      "community": 59,
       "norm_label": "itemstack"
     },
     {
@@ -19726,7 +19726,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_storage_cabinetitemrenderer_java_itemdisplaycontext",
-      "community": 165,
+      "community": 59,
       "norm_label": "itemdisplaycontext"
     },
     {
@@ -19736,7 +19736,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_storage_cabinetitemrenderer_java_posestack",
-      "community": 165,
+      "community": 59,
       "norm_label": "posestack"
     },
     {
@@ -19746,7 +19746,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_storage_cabinetitemrenderer_java_multibuffersource",
-      "community": 165,
+      "community": 59,
       "norm_label": "multibuffersource"
     },
     {
@@ -19756,7 +19756,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_storage_cabinetitemrenderer_java_override",
-      "community": 165,
+      "community": 59,
       "norm_label": "override"
     },
     {
@@ -20036,7 +20036,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "aabb",
-      "community": 122,
+      "community": 57,
       "norm_label": "aabb"
     },
     {
@@ -20046,7 +20046,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_storage_materialcolors",
-      "community": 63,
+      "community": 208,
       "norm_label": "materialcolors.java"
     },
     {
@@ -20056,7 +20056,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_storage_materialcolors_materialcolors",
-      "community": 63,
+      "community": 208,
       "norm_label": "materialcolors"
     },
     {
@@ -20066,7 +20066,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_storage_materialcolors_java_item",
-      "community": 63,
+      "community": 208,
       "norm_label": "item"
     },
     {
@@ -20076,7 +20076,7 @@
       "source_location": "L21",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_storage_materialcolors_materialcolors_materialcolors",
-      "community": 63,
+      "community": 208,
       "norm_label": ".materialcolors()"
     },
     {
@@ -20096,7 +20096,7 @@
       "source_location": "L29",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_storage_materialcolors_materialcolors_get",
-      "community": 63,
+      "community": 208,
       "norm_label": ".get()"
     },
     {
@@ -20106,7 +20106,7 @@
       "source_location": "L33",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_storage_materialcolors_materialcolors_compute",
-      "community": 63,
+      "community": 208,
       "norm_label": ".compute()"
     },
     {
@@ -20146,7 +20146,7 @@
       "source_location": "L35",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_storage_storageclientsetup_storageclientsetup_init",
-      "community": 163,
+      "community": 63,
       "norm_label": ".init()"
     },
     {
@@ -20156,7 +20156,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_storage_storageclientsetup_java_ieventbus",
-      "community": 163,
+      "community": 63,
       "norm_label": "ieventbus"
     },
     {
@@ -20166,7 +20166,7 @@
       "source_location": "L45",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_storage_storageclientsetup_storageclientsetup_clientsetup",
-      "community": 99,
+      "community": 46,
       "norm_label": ".clientsetup()"
     },
     {
@@ -20176,7 +20176,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_storage_storageclientsetup_java_fmlclientsetupevent",
-      "community": 99,
+      "community": 46,
       "norm_label": "fmlclientsetupevent"
     },
     {
@@ -20186,7 +20186,7 @@
       "source_location": "L51",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_storage_storageclientsetup_storageclientsetup_registerscreens",
-      "community": 26,
+      "community": 63,
       "norm_label": ".registerscreens()"
     },
     {
@@ -20196,7 +20196,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_storage_storageclientsetup_java_registermenuscreensevent",
-      "community": 26,
+      "community": 63,
       "norm_label": "registermenuscreensevent"
     },
     {
@@ -20386,7 +20386,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_storage_vasescrollhandler",
-      "community": 59,
+      "community": 46,
       "norm_label": "vasescrollhandler.java"
     },
     {
@@ -20396,7 +20396,7 @@
       "source_location": "L15",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_storage_vasescrollhandler_vasescrollhandler",
-      "community": 59,
+      "community": 46,
       "norm_label": "vasescrollhandler"
     },
     {
@@ -20406,7 +20406,7 @@
       "source_location": "L16",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_storage_vasescrollhandler_vasescrollhandler_vasescrollhandler",
-      "community": 59,
+      "community": 46,
       "norm_label": ".vasescrollhandler()"
     },
     {
@@ -20416,7 +20416,7 @@
       "source_location": "L19",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_client_storage_vasescrollhandler_vasescrollhandler_onmousescroll",
-      "community": 99,
+      "community": 46,
       "norm_label": ".onmousescroll()"
     },
     {
@@ -20426,7 +20426,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "mousescrollingevent",
-      "community": 99,
+      "community": 46,
       "norm_label": "mousescrollingevent"
     },
     {
@@ -20836,7 +20836,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "customrecipe",
-      "community": 97,
+      "community": 96,
       "norm_label": "customrecipe"
     },
     {
@@ -21496,7 +21496,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_compat_jei_jeirecipetypes",
-      "community": 40,
+      "community": 33,
       "norm_label": "jeirecipetypes.java"
     },
     {
@@ -21506,7 +21506,7 @@
       "source_location": "L15",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_compat_jei_jeirecipetypes_jeirecipetypes",
-      "community": 40,
+      "community": 33,
       "norm_label": "jeirecipetypes"
     },
     {
@@ -21516,7 +21516,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_compat_jei_jeirecipetypes_java_recipetype",
-      "community": 40,
+      "community": 33,
       "norm_label": "recipetype"
     },
     {
@@ -21526,7 +21526,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_compat_jei_jeirecipetypes_java_recipeholder",
-      "community": 40,
+      "community": 33,
       "norm_label": "recipeholder"
     },
     {
@@ -21536,7 +21536,7 @@
       "source_location": "L22",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_compat_jei_jeirecipetypes_jeirecipetypes_jeirecipetypes",
-      "community": 40,
+      "community": 33,
       "norm_label": ".jeirecipetypes()"
     },
     {
@@ -21636,7 +21636,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_compat_jei_rusticjeiplugin",
-      "community": 77,
+      "community": 13,
       "norm_label": "rusticjeiplugin.java"
     },
     {
@@ -21646,7 +21646,7 @@
       "source_location": "L34",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_compat_jei_rusticjeiplugin_rusticjeiplugin",
-      "community": 77,
+      "community": 13,
       "norm_label": "rusticjeiplugin"
     },
     {
@@ -21656,7 +21656,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "imodplugin",
-      "community": 77,
+      "community": 13,
       "norm_label": "imodplugin"
     },
     {
@@ -21666,7 +21666,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "jeiplugin",
-      "community": 77,
+      "community": 13,
       "norm_label": "jeiplugin"
     },
     {
@@ -21676,7 +21676,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_compat_jei_rusticjeiplugin_java_resourcelocation",
-      "community": 77,
+      "community": 13,
       "norm_label": "resourcelocation"
     },
     {
@@ -21686,7 +21686,7 @@
       "source_location": "L38",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_compat_jei_rusticjeiplugin_rusticjeiplugin_getpluginuid",
-      "community": 77,
+      "community": 13,
       "norm_label": ".getpluginuid()"
     },
     {
@@ -21696,7 +21696,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_compat_jei_rusticjeiplugin_java_override",
-      "community": 77,
+      "community": 13,
       "norm_label": "override"
     },
     {
@@ -21706,7 +21706,7 @@
       "source_location": "L43",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_compat_jei_rusticjeiplugin_rusticjeiplugin_registeritemsubtypes",
-      "community": 77,
+      "community": 13,
       "norm_label": ".registeritemsubtypes()"
     },
     {
@@ -21716,7 +21716,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "isubtyperegistration",
-      "community": 77,
+      "community": 13,
       "norm_label": "isubtyperegistration"
     },
     {
@@ -21726,7 +21726,7 @@
       "source_location": "L50",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_compat_jei_rusticjeiplugin_rusticjeiplugin_registercategories",
-      "community": 77,
+      "community": 13,
       "norm_label": ".registercategories()"
     },
     {
@@ -21736,7 +21736,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "irecipecategoryregistration",
-      "community": 77,
+      "community": 13,
       "norm_label": "irecipecategoryregistration"
     },
     {
@@ -21746,7 +21746,7 @@
       "source_location": "L61",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_compat_jei_rusticjeiplugin_rusticjeiplugin_registervanillacategoryextensions",
-      "community": 77,
+      "community": 13,
       "norm_label": ".registervanillacategoryextensions()"
     },
     {
@@ -21756,7 +21756,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "ivanillacategoryextensionregistration",
-      "community": 77,
+      "community": 13,
       "norm_label": "ivanillacategoryextensionregistration"
     },
     {
@@ -21766,7 +21766,7 @@
       "source_location": "L66",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_compat_jei_rusticjeiplugin_rusticjeiplugin_registerrecipes",
-      "community": 77,
+      "community": 13,
       "norm_label": ".registerrecipes()"
     },
     {
@@ -21776,7 +21776,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "ireciperegistration",
-      "community": 77,
+      "community": 13,
       "norm_label": "ireciperegistration"
     },
     {
@@ -21786,7 +21786,7 @@
       "source_location": "L80",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_compat_jei_rusticjeiplugin_rusticjeiplugin_registerguihandlers",
-      "community": 77,
+      "community": 13,
       "norm_label": ".registerguihandlers()"
     },
     {
@@ -21796,7 +21796,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "iguihandlerregistration",
-      "community": 77,
+      "community": 13,
       "norm_label": "iguihandlerregistration"
     },
     {
@@ -21806,7 +21806,7 @@
       "source_location": "L87",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_compat_jei_rusticjeiplugin_rusticjeiplugin_registerrecipecatalysts",
-      "community": 77,
+      "community": 13,
       "norm_label": ".registerrecipecatalysts()"
     },
     {
@@ -21816,7 +21816,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "irecipecatalystregistration",
-      "community": 77,
+      "community": 13,
       "norm_label": "irecipecatalystregistration"
     },
     {
@@ -22006,7 +22006,7 @@
       "source_location": "L65",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_compat_jei_texturedrecipecategory_texturedrecipecategory_gaugecapacity",
-      "community": 115,
+      "community": 155,
       "norm_label": ".gaugecapacity()"
     },
     {
@@ -22026,7 +22026,7 @@
       "source_location": "L16",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_compat_quark_quarkcompat_quarkcompat",
-      "community": 26,
+      "community": 63,
       "norm_label": "quarkcompat"
     },
     {
@@ -22036,7 +22036,7 @@
       "source_location": "L19",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_compat_quark_quarkcompat_quarkcompat_quarkcompat",
-      "community": 26,
+      "community": 63,
       "norm_label": ".quarkcompat()"
     },
     {
@@ -22046,7 +22046,7 @@
       "source_location": "L22",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_compat_quark_quarkcompat_quarkcompat_registerstoragescreens",
-      "community": 26,
+      "community": 63,
       "norm_label": ".registerstoragescreens()"
     },
     {
@@ -22056,7 +22056,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_compat_quark_quarkcompat_java_registermenuscreensevent",
-      "community": 26,
+      "community": 63,
       "norm_label": "registermenuscreensevent"
     },
     {
@@ -22296,7 +22296,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_datagenerators",
-      "community": 156,
+      "community": 205,
       "norm_label": "datagenerators.java"
     },
     {
@@ -22306,7 +22306,7 @@
       "source_location": "L31",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_datagenerators_datagenerators",
-      "community": 156,
+      "community": 205,
       "norm_label": "datagenerators"
     },
     {
@@ -22316,7 +22316,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_datagenerators_java_eventbussubscriber",
-      "community": 156,
+      "community": 205,
       "norm_label": "eventbussubscriber"
     },
     {
@@ -22326,7 +22326,7 @@
       "source_location": "L33",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_datagenerators_datagenerators_datagenerators",
-      "community": 156,
+      "community": 205,
       "norm_label": ".datagenerators()"
     },
     {
@@ -22336,7 +22336,7 @@
       "source_location": "L36",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_datagenerators_datagenerators_gatherdata",
-      "community": 156,
+      "community": 205,
       "norm_label": ".gatherdata()"
     },
     {
@@ -22346,7 +22346,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "gatherdataevent",
-      "community": 156,
+      "community": 205,
       "norm_label": "gatherdataevent"
     },
     {
@@ -22356,7 +22356,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_datagenerators_java_subscribeevent",
-      "community": 156,
+      "community": 205,
       "norm_label": "subscribeevent"
     },
     {
@@ -24226,7 +24226,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rusticlootmodifierprovider",
-      "community": 23,
+      "community": 190,
       "norm_label": "rusticlootmodifierprovider.java"
     },
     {
@@ -24236,7 +24236,7 @@
       "source_location": "L16",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rusticlootmodifierprovider_rusticlootmodifierprovider",
-      "community": 23,
+      "community": 190,
       "norm_label": "rusticlootmodifierprovider"
     },
     {
@@ -24246,7 +24246,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "globallootmodifierprovider",
-      "community": 23,
+      "community": 190,
       "norm_label": "globallootmodifierprovider"
     },
     {
@@ -24256,7 +24256,7 @@
       "source_location": "L17",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rusticlootmodifierprovider_rusticlootmodifierprovider_rusticlootmodifierprovider",
-      "community": 23,
+      "community": 190,
       "norm_label": ".rusticlootmodifierprovider()"
     },
     {
@@ -24266,7 +24266,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rusticlootmodifierprovider_java_packoutput",
-      "community": 23,
+      "community": 190,
       "norm_label": "packoutput"
     },
     {
@@ -24276,7 +24276,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rusticlootmodifierprovider_java_provider",
-      "community": 23,
+      "community": 190,
       "norm_label": "provider"
     },
     {
@@ -24286,7 +24286,7 @@
       "source_location": "L21",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rusticlootmodifierprovider_rusticlootmodifierprovider_start",
-      "community": 23,
+      "community": 190,
       "norm_label": ".start()"
     },
     {
@@ -24296,7 +24296,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rusticlootmodifierprovider_java_override",
-      "community": 23,
+      "community": 190,
       "norm_label": "override"
     },
     {
@@ -24306,7 +24306,7 @@
       "source_location": "L27",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rusticlootmodifierprovider_rusticlootmodifierprovider_modifier",
-      "community": 23,
+      "community": 190,
       "norm_label": ".modifier()"
     },
     {
@@ -24576,7 +24576,7 @@
       "source_location": "L38",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rustictagproviders_blocks_blocks",
-      "community": 101,
+      "community": 201,
       "norm_label": ".blocks()"
     },
     {
@@ -24586,7 +24586,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rustictagproviders_java_packoutput",
-      "community": 101,
+      "community": 201,
       "norm_label": "packoutput"
     },
     {
@@ -24596,7 +24596,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rustictagproviders_java_provider",
-      "community": 101,
+      "community": 201,
       "norm_label": "provider"
     },
     {
@@ -24606,7 +24606,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rustictagproviders_java_existingfilehelper",
-      "community": 101,
+      "community": 201,
       "norm_label": "existingfilehelper"
     },
     {
@@ -24626,7 +24626,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rustictagproviders_java_override",
-      "community": 101,
+      "community": 167,
       "norm_label": "override"
     },
     {
@@ -24696,7 +24696,7 @@
       "source_location": "L57",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rustictagproviders_items_items",
-      "community": 101,
+      "community": 201,
       "norm_label": ".items()"
     },
     {
@@ -24706,7 +24706,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "taglookup",
-      "community": 101,
+      "community": 201,
       "norm_label": "taglookup"
     },
     {
@@ -24716,7 +24716,7 @@
       "source_location": "L62",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rustictagproviders_items_addtags",
-      "community": 34,
+      "community": 167,
       "norm_label": ".addtags()"
     },
     {
@@ -24786,7 +24786,7 @@
       "source_location": "L82",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rustictagproviders_fluids_fluids",
-      "community": 101,
+      "community": 201,
       "norm_label": ".fluids()"
     },
     {
@@ -24796,7 +24796,7 @@
       "source_location": "L86",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rustictagproviders_fluids_addtags",
-      "community": 101,
+      "community": 167,
       "norm_label": ".addtags()"
     },
     {
@@ -24836,7 +24836,7 @@
       "source_location": "L98",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rustictagproviders_entitytypes_entitytypes",
-      "community": 101,
+      "community": 201,
       "norm_label": ".entitytypes()"
     },
     {
@@ -24846,7 +24846,7 @@
       "source_location": "L102",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rustictagproviders_entitytypes_addtags",
-      "community": 101,
+      "community": 167,
       "norm_label": ".addtags()"
     },
     {
@@ -24866,7 +24866,7 @@
       "source_location": "L112",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rustictagproviders_biomes",
-      "community": 101,
+      "community": 189,
       "norm_label": "biomes"
     },
     {
@@ -24876,7 +24876,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "tagsprovider",
-      "community": 101,
+      "community": 189,
       "norm_label": "tagsprovider"
     },
     {
@@ -24886,7 +24886,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rustictagproviders_java_biome",
-      "community": 101,
+      "community": 189,
       "norm_label": "biome"
     },
     {
@@ -24896,7 +24896,7 @@
       "source_location": "L113",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rustictagproviders_biomes_biomes",
-      "community": 101,
+      "community": 201,
       "norm_label": ".biomes()"
     },
     {
@@ -24906,7 +24906,7 @@
       "source_location": "L117",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rustictagproviders_biomes_addtags",
-      "community": 101,
+      "community": 167,
       "norm_label": ".addtags()"
     },
     {
@@ -24916,7 +24916,7 @@
       "source_location": "L122",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rustictagproviders_biomes_tagof",
-      "community": 101,
+      "community": 189,
       "norm_label": ".tagof()"
     },
     {
@@ -24926,7 +24926,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "tagappender",
-      "community": 101,
+      "community": 189,
       "norm_label": "tagappender"
     },
     {
@@ -24936,7 +24936,7 @@
       "source_location": "L127",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rustictagproviders_bannerpatterns",
-      "community": 101,
+      "community": 189,
       "norm_label": "bannerpatterns"
     },
     {
@@ -24946,7 +24946,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rustictagproviders_java_bannerpattern",
-      "community": 101,
+      "community": 189,
       "norm_label": "bannerpattern"
     },
     {
@@ -24956,7 +24956,7 @@
       "source_location": "L128",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rustictagproviders_bannerpatterns_bannerpatterns",
-      "community": 101,
+      "community": 201,
       "norm_label": ".bannerpatterns()"
     },
     {
@@ -24966,7 +24966,7 @@
       "source_location": "L132",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rustictagproviders_bannerpatterns_addtags",
-      "community": 101,
+      "community": 189,
       "norm_label": ".addtags()"
     },
     {
@@ -24976,7 +24976,7 @@
       "source_location": "L137",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rustictagproviders_bannerpatterns_tagof",
-      "community": 101,
+      "community": 189,
       "norm_label": ".tagof()"
     },
     {
@@ -24986,7 +24986,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rusticworldgenprovider",
-      "community": 156,
+      "community": 204,
       "norm_label": "rusticworldgenprovider.java"
     },
     {
@@ -24996,7 +24996,7 @@
       "source_location": "L20",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rusticworldgenprovider_rusticworldgenprovider",
-      "community": 156,
+      "community": 204,
       "norm_label": "rusticworldgenprovider"
     },
     {
@@ -25006,7 +25006,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "datapackbuiltinentriesprovider",
-      "community": 156,
+      "community": 204,
       "norm_label": "datapackbuiltinentriesprovider"
     },
     {
@@ -25016,7 +25016,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "registrysetbuilder",
-      "community": 156,
+      "community": 204,
       "norm_label": "registrysetbuilder"
     },
     {
@@ -25026,7 +25026,7 @@
       "source_location": "L29",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rusticworldgenprovider_rusticworldgenprovider_rusticworldgenprovider",
-      "community": 156,
+      "community": 204,
       "norm_label": ".rusticworldgenprovider()"
     },
     {
@@ -25036,7 +25036,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rusticworldgenprovider_java_packoutput",
-      "community": 156,
+      "community": 204,
       "norm_label": "packoutput"
     },
     {
@@ -25046,7 +25046,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_rusticworldgenprovider_java_provider",
-      "community": 156,
+      "community": 204,
       "norm_label": "provider"
     },
     {
@@ -25436,7 +25436,7 @@
       "source_location": "L392",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_parts_alchemydata_alchemydata_itemtags",
-      "community": 34,
+      "community": 167,
       "norm_label": ".itemtags()"
     },
     {
@@ -25446,7 +25446,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_parts_alchemydata_java_items",
-      "community": 34,
+      "community": 167,
       "norm_label": "items"
     },
     {
@@ -25606,7 +25606,7 @@
       "source_location": "L101",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_parts_decordata_decordata_blockstates",
-      "community": 6,
+      "community": 55,
       "norm_label": ".blockstates()"
     },
     {
@@ -25636,7 +25636,7 @@
       "source_location": "L183",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_parts_decordata_decordata_furniturestates",
-      "community": 6,
+      "community": 55,
       "norm_label": ".furniturestates()"
     },
     {
@@ -25836,7 +25836,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "recipecategory",
-      "community": 34,
+      "community": 35,
       "norm_label": "recipecategory"
     },
     {
@@ -26026,7 +26026,7 @@
       "source_location": "L134",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_parts_farmdata_farmdata",
-      "community": 55,
+      "community": 3,
       "norm_label": "farmdata"
     },
     {
@@ -26036,7 +26036,7 @@
       "source_location": "L135",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_parts_farmdata_farmdata_farmdata",
-      "community": 55,
+      "community": 3,
       "norm_label": ".farmdata()"
     },
     {
@@ -26276,7 +26276,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_parts_farmdata_java_modelfile",
-      "community": 55,
+      "community": 3,
       "norm_label": "modelfile"
     },
     {
@@ -26286,7 +26286,7 @@
       "source_location": "L315",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_parts_farmdata_farmdata_addrotated",
-      "community": 55,
+      "community": 3,
       "norm_label": ".addrotated()"
     },
     {
@@ -26296,7 +26296,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "multipartblockstatebuilder",
-      "community": 6,
+      "community": 3,
       "norm_label": "multipartblockstatebuilder"
     },
     {
@@ -26366,7 +26366,7 @@
       "source_location": "L418",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_parts_farmdata_farmdata_leaves",
-      "community": 3,
+      "community": 32,
       "norm_label": ".leaves()"
     },
     {
@@ -26406,7 +26406,7 @@
       "source_location": "L448",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_parts_farmdata_farmdata_blocktags",
-      "community": 141,
+      "community": 3,
       "norm_label": ".blocktags()"
     },
     {
@@ -26416,7 +26416,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_parts_farmdata_java_blocks",
-      "community": 141,
+      "community": 3,
       "norm_label": "blocks"
     },
     {
@@ -26426,7 +26426,7 @@
       "source_location": "L486",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_parts_farmdata_farmdata_itemtags",
-      "community": 34,
+      "community": 3,
       "norm_label": ".itemtags()"
     },
     {
@@ -26436,7 +26436,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_parts_farmdata_java_items",
-      "community": 34,
+      "community": 3,
       "norm_label": "items"
     },
     {
@@ -26446,7 +26446,7 @@
       "source_location": "L542",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_parts_farmdata_farmdata_biometags",
-      "community": 101,
+      "community": 167,
       "norm_label": ".biometags()"
     },
     {
@@ -26456,7 +26456,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "biomes",
-      "community": 101,
+      "community": 167,
       "norm_label": "biomes"
     },
     {
@@ -26476,7 +26476,7 @@
       "source_location": "L615",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_parts_farmdata_farmdata_lootmodifiers",
-      "community": 23,
+      "community": 190,
       "norm_label": ".lootmodifiers()"
     },
     {
@@ -26756,7 +26756,7 @@
       "source_location": "L88",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_parts_miscdata_miscdata_almanacmodel",
-      "community": 55,
+      "community": 23,
       "norm_label": ".almanacmodel()"
     },
     {
@@ -26796,7 +26796,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_parts_miscdata_java_recipeoutput",
-      "community": 21,
+      "community": 23,
       "norm_label": "recipeoutput"
     },
     {
@@ -26856,7 +26856,7 @@
       "source_location": "L162",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_parts_miscdata_miscdata_fluidtags",
-      "community": 101,
+      "community": 167,
       "norm_label": ".fluidtags()"
     },
     {
@@ -26866,7 +26866,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_parts_miscdata_java_fluids",
-      "community": 101,
+      "community": 167,
       "norm_label": "fluids"
     },
     {
@@ -26876,7 +26876,7 @@
       "source_location": "L178",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_parts_miscdata_miscdata_entitytypetags",
-      "community": 101,
+      "community": 167,
       "norm_label": ".entitytypetags()"
     },
     {
@@ -26886,7 +26886,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "entitytypes",
-      "community": 101,
+      "community": 167,
       "norm_label": "entitytypes"
     },
     {
@@ -26896,7 +26896,7 @@
       "source_location": "L182",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_parts_miscdata_miscdata_bannerpatterntags",
-      "community": 101,
+      "community": 189,
       "norm_label": ".bannerpatterntags()"
     },
     {
@@ -26906,7 +26906,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "bannerpatterns",
-      "community": 101,
+      "community": 189,
       "norm_label": "bannerpatterns"
     },
     {
@@ -26926,7 +26926,7 @@
       "source_location": "L189",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_parts_miscdata_miscdata_lootmodifiers",
-      "community": 23,
+      "community": 190,
       "norm_label": ".lootmodifiers()"
     },
     {
@@ -27116,7 +27116,7 @@
       "source_location": "L91",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_parts_storagedata_storagedata_existing",
-      "community": 35,
+      "community": 55,
       "norm_label": ".existing()"
     },
     {
@@ -27136,7 +27136,7 @@
       "source_location": "L95",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_datagen_providers_parts_storagedata_storagedata_recipes",
-      "community": 35,
+      "community": 21,
       "norm_label": ".recipes()"
     },
     {
@@ -27256,7 +27256,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_effect_blazingtraileffect",
-      "community": 24,
+      "community": 206,
       "norm_label": "blazingtraileffect.java"
     },
     {
@@ -27266,7 +27266,7 @@
       "source_location": "L12",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_effect_blazingtraileffect_blazingtraileffect",
-      "community": 24,
+      "community": 206,
       "norm_label": "blazingtraileffect"
     },
     {
@@ -27276,7 +27276,7 @@
       "source_location": "L13",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_effect_blazingtraileffect_blazingtraileffect_blazingtraileffect",
-      "community": 24,
+      "community": 206,
       "norm_label": ".blazingtraileffect()"
     },
     {
@@ -27286,7 +27286,7 @@
       "source_location": "L17",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_effect_blazingtraileffect_blazingtraileffect_applyeffecttick",
-      "community": 24,
+      "community": 206,
       "norm_label": ".applyeffecttick()"
     },
     {
@@ -27296,7 +27296,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_effect_blazingtraileffect_java_livingentity",
-      "community": 24,
+      "community": 206,
       "norm_label": "livingentity"
     },
     {
@@ -27306,7 +27306,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_effect_blazingtraileffect_java_override",
-      "community": 24,
+      "community": 206,
       "norm_label": "override"
     },
     {
@@ -27316,7 +27316,7 @@
       "source_location": "L28",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_effect_blazingtraileffect_blazingtraileffect_shouldapplyeffecttickthistick",
-      "community": 24,
+      "community": 206,
       "norm_label": ".shouldapplyeffecttickthistick()"
     },
     {
@@ -27776,7 +27776,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_effect_shameeffect",
-      "community": 24,
+      "community": 207,
       "norm_label": "shameeffect.java"
     },
     {
@@ -27786,7 +27786,7 @@
       "source_location": "L16",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_effect_shameeffect_shameeffect",
-      "community": 24,
+      "community": 207,
       "norm_label": "shameeffect"
     },
     {
@@ -27796,7 +27796,7 @@
       "source_location": "L17",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_effect_shameeffect_shameeffect_shameeffect",
-      "community": 24,
+      "community": 207,
       "norm_label": ".shameeffect()"
     },
     {
@@ -27806,7 +27806,7 @@
       "source_location": "L21",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_effect_shameeffect_shameeffect_applyeffecttick",
-      "community": 24,
+      "community": 207,
       "norm_label": ".applyeffecttick()"
     },
     {
@@ -27816,7 +27816,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_effect_shameeffect_java_livingentity",
-      "community": 24,
+      "community": 207,
       "norm_label": "livingentity"
     },
     {
@@ -27826,7 +27826,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_effect_shameeffect_java_override",
-      "community": 24,
+      "community": 207,
       "norm_label": "override"
     },
     {
@@ -27836,7 +27836,7 @@
       "source_location": "L58",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_effect_shameeffect_shameeffect_shouldapplyeffecttickthistick",
-      "community": 24,
+      "community": 207,
       "norm_label": ".shouldapplyeffecttickthistick()"
     },
     {
@@ -28176,7 +28176,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_entity_tomatoentity",
-      "community": 57,
+      "community": 93,
       "norm_label": "tomatoentity.java"
     },
     {
@@ -28186,7 +28186,7 @@
       "source_location": "L23",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_entity_tomatoentity_tomatoentity",
-      "community": 57,
+      "community": 93,
       "norm_label": "tomatoentity"
     },
     {
@@ -28196,7 +28196,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "throwableitemprojectile",
-      "community": 57,
+      "community": 93,
       "norm_label": "throwableitemprojectile"
     },
     {
@@ -28206,7 +28206,7 @@
       "source_location": "L25",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_entity_tomatoentity_tomatoentity_tomatoentity",
-      "community": 57,
+      "community": 93,
       "norm_label": ".tomatoentity()"
     },
     {
@@ -28216,7 +28216,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_entity_tomatoentity_java_entitytype",
-      "community": 57,
+      "community": 93,
       "norm_label": "entitytype"
     },
     {
@@ -28226,7 +28226,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_entity_tomatoentity_java_level",
-      "community": 57,
+      "community": 93,
       "norm_label": "level"
     },
     {
@@ -28236,7 +28236,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_entity_tomatoentity_java_livingentity",
-      "community": 57,
+      "community": 93,
       "norm_label": "livingentity"
     },
     {
@@ -28246,7 +28246,7 @@
       "source_location": "L33",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_entity_tomatoentity_tomatoentity_getdefaultitem",
-      "community": 57,
+      "community": 93,
       "norm_label": ".getdefaultitem()"
     },
     {
@@ -28256,7 +28256,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_entity_tomatoentity_java_item",
-      "community": 57,
+      "community": 93,
       "norm_label": "item"
     },
     {
@@ -28266,7 +28266,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_entity_tomatoentity_java_override",
-      "community": 57,
+      "community": 93,
       "norm_label": "override"
     },
     {
@@ -28276,7 +28276,7 @@
       "source_location": "L38",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_entity_tomatoentity_tomatoentity_getparticle",
-      "community": 57,
+      "community": 93,
       "norm_label": ".getparticle()"
     },
     {
@@ -28286,7 +28286,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "particleoptions",
-      "community": 57,
+      "community": 93,
       "norm_label": "particleoptions"
     },
     {
@@ -28296,7 +28296,7 @@
       "source_location": "L42",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_entity_tomatoentity_tomatoentity_handleentityevent",
-      "community": 57,
+      "community": 93,
       "norm_label": ".handleentityevent()"
     },
     {
@@ -28306,7 +28306,7 @@
       "source_location": "L52",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_entity_tomatoentity_tomatoentity_onhitentity",
-      "community": 57,
+      "community": 93,
       "norm_label": ".onhitentity()"
     },
     {
@@ -28316,7 +28316,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "entityhitresult",
-      "community": 57,
+      "community": 93,
       "norm_label": "entityhitresult"
     },
     {
@@ -28326,7 +28326,7 @@
       "source_location": "L62",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_entity_tomatoentity_tomatoentity_onhit",
-      "community": 57,
+      "community": 93,
       "norm_label": ".onhit()"
     },
     {
@@ -28336,7 +28336,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "hitresult",
-      "community": 57,
+      "community": 93,
       "norm_label": "hitresult"
     },
     {
@@ -28776,7 +28776,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_almanacitem",
-      "community": 48,
+      "community": 185,
       "norm_label": "almanacitem.java"
     },
     {
@@ -28786,7 +28786,7 @@
       "source_location": "L15",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_almanacitem_almanacitem",
-      "community": 48,
+      "community": 185,
       "norm_label": "almanacitem"
     },
     {
@@ -28796,7 +28796,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "item",
-      "community": 48,
+      "community": 185,
       "norm_label": "item"
     },
     {
@@ -28806,7 +28806,7 @@
       "source_location": "L16",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_almanacitem_almanacitem_almanacitem",
-      "community": 48,
+      "community": 185,
       "norm_label": ".almanacitem()"
     },
     {
@@ -28816,7 +28816,7 @@
       "source_location": "L20",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_almanacitem_almanacitem_use",
-      "community": 48,
+      "community": 185,
       "norm_label": ".use()"
     },
     {
@@ -28826,7 +28826,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_almanacitem_java_level",
-      "community": 48,
+      "community": 185,
       "norm_label": "level"
     },
     {
@@ -28836,7 +28836,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_almanacitem_java_player",
-      "community": 48,
+      "community": 185,
       "norm_label": "player"
     },
     {
@@ -28846,7 +28846,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_almanacitem_java_interactionhand",
-      "community": 48,
+      "community": 185,
       "norm_label": "interactionhand"
     },
     {
@@ -28856,7 +28856,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_almanacitem_java_interactionresultholder",
-      "community": 48,
+      "community": 185,
       "norm_label": "interactionresultholder"
     },
     {
@@ -28866,7 +28866,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_almanacitem_java_itemstack",
-      "community": 48,
+      "community": 185,
       "norm_label": "itemstack"
     },
     {
@@ -28876,7 +28876,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_almanacitem_java_override",
-      "community": 48,
+      "community": 185,
       "norm_label": "override"
     },
     {
@@ -28886,7 +28886,7 @@
       "source_location": "L29",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_almanacitem_almanacitem_hascraftingremainingitem",
-      "community": 48,
+      "community": 185,
       "norm_label": ".hascraftingremainingitem()"
     },
     {
@@ -28896,7 +28896,7 @@
       "source_location": "L34",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_almanacitem_almanacitem_getcraftingremainingitem",
-      "community": 48,
+      "community": 185,
       "norm_label": ".getcraftingremainingitem()"
     },
     {
@@ -29566,7 +29566,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "blockitem",
-      "community": 99,
+      "community": 46,
       "norm_label": "blockitem"
     },
     {
@@ -29726,7 +29726,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_rusticfooditem",
-      "community": 48,
+      "community": 157,
       "norm_label": "rusticfooditem.java"
     },
     {
@@ -29736,7 +29736,7 @@
       "source_location": "L20",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_rusticfooditem_rusticfooditem",
-      "community": 48,
+      "community": 157,
       "norm_label": "rusticfooditem"
     },
     {
@@ -29746,7 +29746,7 @@
       "source_location": "L22",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_rusticfooditem_oneaten",
-      "community": 48,
+      "community": 157,
       "norm_label": "oneaten"
     },
     {
@@ -29756,7 +29756,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_rusticfooditem_java_functionalinterface",
-      "community": 48,
+      "community": 157,
       "norm_label": "functionalinterface"
     },
     {
@@ -29766,7 +29766,7 @@
       "source_location": "L24",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_rusticfooditem_oneaten_oneaten",
-      "community": 48,
+      "community": 157,
       "norm_label": ".oneaten()"
     },
     {
@@ -29776,7 +29776,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_rusticfooditem_java_itemstack",
-      "community": 48,
+      "community": 157,
       "norm_label": "itemstack"
     },
     {
@@ -29786,7 +29786,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_rusticfooditem_java_level",
-      "community": 48,
+      "community": 157,
       "norm_label": "level"
     },
     {
@@ -29796,7 +29796,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_rusticfooditem_java_player",
-      "community": 48,
+      "community": 157,
       "norm_label": "player"
     },
     {
@@ -29806,7 +29806,7 @@
       "source_location": "L33",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_rusticfooditem_rusticfooditem_rusticfooditem",
-      "community": 48,
+      "community": 157,
       "norm_label": ".rusticfooditem()"
     },
     {
@@ -29816,7 +29816,7 @@
       "source_location": "L44",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_rusticfooditem_rusticfooditem_getuseduration",
-      "community": 48,
+      "community": 157,
       "norm_label": ".getuseduration()"
     },
     {
@@ -29826,7 +29826,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_rusticfooditem_java_livingentity",
-      "community": 48,
+      "community": 157,
       "norm_label": "livingentity"
     },
     {
@@ -29836,7 +29836,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_rusticfooditem_java_override",
-      "community": 48,
+      "community": 157,
       "norm_label": "override"
     },
     {
@@ -29846,7 +29846,7 @@
       "source_location": "L49",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_rusticfooditem_rusticfooditem_finishusingitem",
-      "community": 48,
+      "community": 157,
       "norm_label": ".finishusingitem()"
     },
     {
@@ -29856,7 +29856,7 @@
       "source_location": "L57",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_rusticfooditem_rusticfooditem_appendhovertext",
-      "community": 48,
+      "community": 157,
       "norm_label": ".appendhovertext()"
     },
     {
@@ -29866,7 +29866,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_rusticfooditem_java_tooltipcontext",
-      "community": 48,
+      "community": 157,
       "norm_label": "tooltipcontext"
     },
     {
@@ -29876,7 +29876,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_rusticfooditem_java_component",
-      "community": 48,
+      "community": 157,
       "norm_label": "component"
     },
     {
@@ -29886,7 +29886,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_rusticfooditem_java_tooltipflag",
-      "community": 48,
+      "community": 157,
       "norm_label": "tooltipflag"
     },
     {
@@ -29896,7 +29896,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_stakecropseeditem",
-      "community": 48,
+      "community": 203,
       "norm_label": "stakecropseeditem.java"
     },
     {
@@ -29906,7 +29906,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_stakecropseeditem_stakecropseeditem",
-      "community": 48,
+      "community": 203,
       "norm_label": "stakecropseeditem"
     },
     {
@@ -29916,7 +29916,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_stakecropseeditem_java_block",
-      "community": 48,
+      "community": 203,
       "norm_label": "block"
     },
     {
@@ -29926,7 +29926,7 @@
       "source_location": "L21",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_stakecropseeditem_stakecropseeditem_stakecropseeditem",
-      "community": 48,
+      "community": 203,
       "norm_label": ".stakecropseeditem()"
     },
     {
@@ -29936,7 +29936,7 @@
       "source_location": "L26",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_stakecropseeditem_stakecropseeditem_getcrop",
-      "community": 48,
+      "community": 203,
       "norm_label": ".getcrop()"
     },
     {
@@ -29946,7 +29946,7 @@
       "source_location": "L30",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_stakecropseeditem_stakecropseeditem_useon",
-      "community": 48,
+      "community": 203,
       "norm_label": ".useon()"
     },
     {
@@ -29956,7 +29956,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "useoncontext",
-      "community": 48,
+      "community": 203,
       "norm_label": "useoncontext"
     },
     {
@@ -29966,7 +29966,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_stakecropseeditem_java_interactionresult",
-      "community": 48,
+      "community": 203,
       "norm_label": "interactionresult"
     },
     {
@@ -29976,7 +29976,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_stakecropseeditem_java_override",
-      "community": 48,
+      "community": 203,
       "norm_label": "override"
     },
     {
@@ -29986,7 +29986,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_tomatoitem",
-      "community": 57,
+      "community": 202,
       "norm_label": "tomatoitem.java"
     },
     {
@@ -29996,7 +29996,7 @@
       "source_location": "L16",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_tomatoitem_tomatoitem",
-      "community": 48,
+      "community": 202,
       "norm_label": "tomatoitem"
     },
     {
@@ -30006,7 +30006,7 @@
       "source_location": "L17",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_tomatoitem_tomatoitem_tomatoitem",
-      "community": 48,
+      "community": 202,
       "norm_label": ".tomatoitem()"
     },
     {
@@ -30016,7 +30016,7 @@
       "source_location": "L21",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_tomatoitem_tomatoitem_use",
-      "community": 57,
+      "community": 202,
       "norm_label": ".use()"
     },
     {
@@ -30026,7 +30026,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_tomatoitem_java_level",
-      "community": 57,
+      "community": 202,
       "norm_label": "level"
     },
     {
@@ -30036,7 +30036,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_tomatoitem_java_player",
-      "community": 57,
+      "community": 202,
       "norm_label": "player"
     },
     {
@@ -30046,7 +30046,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_tomatoitem_java_interactionhand",
-      "community": 57,
+      "community": 202,
       "norm_label": "interactionhand"
     },
     {
@@ -30056,7 +30056,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_tomatoitem_java_interactionresultholder",
-      "community": 57,
+      "community": 202,
       "norm_label": "interactionresultholder"
     },
     {
@@ -30066,7 +30066,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_tomatoitem_java_itemstack",
-      "community": 57,
+      "community": 202,
       "norm_label": "itemstack"
     },
     {
@@ -30076,7 +30076,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_tomatoitem_java_override",
-      "community": 57,
+      "community": 202,
       "norm_label": "override"
     },
     {
@@ -30086,7 +30086,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_vaseitem",
-      "community": 99,
+      "community": 46,
       "norm_label": "vaseitem.java"
     },
     {
@@ -30096,7 +30096,7 @@
       "source_location": "L15",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_vaseitem_vaseitem",
-      "community": 99,
+      "community": 46,
       "norm_label": "vaseitem"
     },
     {
@@ -30106,7 +30106,7 @@
       "source_location": "L16",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_vaseitem_vaseitem_vaseitem",
-      "community": 99,
+      "community": 46,
       "norm_label": ".vaseitem()"
     },
     {
@@ -30116,7 +30116,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_vaseitem_java_block",
-      "community": 99,
+      "community": 46,
       "norm_label": "block"
     },
     {
@@ -30126,7 +30126,7 @@
       "source_location": "L21",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_vaseitem_vaseitem_getdesign",
-      "community": 99,
+      "community": 46,
       "norm_label": ".getdesign()"
     },
     {
@@ -30136,7 +30136,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_vaseitem_java_itemstack",
-      "community": 99,
+      "community": 46,
       "norm_label": "itemstack"
     },
     {
@@ -30146,7 +30146,7 @@
       "source_location": "L27",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_vaseitem_vaseitem_cycledesign",
-      "community": 99,
+      "community": 46,
       "norm_label": ".cycledesign()"
     },
     {
@@ -30156,7 +30156,7 @@
       "source_location": "L38",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_item_vaseitem_vaseitem_setdesign",
-      "community": 99,
+      "community": 46,
       "norm_label": ".setdesign()"
     },
     {
@@ -30676,7 +30676,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "slotitemhandler",
-      "community": 1,
+      "community": 64,
       "norm_label": "slotitemhandler"
     },
     {
@@ -30716,7 +30716,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_menu_alchemy_condensermenu",
-      "community": 77,
+      "community": 163,
       "norm_label": "condensermenu.java"
     },
     {
@@ -30726,7 +30726,7 @@
       "source_location": "L16",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_menu_alchemy_condensermenu_condensermenu",
-      "community": 77,
+      "community": 163,
       "norm_label": "condensermenu"
     },
     {
@@ -30736,7 +30736,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_menu_alchemy_condensermenu_condensermenu_condensermenu",
-      "community": 77,
+      "community": 163,
       "norm_label": ".condensermenu()"
     },
     {
@@ -30746,7 +30746,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_menu_alchemy_condensermenu_java_inventory",
-      "community": 77,
+      "community": 163,
       "norm_label": "inventory"
     },
     {
@@ -30756,7 +30756,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_menu_alchemy_condensermenu_java_registryfriendlybytebuf",
-      "community": 77,
+      "community": 163,
       "norm_label": "registryfriendlybytebuf"
     },
     {
@@ -30766,7 +30766,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_menu_alchemy_condensermenu_java_containerdata",
-      "community": 77,
+      "community": 163,
       "norm_label": "containerdata"
     },
     {
@@ -30776,7 +30776,7 @@
       "source_location": "L27",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_menu_alchemy_condensermenu_condensermenu_addingredientslots",
-      "community": 77,
+      "community": 163,
       "norm_label": ".addingredientslots()"
     },
     {
@@ -30786,7 +30786,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_menu_alchemy_condensermenu_java_iitemhandler",
-      "community": 77,
+      "community": 163,
       "norm_label": "iitemhandler"
     },
     {
@@ -30796,7 +30796,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_menu_alchemy_condensermenu_java_override",
-      "community": 77,
+      "community": 163,
       "norm_label": "override"
     },
     {
@@ -30986,7 +30986,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_menu_storage_doublecabinetmenu",
-      "community": 118,
+      "community": 26,
       "norm_label": "doublecabinetmenu.java"
     },
     {
@@ -31006,7 +31006,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_menu_storage_doublecabinetmenu_doublecabinetmenu_doublecabinetmenu",
-      "community": 118,
+      "community": 26,
       "norm_label": ".doublecabinetmenu()"
     },
     {
@@ -31016,7 +31016,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_menu_storage_doublecabinetmenu_java_inventory",
-      "community": 118,
+      "community": 26,
       "norm_label": "inventory"
     },
     {
@@ -31026,7 +31026,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_menu_storage_doublecabinetmenu_java_registryfriendlybytebuf",
-      "community": 118,
+      "community": 26,
       "norm_label": "registryfriendlybytebuf"
     },
     {
@@ -31036,7 +31036,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_menu_storage_doublecabinetmenu_java_container",
-      "community": 118,
+      "community": 26,
       "norm_label": "container"
     },
     {
@@ -31046,7 +31046,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_menu_storage_rusticbarrelmenu",
-      "community": 189,
+      "community": 26,
       "norm_label": "rusticbarrelmenu.java"
     },
     {
@@ -31066,7 +31066,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_menu_storage_rusticbarrelmenu_rusticbarrelmenu_rusticbarrelmenu",
-      "community": 189,
+      "community": 26,
       "norm_label": ".rusticbarrelmenu()"
     },
     {
@@ -31076,7 +31076,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_menu_storage_rusticbarrelmenu_java_inventory",
-      "community": 189,
+      "community": 26,
       "norm_label": "inventory"
     },
     {
@@ -31086,7 +31086,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_menu_storage_rusticbarrelmenu_java_registryfriendlybytebuf",
-      "community": 189,
+      "community": 26,
       "norm_label": "registryfriendlybytebuf"
     },
     {
@@ -31096,7 +31096,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_menu_storage_rusticbarrelmenu_java_container",
-      "community": 189,
+      "community": 26,
       "norm_label": "container"
     },
     {
@@ -31246,7 +31246,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_menu_storage_vasemenu",
-      "community": 190,
+      "community": 26,
       "norm_label": "vasemenu.java"
     },
     {
@@ -31266,7 +31266,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_menu_storage_vasemenu_vasemenu_vasemenu",
-      "community": 190,
+      "community": 26,
       "norm_label": ".vasemenu()"
     },
     {
@@ -31276,7 +31276,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_menu_storage_vasemenu_java_inventory",
-      "community": 190,
+      "community": 26,
       "norm_label": "inventory"
     },
     {
@@ -31286,7 +31286,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_menu_storage_vasemenu_java_registryfriendlybytebuf",
-      "community": 190,
+      "community": 26,
       "norm_label": "registryfriendlybytebuf"
     },
     {
@@ -31296,7 +31296,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_menu_storage_vasemenu_java_container",
-      "community": 190,
+      "community": 26,
       "norm_label": "container"
     },
     {
@@ -31306,7 +31306,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_network_firepowerattackpayload",
-      "community": 76,
+      "community": 46,
       "norm_label": "firepowerattackpayload.java"
     },
     {
@@ -31316,7 +31316,7 @@
       "source_location": "L13",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_network_firepowerattackpayload_firepowerattackpayload",
-      "community": 76,
+      "community": 46,
       "norm_label": "firepowerattackpayload"
     },
     {
@@ -31326,7 +31326,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "custompacketpayload",
-      "community": 76,
+      "community": 46,
       "norm_label": "custompacketpayload"
     },
     {
@@ -31336,7 +31336,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_network_firepowerattackpayload_java_type",
-      "community": 76,
+      "community": 46,
       "norm_label": "type"
     },
     {
@@ -31346,7 +31346,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_network_firepowerattackpayload_java_streamcodec",
-      "community": 76,
+      "community": 46,
       "norm_label": "streamcodec"
     },
     {
@@ -31356,7 +31356,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_network_firepowerattackpayload_java_registryfriendlybytebuf",
-      "community": 76,
+      "community": 46,
       "norm_label": "registryfriendlybytebuf"
     },
     {
@@ -31366,7 +31366,7 @@
       "source_location": "L17",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_network_firepowerattackpayload_firepowerattackpayload_type",
-      "community": 76,
+      "community": 46,
       "norm_label": ".type()"
     },
     {
@@ -31376,7 +31376,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_network_firepowerattackpayload_java_override",
-      "community": 76,
+      "community": 46,
       "norm_label": "override"
     },
     {
@@ -31386,7 +31386,7 @@
       "source_location": "L22",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_network_firepowerattackpayload_firepowerattackpayload_handle",
-      "community": 76,
+      "community": 46,
       "norm_label": ".handle()"
     },
     {
@@ -31396,7 +31396,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_network_firepowerattackpayload_java_ipayloadcontext",
-      "community": 76,
+      "community": 46,
       "norm_label": "ipayloadcontext"
     },
     {
@@ -31456,7 +31456,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_network_vasedesignpayload",
-      "community": 76,
+      "community": 46,
       "norm_label": "vasedesignpayload.java"
     },
     {
@@ -31466,7 +31466,7 @@
       "source_location": "L17",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_network_vasedesignpayload_vasedesignpayload",
-      "community": 76,
+      "community": 46,
       "norm_label": "vasedesignpayload"
     },
     {
@@ -31476,7 +31476,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_network_vasedesignpayload_java_type",
-      "community": 76,
+      "community": 46,
       "norm_label": "type"
     },
     {
@@ -31486,7 +31486,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_network_vasedesignpayload_java_streamcodec",
-      "community": 76,
+      "community": 46,
       "norm_label": "streamcodec"
     },
     {
@@ -31496,7 +31496,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_network_vasedesignpayload_java_registryfriendlybytebuf",
-      "community": 76,
+      "community": 46,
       "norm_label": "registryfriendlybytebuf"
     },
     {
@@ -31506,7 +31506,7 @@
       "source_location": "L22",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_network_vasedesignpayload_vasedesignpayload_type",
-      "community": 76,
+      "community": 46,
       "norm_label": ".type()"
     },
     {
@@ -31516,7 +31516,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_network_vasedesignpayload_java_override",
-      "community": 76,
+      "community": 46,
       "norm_label": "override"
     },
     {
@@ -31526,7 +31526,7 @@
       "source_location": "L27",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_network_vasedesignpayload_vasedesignpayload_handle",
-      "community": 76,
+      "community": 46,
       "norm_label": ".handle()"
     },
     {
@@ -31536,7 +31536,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_network_vasedesignpayload_java_ipayloadcontext",
-      "community": 76,
+      "community": 46,
       "norm_label": "ipayloadcontext"
     },
     {
@@ -33586,7 +33586,7 @@
       "source_location": "L186",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_recipe_vantaoilrecipe_vantaoilrecipe_nexthitduration",
-      "community": 54,
+      "community": 58,
       "norm_label": ".nexthitduration()"
     },
     {
@@ -33626,7 +33626,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_registry_modbanners",
-      "community": 68,
+      "community": 210,
       "norm_label": "modbanners.java"
     },
     {
@@ -33636,7 +33636,7 @@
       "source_location": "L11",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_registry_modbanners_modbanners",
-      "community": 68,
+      "community": 210,
       "norm_label": "modbanners"
     },
     {
@@ -33646,7 +33646,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_registry_modbanners_java_resourcekey",
-      "community": 68,
+      "community": 210,
       "norm_label": "resourcekey"
     },
     {
@@ -33656,7 +33656,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_registry_modbanners_java_bannerpattern",
-      "community": 68,
+      "community": 210,
       "norm_label": "bannerpattern"
     },
     {
@@ -33666,7 +33666,7 @@
       "source_location": "L15",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_registry_modbanners_modbanners_modbanners",
-      "community": 68,
+      "community": 210,
       "norm_label": ".modbanners()"
     },
     {
@@ -34356,7 +34356,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "datacomponents",
-      "community": 114,
+      "community": 88,
       "norm_label": "datacomponents"
     },
     {
@@ -34866,7 +34866,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_registry_moditems",
-      "community": 48,
+      "community": 165,
       "norm_label": "moditems.java"
     },
     {
@@ -34876,7 +34876,7 @@
       "source_location": "L31",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_registry_moditems_moditems",
-      "community": 48,
+      "community": 165,
       "norm_label": "moditems"
     },
     {
@@ -34886,7 +34886,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_registry_moditems_java_deferreditem",
-      "community": 48,
+      "community": 165,
       "norm_label": "deferreditem"
     },
     {
@@ -34896,7 +34896,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_registry_moditems_java_item",
-      "community": 48,
+      "community": 165,
       "norm_label": "item"
     },
     {
@@ -34906,7 +34906,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "bannerpatternitem",
-      "community": 48,
+      "community": 165,
       "norm_label": "bannerpatternitem"
     },
     {
@@ -34916,7 +34916,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "itemnameblockitem",
-      "community": 48,
+      "community": 165,
       "norm_label": "itemnameblockitem"
     },
     {
@@ -34926,7 +34926,7 @@
       "source_location": "L140",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_registry_moditems_moditems_moditems",
-      "community": 48,
+      "community": 165,
       "norm_label": ".moditems()"
     },
     {
@@ -34936,7 +34936,7 @@
       "source_location": "L143",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_registry_moditems_moditems_blockitems",
-      "community": 48,
+      "community": 165,
       "norm_label": ".blockitems()"
     },
     {
@@ -34946,7 +34946,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_registry_moditems_java_safevarargs",
-      "community": 48,
+      "community": 165,
       "norm_label": "safevarargs"
     },
     {
@@ -34956,7 +34956,7 @@
       "source_location": "L150",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_registry_moditems_moditems_blockitem",
-      "community": 48,
+      "community": 165,
       "norm_label": ".blockitem()"
     },
     {
@@ -34966,7 +34966,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_registry_moditems_java_deferredblock",
-      "community": 48,
+      "community": 165,
       "norm_label": "deferredblock"
     },
     {
@@ -34976,7 +34976,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_registry_moditems_java_block",
-      "community": 48,
+      "community": 165,
       "norm_label": "block"
     },
     {
@@ -34986,7 +34986,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_registry_moditems_java_blockitem",
-      "community": 48,
+      "community": 165,
       "norm_label": "blockitem"
     },
     {
@@ -35646,7 +35646,7 @@
       "source_location": "L72",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_setup_alchemysetup_alchemysetup_init",
-      "community": 58,
+      "community": 9,
       "norm_label": ".init()"
     },
     {
@@ -35656,7 +35656,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_setup_alchemysetup_java_ieventbus",
-      "community": 58,
+      "community": 9,
       "norm_label": "ieventbus"
     },
     {
@@ -35996,7 +35996,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_setup_compatsetup",
-      "community": 185,
+      "community": 9,
       "norm_label": "compatsetup.java"
     },
     {
@@ -36006,7 +36006,7 @@
       "source_location": "L9",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_setup_compatsetup_compatsetup",
-      "community": 185,
+      "community": 9,
       "norm_label": "compatsetup"
     },
     {
@@ -36016,7 +36016,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_setup_compatsetup_compatsetup_compatsetup",
-      "community": 185,
+      "community": 9,
       "norm_label": ".compatsetup()"
     },
     {
@@ -36026,7 +36026,7 @@
       "source_location": "L13",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_setup_compatsetup_compatsetup_init",
-      "community": 185,
+      "community": 9,
       "norm_label": ".init()"
     },
     {
@@ -36036,7 +36036,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_setup_compatsetup_java_ieventbus",
-      "community": 185,
+      "community": 9,
       "norm_label": "ieventbus"
     },
     {
@@ -36046,7 +36046,7 @@
       "source_location": "L16",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_setup_compatsetup_compatsetup_commonsetup",
-      "community": 185,
+      "community": 9,
       "norm_label": ".commonsetup()"
     },
     {
@@ -36056,7 +36056,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_setup_decorsetup",
-      "community": 93,
+      "community": 9,
       "norm_label": "decorsetup.java"
     },
     {
@@ -36066,7 +36066,7 @@
       "source_location": "L16",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_setup_decorsetup_decorsetup",
-      "community": 93,
+      "community": 9,
       "norm_label": "decorsetup"
     },
     {
@@ -36076,7 +36076,7 @@
       "source_location": "L17",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_setup_decorsetup_decorsetup_decorsetup",
-      "community": 93,
+      "community": 9,
       "norm_label": ".decorsetup()"
     },
     {
@@ -36086,7 +36086,7 @@
       "source_location": "L21",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_setup_decorsetup_decorsetup_init",
-      "community": 93,
+      "community": 9,
       "norm_label": ".init()"
     },
     {
@@ -36096,7 +36096,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_setup_decorsetup_java_ieventbus",
-      "community": 93,
+      "community": 9,
       "norm_label": "ieventbus"
     },
     {
@@ -36106,7 +36106,7 @@
       "source_location": "L25",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_setup_decorsetup_decorsetup_registercapabilities",
-      "community": 93,
+      "community": 9,
       "norm_label": ".registercapabilities()"
     },
     {
@@ -36116,7 +36116,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_setup_decorsetup_java_registercapabilitiesevent",
-      "community": 93,
+      "community": 9,
       "norm_label": "registercapabilitiesevent"
     },
     {
@@ -36126,7 +36126,7 @@
       "source_location": "L29",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_setup_decorsetup_decorsetup_commonsetup",
-      "community": 93,
+      "community": 9,
       "norm_label": ".commonsetup()"
     },
     {
@@ -36136,7 +36136,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_setup_farmsetup",
-      "community": 47,
+      "community": 9,
       "norm_label": "farmsetup.java"
     },
     {
@@ -36226,7 +36226,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "fireblock",
-      "community": 93,
+      "community": 9,
       "norm_label": "fireblock"
     },
     {
@@ -36556,7 +36556,7 @@
       "source_location": "L55",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_world_worldgenoptions_worldgenoptions_count",
-      "community": 73,
+      "community": 200,
       "norm_label": ".count()"
     },
     {
@@ -36566,7 +36566,7 @@
       "source_location": "L59",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_world_worldgenoptions_worldgenoptions_flag",
-      "community": 73,
+      "community": 134,
       "norm_label": ".flag()"
     },
     {
@@ -36696,7 +36696,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_world_feature_slateveinfeature",
-      "community": 73,
+      "community": 200,
       "norm_label": "slateveinfeature.java"
     },
     {
@@ -36706,7 +36706,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_world_feature_slateveinfeature_slateveinfeature",
-      "community": 73,
+      "community": 200,
       "norm_label": "slateveinfeature"
     },
     {
@@ -36716,7 +36716,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "orefeature",
-      "community": 73,
+      "community": 200,
       "norm_label": "orefeature"
     },
     {
@@ -36726,7 +36726,7 @@
       "source_location": "L15",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_world_feature_slateveinfeature_slateveinfeature_slateveinfeature",
-      "community": 73,
+      "community": 200,
       "norm_label": ".slateveinfeature()"
     },
     {
@@ -36736,7 +36736,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_world_feature_slateveinfeature_java_codec",
-      "community": 73,
+      "community": 200,
       "norm_label": "codec"
     },
     {
@@ -36746,7 +36746,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "oreconfiguration",
-      "community": 3,
+      "community": 200,
       "norm_label": "oreconfiguration"
     },
     {
@@ -36756,7 +36756,7 @@
       "source_location": "L19",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_world_feature_slateveinfeature_slateveinfeature_place",
-      "community": 73,
+      "community": 200,
       "norm_label": ".place()"
     },
     {
@@ -36766,7 +36766,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_world_feature_slateveinfeature_java_featureplacecontext",
-      "community": 73,
+      "community": 200,
       "norm_label": "featureplacecontext"
     },
     {
@@ -36776,7 +36776,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_rustichearth_world_feature_slateveinfeature_java_override",
-      "community": 73,
+      "community": 200,
       "norm_label": "override"
     },
     {
@@ -37086,7 +37086,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "placementfilter",
-      "community": 128,
+      "community": 134,
       "norm_label": "placementfilter"
     },
     {
@@ -37480,10 +37480,30 @@
       "norm_label": "0.0.0-beta.1 (sin publicar)"
     },
     {
-      "label": "[0.0.0-beta.2] - 2026-10-29",
+      "label": "[0.0.0-beta.3] - 2026-10-30",
       "file_type": "document",
       "source_file": "CHANGELOG.md",
       "source_location": "L10",
+      "_origin": "ast",
+      "id": "changelog_0_0_0_beta_3_2026_10_30",
+      "community": 173,
+      "norm_label": "[0.0.0-beta.3] - 2026-10-30"
+    },
+    {
+      "label": "Changed",
+      "file_type": "document",
+      "source_file": "CHANGELOG.md",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "changelog_changed",
+      "community": 173,
+      "norm_label": "changed"
+    },
+    {
+      "label": "[0.0.0-beta.2] - 2026-10-29",
+      "file_type": "document",
+      "source_file": "CHANGELOG.md",
+      "source_location": "L17",
       "_origin": "ast",
       "id": "changelog_0_0_0_beta_2_2026_10_29",
       "community": 173,
@@ -37493,9 +37513,9 @@
       "label": "Changed",
       "file_type": "document",
       "source_file": "CHANGELOG.md",
-      "source_location": "L12",
+      "source_location": "L19",
       "_origin": "ast",
-      "id": "changelog_changed",
+      "id": "changelog_changed_19",
       "community": 173,
       "norm_label": "changed"
     },
@@ -37958,96 +37978,6 @@
       "id": "docs_curseforge_project_description",
       "community": 176,
       "norm_label": "project_description.md"
-    },
-    {
-      "label": "project_vars.md",
-      "file_type": "document",
-      "source_file": "docs/curseforge/project_vars.md",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "docs_curseforge_project_vars",
-      "community": 157,
-      "norm_label": "project_vars.md"
-    },
-    {
-      "label": "CurseForge \u2014 Variables del proyecto",
-      "file_type": "document",
-      "source_file": "docs/curseforge/project_vars.md",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "docs_curseforge_project_vars_curseforge_variables_del_proyecto",
-      "community": 157,
-      "norm_label": "curseforge \u2014 variables del proyecto"
-    },
-    {
-      "label": "Proyecto",
-      "file_type": "document",
-      "source_file": "docs/curseforge/project_vars.md",
-      "source_location": "L10",
-      "_origin": "ast",
-      "id": "docs_curseforge_project_vars_proyecto",
-      "community": 157,
-      "norm_label": "proyecto"
-    },
-    {
-      "label": "Summary (campo *Summary*, editable en la web; l\u00edmite 200)",
-      "file_type": "document",
-      "source_file": "docs/curseforge/project_vars.md",
-      "source_location": "L22",
-      "_origin": "ast",
-      "id": "docs_curseforge_project_vars_summary_campo_summary_editable_en_la_web_l\u00edmite_200",
-      "community": 157,
-      "norm_label": "summary (campo *summary*, editable en la web; limite 200)"
-    },
-    {
-      "label": "Alternativas de summary",
-      "file_type": "document",
-      "source_file": "docs/curseforge/project_vars.md",
-      "source_location": "L30",
-      "_origin": "ast",
-      "id": "docs_curseforge_project_vars_alternativas_de_summary",
-      "community": 157,
-      "norm_label": "alternativas de summary"
-    },
-    {
-      "label": "Dependencias opcionales",
-      "file_type": "document",
-      "source_file": "docs/curseforge/project_vars.md",
-      "source_location": "L35",
-      "_origin": "ast",
-      "id": "docs_curseforge_project_vars_dependencias_opcionales",
-      "community": 157,
-      "norm_label": "dependencias opcionales"
-    },
-    {
-      "label": "Pendiente antes de subir",
-      "file_type": "document",
-      "source_file": "docs/curseforge/project_vars.md",
-      "source_location": "L39",
-      "_origin": "ast",
-      "id": "docs_curseforge_project_vars_pendiente_antes_de_subir",
-      "community": 157,
-      "norm_label": "pendiente antes de subir"
-    },
-    {
-      "label": "Publicado",
-      "file_type": "document",
-      "source_file": "docs/curseforge/project_vars.md",
-      "source_location": "L50",
-      "_origin": "ast",
-      "id": "docs_curseforge_project_vars_publicado",
-      "community": 157,
-      "norm_label": "publicado"
-    },
-    {
-      "label": "Tokens",
-      "file_type": "document",
-      "source_file": "docs/curseforge/project_vars.md",
-      "source_location": "L54",
-      "_origin": "ast",
-      "id": "docs_curseforge_project_vars_tokens",
-      "community": 157,
-      "norm_label": "tokens"
     },
     {
       "label": "0.0.0-beta.1.md",
@@ -135210,7 +135140,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CHANGELOG.md",
-      "source_location": "L10",
+      "source_location": "L17",
       "weight": 1.0,
       "source": "changelog_changelog",
       "target": "changelog_0_0_0_beta_2_2026_10_29",
@@ -135220,10 +135150,30 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CHANGELOG.md",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "changelog_changelog",
+      "target": "changelog_0_0_0_beta_3_2026_10_30",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CHANGELOG.md",
       "source_location": "L12",
       "weight": 1.0,
-      "source": "changelog_0_0_0_beta_2_2026_10_29",
+      "source": "changelog_0_0_0_beta_3_2026_10_30",
       "target": "changelog_changed",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CHANGELOG.md",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "changelog_0_0_0_beta_2_2026_10_29",
+      "target": "changelog_changed_19",
       "confidence_score": 1.0
     },
     {
@@ -135604,86 +135554,6 @@
       "weight": 1.0,
       "source": "g_proyectos_mods_minecraft_rustic_hearth_neoforge_1_21_1_docs_curseforge_logo_prompt_rustic_hearth_logo_de_curseforge",
       "target": "g_proyectos_mods_minecraft_rustic_hearth_neoforge_1_21_1_docs_curseforge_logo_prompt_prompt",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "docs/curseforge/project_vars.md",
-      "source_location": "L1",
-      "weight": 1.0,
-      "source": "docs_curseforge_project_vars",
-      "target": "docs_curseforge_project_vars_curseforge_variables_del_proyecto",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "docs/curseforge/project_vars.md",
-      "source_location": "L10",
-      "weight": 1.0,
-      "source": "docs_curseforge_project_vars_curseforge_variables_del_proyecto",
-      "target": "docs_curseforge_project_vars_proyecto",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "docs/curseforge/project_vars.md",
-      "source_location": "L50",
-      "weight": 1.0,
-      "source": "docs_curseforge_project_vars_curseforge_variables_del_proyecto",
-      "target": "docs_curseforge_project_vars_publicado",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "docs/curseforge/project_vars.md",
-      "source_location": "L54",
-      "weight": 1.0,
-      "source": "docs_curseforge_project_vars_curseforge_variables_del_proyecto",
-      "target": "docs_curseforge_project_vars_tokens",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "docs/curseforge/project_vars.md",
-      "source_location": "L30",
-      "weight": 1.0,
-      "source": "docs_curseforge_project_vars_proyecto",
-      "target": "docs_curseforge_project_vars_alternativas_de_summary",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "docs/curseforge/project_vars.md",
-      "source_location": "L35",
-      "weight": 1.0,
-      "source": "docs_curseforge_project_vars_proyecto",
-      "target": "docs_curseforge_project_vars_dependencias_opcionales",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "docs/curseforge/project_vars.md",
-      "source_location": "L39",
-      "weight": 1.0,
-      "source": "docs_curseforge_project_vars_proyecto",
-      "target": "docs_curseforge_project_vars_pendiente_antes_de_subir",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "docs/curseforge/project_vars.md",
-      "source_location": "L22",
-      "weight": 1.0,
-      "source": "docs_curseforge_project_vars_proyecto",
-      "target": "docs_curseforge_project_vars_summary_campo_summary_editable_en_la_web_l\u00edmite_200",
       "confidence_score": 1.0
     },
     {
@@ -136878,5 +136748,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "ee90e921452a9dbac3210ee559ae6e8c71d0fcfa"
+  "built_at_commit": "11d90644e83271f7dbf25a808b0debd27423d274"
 }
