@@ -7,6 +7,13 @@
 - Icono propio (`icon.png`) y `docs/IDS_RUSTIC_HEARTH.md`: tabla de equivalencias de los 66 ids `rustic:*` que usan las plantillas de Ancient Warfare 2 (51 iguales, 10 con mapeo, 5 de tile entity descartables), con un script de comprobación.
 - `build` y `runServer` verificados (el servidor arranca limpio). **No probado in-game**: render, bloques, máquinas de alquimia, cultivos y colmenas.
 
+## [0.0.0-beta.3] - 2026-10-30
+
+### Changed
+
+- **Variables de CurseForge**: `docs/curseforge/project_vars.md` pasa a `docs/curseforge/project.env` (formato env: `PROJECT_ID`, `GAME_VERSIONS`, `RELEASE_TYPE`, `RELATIONS`). La documentación genérica se centraliza en `codex-docs/reference/CURSEFORGE.md` y los scripts de subida y consulta leen el nuevo fichero.
+- **Sin cambios en el mod**: solo documentación y tooling. Versión **exenta de subida a CurseForge** (no hay JAR nuevo que publicar); se versiona por ser un cambio de proceso importante.
+
 ## [0.0.0-beta.2] - 2026-10-29
 
 ### Changed
